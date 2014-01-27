@@ -25,8 +25,6 @@ Ce que devons co-construire aujourd'hui.
 
 Une économie numérique qui est une économie du possible et du présent. Celle dont devons nous emparer.
 
-Alexandre Monin
-
 
 
 
@@ -49,8 +47,9 @@ Gildas Illien, des catalogues de bibliothèques dans LOD
 ------
 
 data.bnf.fr
-Présents dans la salle seulement 4 qui connaisse  les données de bibliothèques
+Parmi les personnes présentes dans la salle, seulement 4 qui déclarent bien connaître les données de bibliothèques
 
+Mentionne ses collaborateurs :
 Caroline qui est en première ligne pour partage
 Agnela Angeli sur les référentiels
 Agnès Simon chef du projet Data.Bnf.fr
@@ -249,7 +248,7 @@ Les enjeux de la publication rejoignent aujourd'hui.hui de plus en plus ceux de 
 Nouveaux standards sur la provenance
 
 ### Rmq perso
-Conclusion importante et politique
+Conclusion importante et politique 
 
 
 
