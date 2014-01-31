@@ -7,7 +7,7 @@ Ces notes sont mises à disposition en l'état, sans avoir été relues notammen
 
 Elles sont mises à disposition sous [licence CC-BY-SA](https://github.com/publicarchitectura/syllabiDh/blob/master/LICENSE.md)
 
-Un [guide rapide](https://github.com/publicarchitectura/syllabiDh/blob/master/CONTRIBUTING.md) pour contribuer.
+Un guide rapide pour [contribuer](https://github.com/publicarchitectura/syllabiDh/blob/master/CONTRIBUTE.md).
 
 Vous êtes invités à proposer des corrections éventuelles sous forme de pull request.
 
