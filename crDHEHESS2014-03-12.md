@@ -191,6 +191,37 @@ Comment extraire et conder les informations que ces documents contiennent en uti
 Quel est le salaire moyen d'un apprenti en 1622 ? Combien de fils de peintres sont eux-même...
 
 Les cartes du passé sont riches de détail. Des caractéristiques représentationnelles qui ne sont pas du tout celles d'aujourd'hui.
+Comment traiter différents états sans perdre information.
+Paradigme informationnels qui changent.
+Des cartes qui du jour au lendemain sont alignables sur des cartes contemporaines et nous permette de suivre l'évolution de la ville dans le temps. Comment aligne ces informations dans le temps ? résoudre "un sudoku géant" en croisant les informations. Une information relative. En fait un peu comme un grand emploi du temps, très difficile à faire à la main. Ici que les algorithmes peuvent nous venir en aide.
+
+Des informations disparates dont on a la possibilité de les aligner de manière numérique. A vos risques et périls. Montrer les mécanismes sous-jacents. Réfléchir à ce qu'est cet objet intellectuellement. Evidemment ne peut mener se projet à la stricte échelle de la ville. Comment les véniciens réussissent à maintenir une domination mondiale sans rivale.
+
+Système régulier des bateaux = respiration
+d'un film, peut passer à questions différentes qui seront celle des chercheurs quel risque de rencontrer les pirates en 1322, quel date prochain bateau pour Constantinople.
+Algorithmes pour tracer route d'un bateau. Ce que fait ressortir la carte, c'est que fasse à ce débat va devoir visualiser les enjeux : hypothèse du cabotage, etc.
+Rôle de médiation que ces objest vont être amenés à produire.
+
+Former nouvelle génération d'étudiants capables de produire et manipuler ce genre d'algorithme, mais aussi être capables d'avoir le recul épistémologique nécessaire.
+Cette nouvelle génération qui déterminera également le succès ou l'échec de ce genre d'entreprise. N'enlèvera pas le travail de terrain. De cette rencontre réussie ou non que les projets vont réussir ou échouer. Les algorithmes pourront être les médiateurs de ces projets.
+
+Conviction profonde dans les écoles d'informatiques que dans ce genre de questions que se cachent les problèmes les plus durs de l'informatique : question du temps, question de la gestion de l'incertitude, représentation de la réalité, qui sont des questions pour lesquelles l'informatique pas encore de réponse absolue.
+Comment les départements des humanités tout en gardant leur ancrage disciplinaire peuvent donner leur contribution.
+
+Un master qui va toucher les étudiants info EPFL algo, etc.
+Côté UNIL en plein chantier. Sans doute pour les sciences humaines plus adéquat d'avoir 30 crédits DH à accoler aux master pour que les étudiants mutent vers cette nouvelle science que l'on espère. Vérifie dans ces différents projets que besoin de spécialistes de différents champs. On tatônne.
+
+
+Discussion
+--------
+
+Question que je me posais en prenant le rôle de l'avocat du diable qui doit souvent être opposé à ces présentations bien conçues, convaincantes.
+
+Beaucoup de gens peuvent percevoir des présentations comme cela comme une nouvelle table rase. Car lors dit que va former nouvelle génération qui lira ces documents, impression que va éliminer ceux qui peuplaient déjà ces archives. Comment va réutiliser ce qui a déjà été fait. Car déjà des modélisations. Comment réutilise ça ?
+
+R : pas du tout parlé de littérature secondaire. Mais la base, vu que la numérisation commence. Sur l'exemple système de mercato, meilleures sources thèses de doctorat. Reprise des données à partir des tableaux des annexes. Reconstruction du film des déplacements.
+
+Extraordinaire raccourci car travail qui lui a pris dix ans, permis gain de temps. Mais relevé des problèmes internes dans la modélisation.
 
 
 
@@ -204,6 +235,10 @@ RMQ perso
 
 Difficulté avoir bonne personne bon endroit
 morcellement Suisse / proximité // Fr
+
+Kaplan
+Quelle garantie choix des modèles adéquats pour ne pas avoir à refaire le travail
+
 
 
 
