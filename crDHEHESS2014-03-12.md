@@ -219,9 +219,68 @@ Question que je me posais en prenant le rôle de l'avocat du diable qui doit sou
 
 Beaucoup de gens peuvent percevoir des présentations comme cela comme une nouvelle table rase. Car lors dit que va former nouvelle génération qui lira ces documents, impression que va éliminer ceux qui peuplaient déjà ces archives. Comment va réutiliser ce qui a déjà été fait. Car déjà des modélisations. Comment réutilise ça ?
 
-R : pas du tout parlé de littérature secondaire. Mais la base, vu que la numérisation commence. Sur l'exemple système de mercato, meilleures sources thèses de doctorat. Reprise des données à partir des tableaux des annexes. Reconstruction du film des déplacements.
+K pas du tout parlé de littérature secondaire. Mais la base, vu que la numérisation commence. Sur l'exemple système de mercato, meilleures sources thèses de doctorat. Reprise des données à partir des tableaux des annexes. Reconstruction du film des déplacements.
 
 Extraordinaire raccourci car travail qui lui a pris dix ans, permis gain de temps. Mais relevé des problèmes internes dans la modélisation.
+A aucun moment le sérieux contesté, mais cohérence jamais testée par les reviewers.
+
+Claire Clivaz
+Question du scribe qui doit exploser.
+Ici pb avec la TEI car joue en partie ce rôle.
+
+EC De loin des lectures automatiques
+Dès lors modèles mobilisés cruciaux, car réduction de la réalité.
+Ampleur du projet, raccourcis
+
+K Contrats d'apprentissage. 60000 contrats numérisés. Tous une structure informationnelle très proche.
+Le choix de l'équipe d'historien qui a travaillé sur ce projet, considéré que la transcription pas intéressante mais un modèle d'encodage. Premier aspect du projet de déterminer une ontologie.
+Une importance capitale, cela tous les historiens l'assument. Important que soit documenté. Puis processus de dépouillement classique. S'est contenté d'améliorer l'ergonomie du dépouillement.
+encodage direct
+
+À côté de cela projet d'alignement entre les images et documents transcrits. Pas de lecture automatique, mais problématique proche de la transcription de la parole. Chaîne de markows cachées, etc. regarde cela avec des philologues pour juger du processus d'alignement. Alors des bases de données qui pourront servir de bases d'apprentissage.
+
+Dernière approche intermédiaire, qui étonnamment marche assez bien. Regarder les manuscrits et faire une analyse visuelle. Est-on capable de détecter qu'il s'agit du même mot. Si 10 000 mots à transcrire, possible de retrouver chaînes identiques. Alors peut considérer que dans certains cas la transcription a besoin de l'œil du philologue, mais possible de faire une transcription partielle en faisant minimum d'effort.
+
+EC question investissement sur les ontologies
+
+K Alignement possible entre des ontologies différentes. Une dimension sociale de la recherche qui sont ici posées.
+
+Aurélien : un très gros projet que lance, dimension de prototype. Prêt à faire beaucoup de branding, pour chercher financement, etc.
+De l'autre côté disciplines où habitués à gérer de petits projets. Une difficulté à faire dialoguer ces deux cultures. Clash que rencontre entre EPFL et UNIL.
+
+K : aussi faire rencontrer des mécennes et les projets. Intransigeants sur l'aspect open data. Condition nécessaire pour financer la numérisation que les archives soient mises à disposition de tous. Signature de l'accord il y à deux semaines. Dès lors un basculement, étant donné cette création de bien commun, qui veut en être le facilitateur.
+Une culture de réussite de projets de ce type par le passé à l'EPFL qui fait que l'on est obtimiste. Ici pas de pb de conflits d'intérêt, etc. contrairement à d'autres domaines.
+
+Aurélien : Mais porte sur des méga-objets. Dès lors qu'étend au bassin méditérannéen, démultiplie les besoins... et pas toujours les mêmes réponses sociales dans d'autres pays. Bien sûr l'algorithmie ici peut être une réponse.
+
+K : Bassin méditérannéen précisément en partie documenté dans les archives vénitiennes. Mais en toute logique aimerait compenser par les archives viénnoises, turques, etc.
+Mais financements compétitifs qui ensuite peuvent se construire. Ensuite possible d'avoir une logique locale de financement qui vient compléter le projet réalisé. En fait de l'argent partout, une envie de coordination, si les gens se ralient au projet.
+
+CC : qu'est-ce que l'on fait, qu'est-ce que l'on ne fait pas. De quoi va faire l'histoire, à quoi va-t-on s'intéresser. Pour moi des questions trop importantes pour que les laisse de côté.
+Récemment Frédéric Shutz responsable wikimédia Suisse, réflexion sur la valorisation des sources orales. Alors, possibilité de refaire la balance entre les archives écrites conservées et les traditions orailes.
+
+Resarch:Oral Citations
+people are knowledge
+Lancé par une collègue indienne pour voir de quelle manière dans les wikicommons pourrait avoir accès aux traditions orales.
+
+Équilibre entre le savoir et le pouvoir
+Des sponsors, mécennes, pour tout.
+
+Pierre : Rien ne se fait jamais sans contrepartie. En particulier dans le choix des projets de recherche. Le sponsors finance ce qui l'intéresse.
+
+K Les projets qui choisissent leurs mécennes.
+
+EC : savoirs/pouvoirs, reconnaissance contributions, participation construction des objets. Wikipédia.
+
+K applatissement wikipédia. à l'encontre tradition des grades italiens. Hiérarchie stricte en italie. Garants par leurs faits d'arme passé de la légitimité historique. Cela que fait collapser dès lors que met au contact 10 000 étudiants avec 10 000 documents. Par certains côté, un choix. Ou bien dit qu'il y a un modèle à la wikipédia avec contributeurs en méritocratie et logique du nombre avec la force d'une telle approche. L'enjeu de la main invisible du marché, et libre connaissance. Une promesse de la libre connaissance et le fait que si des personnes veulent influencer l'histoire et sont bien organisées, alors peuvent le faire.
+Faire tomber les tours d'ivoire de la connaissance, une chose. Savoir si le commentaire doit être ouvert à tout le monde. Savoir si libre marché de la connaissance. Avoir conscience que Wikipédia une idéologie.
+
+Pierre : Ne voit toujours pas l'articulation entre vos deux positions. Claire tu insistes sur la dimension matérielle physique, le rapport au corps dans l'activité digitale. Cela apporte la singularité de l'expérience, la singularité de l'interprétation : l'herméneute que Socrate balance à Ion. Mais ne comprend pas comment s'articule avec ce que propose K, qui correspond plutôt à du distant reading, la terre vue de haut. On voit bien que l'inscription des représentations, des modèles des savants, pas le cœur du projet.
+
+CC : Oui, alternative sans doute emblématique des DH et que retrouve à tous les niveaux. Spécialiste du détail. Notre job, montrer la complexité du réel et de travailler avec le réel. La mouche du coche. Une mission à rester en dialogue constant, rappeller le moment où l'acte herméneutique important perturbe tout le système.
+Quatre ans que j'essaye de dialoguer. Prendre conscience de l'aiguillon, et de la spécificité des Sciences humaines. Se planteront sans nous, nous ne ferons rien sans eux.
+Intéressant de faire émerger toute cette activité et dans leurs diverses formes. En fait amis. Beaucoup de plaisir dans notre atelier avec les doctorants. Au final important de connaître ces différentes cultures. Comprendre des discours construits de manière différente. Comment ces gens se posent tels ou tels problèmes. Moment où doit faire des choix fous pour participer à cette herméneutique.
+
 
 
 
