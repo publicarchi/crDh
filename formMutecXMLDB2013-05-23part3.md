@@ -8,7 +8,7 @@ Information retrieval
 ----------------
 
 L'Information Retrieval (IR) concerne la découverte d'information, pas des données.
-Elle est centrée sur le plein texte, pas sur la structure des documents.
+Elle est centrée sur le plein texte, plutôt que sur la structure des documents.
 
 
 #### Historique

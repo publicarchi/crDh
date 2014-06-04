@@ -309,7 +309,7 @@ XML, XSLT, standardisés ISO, sont donc également ici pour durer.
 ```
 
 [XRX (web application architecture)](http://en.wikipedia.org/wiki/XRX_(web_application_architecture))
-" Dans le développement logiciel XRX est une architecture d'application absée sur XForms, REST et XQuery. Les applications XRX gèrent les données à la fois du côté du client web et du serveur web dans un format XML et ne nécessitent pas de conversions de formats de données. XRX est considéré comme une architecture d'application simple et élégante du fait du nombre minimal de conversion nécessaire pour transporter les données entre le client et le système serveur. L'architecture XRX est également très étroitement couplé aux standards du W3C (CSS, XHTML 2.0, XPath, XML Schema) pour assurer aux applications XRX une robustesse dans le temps. Comme les applications XRC sont basées sur des langages déclaratifs modernes côté client et des langages fonctionnels côté serveur, elles sont conçues pour être facilement appropriable par des non-dévelopeurs qui ne sont pas familiers des langages impératifs traditionnels tels que JavaScript ou .Net. "
+" Dans le développement logiciel XRX est une architecture d'application absée sur XForms, REST et XQuery. Les applications XRX gèrent les données à la fois du côté du client web et du serveur web dans un format XML et ne nécessitent pas de conversions de formats de données. XRX est considéré comme une architecture d'application simple et élégante du fait du nombre minimal de conversion nécessaire pour transporter les données entre le client et le système serveur. L'architecture XRX est également très étroitement couplée aux standards du W3C (CSS, XHTML 2.0, XPath, XML Schema) pour assurer aux applications XRX une robustesse dans le temps. Comme les applications XRC sont basées sur des langages déclaratifs modernes côté client et des langages fonctionnels côté serveur, elles sont conçues pour être facilement appropriable par des non-dévelopeurs qui ne sont pas familiers des langages impératifs traditionnels tels que JavaScript ou .Net. "
 
 L'utilisation de XForms et de XQuery avec une base de données XML native permet de réaliser toutes les opérations Create/Read/Update/Delete (CRUD) ainsi que la recherche, sans middleware. "The result is increased simplicity" (Erik Buchez, XForms and eXist : A Perfect Couple, novembre 2007)
 
@@ -343,9 +343,9 @@ La **présentation** qui est XHTML.
 
 Évidemment le site ressemble à une application conventionnelle. Mais dans la barre d’adresse, on peut déjà s'apercevoir que l’on utilise REST.
 
-L'architetcure générale consiste en une application web qui propose des services, des formulaires, etc. Côté serveur (servelt : cookies, sessions, templating), puis DB client BAseX
+L'architecture générale consiste en une application web qui propose des services, des formulaires, etc. Côté serveur (servelt : cookies, sessions, templating), puis DB client BaseX
 
-Le controlleur prend en Input une valeur déterminée par l’url. Prend un template comme input supplémentaire, traité par XQuery, puis le résultat renvoyé au client. Dans le principe, pas crucialement différent de PHP, simplement on utilise des langages différents. Et selon les cas, opérations XForms, soit côté serveur, soit côté client.
+Le contrôleur prend en input une valeur déterminée par l’url. Prend un template comme input supplémentaire, traité par XQuery, puis le résultat renvoyé au client. Dans le principe, pas crucialement différent de PHP, simplement on utilise des langages différents. Et selon les cas, opérations XForms, soit côté serveur, soit côté client.
 
 
 Client				Appli			Serveur

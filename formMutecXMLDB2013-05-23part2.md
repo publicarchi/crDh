@@ -14,15 +14,15 @@ BaseX peut être lancé de plusieurs manières :
 Démarrage de l'application (GUI)
 ---------------
 
-Le GUI est l'inteface visuelle aux fonctionnalités de BaseX. On peut l'utiliser pour créer de nouvelles bases de données, réaliser des requêtes ou explorer interactivement vos données XML.
+Le GUI fournit une interface visuelle pour les différentes fonctionnalités de BaseX. On peut l'utiliser pour créer de nouvelles bases de données, réaliser des requêtes ou explorer interactivement ses données XML.
 
 Après avoir téléchargé BaseX et lancé l'installation, l'interface graphique utilisateur (GUI) peut être lancée de la manière suivante :
 
-- Double-cliquez sur l'icone `BaseX.jar` ou bien exécutez le script `basegxgui`.
+- en double-cliquant sur l'icone `BaseX.jar` qui est une archive java exécutable.
 
-D'autres options de démarrages sont également possibles :
+D'autres options de démarrage sont également possibles :
 
-- exécuter l'un des scripts `basexgui`ou `basexgui.bat`
+- exécuter l'un des scripts `basexgui`ou `basexgui.bat` placés dans le répertoire `bin/`.
 - exécuter la commande `java -cp BaseX.jar org.basex.BasexGUI`
 
 Notez que l'interface graphique utilisateur (GUI) n'interagit pas avec l'architecture client/serveur.
@@ -55,7 +55,7 @@ De même, on peut utiliser le texte des requêtes optimisées apparaissant dans 
     `//name` est optimisé en
     `db:open-pre("factbook",0)/descendant::*:name`
 
-RMQ : Nota, il est possible d’utiliser le module de visualisation pour montrer les chemins XPath en direct. (exploitation pédagogique possible).
+RMQ : Nota, il est possible d’utiliser le module de visualisation pour montrer les chemins XPath en direct (exploitation pédagogique possible).
 
 Écrire les requêtes en XQuery, le système se charge de l'analyse abstraite des choses. Si on rencontre un problème, alors regarder les questions de performances et optimiser éventuellement la recherche.
 
@@ -72,7 +72,7 @@ Exemple : filtrer la population
 
     `//country[@population > 1000][name != "China"]`
 
-Possibilité de personnaliser ses visualisation, mais compliqué car le module est écrit en java !
+Il est possible de personnaliser la visualisation, mais c'est compliqué car le module est écrit en java !
 
 Fonctions XQuery pour fournir input, puis utiliser des fonctions de visualisation pour JSON avec un framework externe spécialement programmé pour connecter des données d’utilisateur pour des visualisation cools. Certaines personnalisables dynamiquement et leur effort principal. Sans doute un choix plus intelligent. Par exemple, utiliser [D3](https://github.com/mbostock/d3)
 
@@ -116,56 +116,58 @@ http://docs.basex.org/wiki/Web_Application
 Créér une requête
 
 ```xquery
-    Module namespace _ =”http…” ;
-    Declare function _ :_() {
+    Module namespace _ = "http…" ;
+    Declare function _:_() {
     <html/>
     } ;
 ```
 
 ```xquery
-    Module namespace _ =”http…” ;
-    declare function _ :_() {
-    %restxq :path(‘test’)
-    %output :method(‘html’)
+    Module namespace _ = "http…" ;
+    declare function _:_() {
+    %restxq:path('test')
+    %output:method('html')
     <html>
-    <form action=”test”>
-    <input …
+        <form action="test">
+            <input …
+        </form>
     </html>
     } ;
 ```
 
 ```xquery
-    Module namespace _ =”http…” ;
-    declare function _ :_() {
+    Module namespace _ = "http…" ;
+    declare function _:_() {
     %restxq :path(‘test’)
-    %restxq :query-param(”query”, “{$query}”)
+    %restxq :query-param("query", "{$query}")
 
-    %output :method(‘html’)
+    %output :method('html')
     <html>
-    <form action=”test”>
-    <input name=”query” value=”{ $query }” />
-    <input type=”submit” />
-    </form>
+        <form action="test">
+            <input name="query" value="{ $query }" />
+            <input type="submit" />
+        </form>
     </html>
 } ;
 ```
 
 ```xquery
-    Module namespace _ =”http…” ;
-    declare function _ :_() {
-    %restxq :path(‘test’)
-    %restxq :query-param(”query”, “{$query}”)
+    Module namespace _ ='http…" ;
+    declare function _:_() {
+    %restxq :path('test')
+    %restxq :query-param("query", "{$query}")
 
     %output :method(‘html’)
     <html>
-    <form action=”test”>
-    <input name=”query” value=”{ $query }” />
-    <input type=”submit” />
-    </form>
-    <ul>
-    for $c in doc(‘…
-    return <li>{ $c/…
-    }</ul>
+        <form action="test">
+            <input name="query" value="{ $query }" />
+            <input type="submit" />
+        </form>
+        <ul>
+            for $c in doc('…
+            return <li>{ $c/…
+        }
+        </ul>
     </html>
     } ;
 

@@ -8,7 +8,7 @@ Formation BaseX, speech n° 4, RESTXQ : Construire des Applications Web
 
 De plus en plus d’applications sont aujourd’hui entièrement basées sur les technologies du web. Précédemment sur le bureau, mais de plus en plus web, le plus souvent basées sur l'utilisation de JavaScript, HTML5. Il manque la possibilité de travailler directement avec XML.
 
-Une telle approche présente plusieurs avantages, elle permet notamment de tirer partie de l'_ubiquité_ des navigateurs web qui fonctionnent sur la pluspart des plateformes modernes.
+Une telle approche présente plusieurs avantages, elle permet notamment de tirer parti de l'_ubiquité_ des navigateurs web qui fonctionnent sur la pluspart des plateformes modernes.
 
 De nombreuses applications sont aussi construites sur des _sites web_ et des _services web_.
 Les technologies populaires côté serveur sont plutôt PHP, Python, Ruby on Rails, ASP, JSP.
@@ -22,41 +22,130 @@ REST : Representational State transfer
 
 REST est un paradigme de programmation pour les applications web. Il est basé sur la [thèse de Roy Fielding de 2001](http://opikanoba.org/tr/fielding/rest/) (un des auteurs de la spécification http).
 
-Chaque REST Service unique adresse (qui est l’URI)
-Un service peut retourner différentes représentation de la ressource adressée XML, JSON
-REST services sont statelesss : contiennent toutes les informations pour comprendre un message.
-Services doivent supporter divers..
+REST repose sur cinq principes
+- Chaque service REST dispose d'une _adresse unique_ (qui est l’URI)
+- Un service peut retourner _différentes représentations_ de la ressource adressée XML, JSON, etc.
+- Les services REST sont dits _sans états_ (_statelesss_) : chaque requête contient toutes les informations qui permettent de comprendre un message.
+- Les services doivent supporter _un ensemble défini d'opérations_ (HTTP: GET, POST, etc.)
+- L'utilisation de l'hypermédia : on utilise les liens pour changer d'état l'application
 
-RESTXQ : RESTful Applications with XQuery
-Présenté 2012 par Adam Retter à la conférence Prague XML.
+
+### RESTXQ : Des applications RESTful avec XQuery
+
+RESTXQ est une proposition de normalisation présentée en 2012 par Adam Retter à la conférence Prague XML.
+
 Motivation
-Pas de std pour XML XQuery no std web capacity
-…
+Pas de std pour XML et XQuery pour des services web (web capability)
+Les extensions HTTP/web sont spécifiques aux vendeurs et de ce fait non portables
 
-utiliser un namespace fixe
-en BaseX restxq
+Solution
+La solution proposée est inspirée de la stardisation de l'API JAX-RS
+Elle utilise un ensemble prédéfini d'annotations faisant correspondre des fonctions XQuery à des requêtes HTTP
+XQuery génère et retourne ainsi des réponses HTTP
 
-Méthodes http
-Équivalent des http request methods excepté pour TRACE et CONNECT
+
+### Les annotations RESTXQ
+
+Les annotations RESTXQ utilisent l'espace de nom prédéfini : http://exquery.org/ns/restxq
+Avec BaseX cet espace de nom est lié au préfixe 'restxq' et toutes les fonctions XQuery doivent être contenues dans un module de bibliothèque (_library module_)
+cf. http://docs.basex.org/wiki/RESTXQ
+
+#### Chemins
+
+- Une fonction ressource RESXQ doit avoir une seule annotation de chemin qui reçoit une simple chaîne de caractères comme argument pouvant contenir des segments de chemin (_path segments_) et des motifs (_templates_)
+- **un motif** ('template') contient une variable entre accolades ; ses valeurs sont assignées aux arguments correspondant de la fonction XQuery
+- la fonction sera évaluée si une requête HTTP correspond au chemin
+
+Cet exemple contient une annotation de chemin avec un simple segment de chemin :
+```xquery
+    module namespace _ = 'http://dbis.uni-konstanz.de/';
+    declare %restxq:path("/main") function _:main() {
+        <html>
+            <h1>Welcome to this start page</h1>
+        </html>
+        };
+```
+
+L'exemple suivant utilise un segment et un motif :
+```xquery
+    (: ...omitting the module namespace... :)
+    declare %restxq:path("/search/{$name}") function _:search($name) { "Specified name: " || $name
+    };
+```
+
+
+### Méthodes http
+
+Équivalent des méthodes de requête HTTP excepté pour TRACE et CONNECT :
 GET, POST, PUT, DELETE, HEAD, OPTIONS
-Une ressource de fonction peut avoir zéro ou plusieurs méthodes d’annotations /
 
-declare %restxq:DELETE %restxq:path(”/”) fucntion _:root($name) { "You have specified the root path and the DELETE method." };
+Une fonction ressource peut avoir _zéro ou plusieurs_ annotations de méthode :
 
-Si aucune méthode n’est spécifiée la fonction sera invoquée pour toutes les méthodes.
-POST et PUT annotations peuvent prendre une chaîne optionnelle comme argument.
+```xquery
+    declare %restxq:DELETE
+            %restxq:path("/")
+    function _:root($name) { "You have specified the root path and the DELETE method."
+    };
+```
 
-declare %restxq:PUT %restxq:path(”/upload”) fucntion _:up(
-  $data as xs:base64Binary) {
-    file:write-binary('/tmp' || …
+Si aucune méthode n’est spécifiée, la fonction sera invoquée pour toutes les méthodes.
+Les annotations de méthode POST et PUT peuvent prendre une chaîne optionnelle comme argument.
 
-Types de contenu content types
-Une fonction peut être restreinte à un type de contexte, …
+```xquery
+    declare %restxq:PUT("{$data}")
+            %restxq:path("/upload")
+    function _:up($data as xs:base64Binary) {
+        file:write-binary('/tmp/' || prof:current-ns(), $data), "Uploaded!"
+    };
+```
 
-Paramètres de requête (query parameters)
-Une annotation de paramètre de recherche peut prendre un ou deux arguments.
 
-HTML Form Fields
+### Types de contenu (_content types_)
+
+Une fonction peut être restreinte à un type de contenu ; elle ne sera invoquée que si le header _Content-Type_ de la requête correspond au type spécifié :
+
+```xquery
+    declare %restxq:consumes("application/xml", "text/xml")
+            %restxq:path("/whatever")
+    function _:_() {
+        "The specified content type header is either application/xml or text/xml."
+    };
+```
+
+### Accept
+
+Une fonction peut être restreinte à un header Accept :
+
+```xquery
+    declare %restxq:produces("application/atom+xml")
+            %restxq:path("/whatever")
+    function _:_() {
+        "The specified Accept header is application/atom+xml"
+    };
+```
+
+### Paramètres de requête (_query parameters_)
+
+L'URI d'une requête HTTP peut contenir une chaîne de requête (_query string_), qui est habituellement résolue sous forme de noms/valeurs. (e.g. www.bing.com/search?q=search+terms).
+
+Une annotation de paramètre de recherche prend deux arguments ou plus :
+- le premier argument contient le nom du paramètre de requête
+- le second argument contient le nom de la variable à laquelle elle doit être liée
+- les arguments restant seront liés à la variable si la requête HTTP ne contient pas de nom correspondants :
+
+```xquery
+    declare %restxq:query-param("q", "{$terms}")
+            %restxq:path("/search")
+    function _:_($terms as xs:string*) {
+        "The following terms were specified in the query:" || $terms
+    };
+```
+
+Remarquez que le nom d'une variable peut être spécifié plusieurs fois.
+
+
+### Champs de formulaires HTML
+
 Paramètres de formulaires qui peuvent être passés quand POST est utilisé
 Leurs valeurs sont extraintes en RESTXQ à la fois de POST ou de GET.
 …
