@@ -3,7 +3,6 @@ Formation BaseX, speech n° 4, RESTXQ : Construire des Applications Web
 
 [cf. diapos "05 Web Applications.pdf]
 
-
 ### Les applications web
 
 De plus en plus d’applications sont aujourd’hui entièrement basées sur les technologies du web. Précédemment sur le bureau, mais de plus en plus web, le plus souvent basées sur l'utilisation de JavaScript, HTML5. Il manque la possibilité de travailler directement avec XML.
@@ -154,7 +153,7 @@ La syntaxe est la même que pour les paramètres de requête :
 
 ```xquery
     declare %restxq:form-param("q", "{$terms}")
-            %restxq:path("/search") 
+            %restxq:path("/search")
     function _:_($terms as xs:string*) {
         "Specified query terms:" || $terms
     };
@@ -174,7 +173,7 @@ Un snippet HTML gèrant la requête pourrait prendre la forme suivante :
 Une requête HTTP peut également contenir des informations utiles qui peuvent être liées à des variables de la manière suivante :
 
 ```xquery
-    declare %restxq:header-param("User-Agent","{$agent}") 
+    declare %restxq:header-param("User-Agent","{$agent}")
             %restxq:path("/check-agent") function _:_($agent) {
                 "You are using '" || $agent || "' as browser/crawler."
             };
@@ -186,8 +185,8 @@ Une requête HTTP peut également contenir des informations utiles qui peuvent �
 Il est également possible de lier des cookies à des variables :
 
 ```xquery
-    declare %restxq:cookie-param("User-Agent","{$agent}") 
-            %restxq:path("/check-agent") 
+    declare %restxq:cookie-param("User-Agent","{$agent}")
+            %restxq:path("/check-agent")
     function _:_($agent) {
         "You are using '" || $agent || "' as browser/crawler."
     };
@@ -199,9 +198,9 @@ Par défaut tous les résultats sont retournés avec `application/xml` comme typ
 Le type de contenu peut être surchargé au moyen de paramètres de sérialisation, qui seront liés au prefix `output` :
 
 ```xquery
-    declare %output:media-type("text/plain") 
-            %restxq:path("") 
-    function _:_() { 
+    declare %output:media-type("text/plain")
+            %restxq:path("")
+    function _:_() {
         "KISS (or: keep it simple, stupid)"
     };
 ```
@@ -209,9 +208,9 @@ Le type de contenu peut être surchargé au moyen de paramètres de sérialisati
 Le type peut aussi être modifié en spécifiant une autre méthode de sortie :
 
 ```xquery
-    declare %output:method("html") 
-            %restxq:path("") 
-    function _:_() { 
+    declare %output:method("html")
+            %restxq:path("")
+    function _:_() {
         <html><body>Finally.. Some HTML</body></html>
     };
 ```
@@ -219,15 +218,15 @@ Le type peut aussi être modifié en spécifiant une autre méthode de sortie :
 On peut encore spécifier d'autres paramètres de sérialisation comme par exemple pour générer du XML et des déclarations de type de document :
 
 ```xquery
-    declare %output:method("xhtml") 
-            %output:omit-xml-declaration("no") 
-            %output:doctype-public("-//W3C//DTD XHTML 1.0 Transitional//EN") 
-            %output:doctype-system("http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd") 
+    declare %output:method("xhtml")
+            %output:omit-xml-declaration("no")
+            %output:doctype-public("-//W3C//DTD XHTML 1.0 Transitional//EN")
+            %output:doctype-system("http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd")
             %restxq:path("")
-    function _:_() { 
+    function _:_() {
         <html xmlns="http://www.w3.org/1999/xhtml">
             <body>You have just created some valid XHTML output!</body>
-        </html> 
+        </html>
     };
 ```
 
@@ -245,7 +244,7 @@ Ce mécanisme n'est pas prévu dans la norme, mais BaseX fournit deux solutions�
 Le dernier exemple suivant génère donc une boucle sans fin :
 
 ```xquery
-    declare %restxq:path("/loop") 
+    declare %restxq:path("/loop")
     function _:loop() {
         <restxq:forward/>/loop</restxq:forward>
     };
@@ -266,4 +265,3 @@ Diapositives :
 http://www.adamretter.org.uk/presentations/restxq_mugl_20120308.pdf
 Draft :
 http://exquery.github.io/exquery/exquery-restxq-specification/restxq-1.0-specification.html
-

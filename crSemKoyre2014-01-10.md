@@ -181,7 +181,7 @@ Cela la manière dont fonctionne le LOD et surlequel basé PundIt
 
 ### Ontologie
 
-Définition de gruger
+Définition de gruber
 Une spécification formelle d'une conceptualisation partagée.
 Étudier les entités et leurs relations
 
@@ -407,7 +407,7 @@ Que peut-on faire avec des annotations ?
 Un collègue à créé un note book sur les plans anciens en allant simplement sur le web.
 Une fois que toutes ses annotations produites, nous avons produit une visualisation sous forme de chronologie avec timelinejs.
 
-Feed thé pundit
+Feed the pundit
 Entre une URL sur le web
 Fournit maintenant une URL d'une image annotable désormais inclue dans la base.
 Feed aussi très puissant lorsque connecté à une bib numérique.
