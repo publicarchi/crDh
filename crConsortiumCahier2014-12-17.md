@@ -353,20 +353,17 @@ Lagarce
 
 ## Milad Douehi
 
-Actuellement professeur à l'université de Paris IV sur une chaire d'humanisme numérique. Avant cela professeur à l'université de Laval. Tombé par hasard dans les humanités numériques en codant.
+Actuellement professeur à l'université de Paris-Sorbonne (Paris IV) où il occupe une chaire d'"humanisme numérique". Avant cela, professeur à l'université de Laval. Tombé par hasard dans les humanités numériques, en codant ! Ouvrages publiés "Pour un humanisme numérique", "La grande conversion numérique".
 
-Ouvrages publiés "Pour un humanisme numérique", "La grande conversion numérique"
+Remercie de l'invitation qui lui a été faite de faire des propositions au consortium qui puissent éclairer de manière prospective son activité. Pour cela, j'ai choisi de vous proposer quelques remarques ou observations, d'un point de vue peut-être excentrique qui est le mien, et aussi des éléments de cadre historique qui peuvent être intéressantes pour de futures orientations.
 
-Quelques remarques ou observations d'un point de vue peut-être excentrique qui est le mien, et aussi des éléments de cadre historique qui peuvent être intéressantes pour de futures orientations.
-Il me semble qu'il peut-être intéressant de revenir sur la définition de la notion, aujourd'hui à la mode, d'humanité numérique. Histoire documentée des manifestes et du livre Blackwell : refus de digitized humanities, et proposition de digital. De là, par déplacement mise en place d'une discipline. Mais intéressant car distinction nécessaire entre numérique et digital, mais plus suffisant : important de distinguer avec ce qui est encoder. Une dimension dans vos travaux qui est importante avec l'émergence d'une philologie numérique qui relève tout à la fois de l'héritage de la philologie classique et de l'encodage TEI.
+Tout d'abord, il me semble qu'il peut-être intéressant de revenir sur la définition de la notion, aujourd'hui à la mode, d'humanité numérique. L'istoire de l'appellation est maintenant bien documentée depuis la publication des manifestes et du livre chez Blackwell : refus de digitized humanities par l'éditeur, et proposition de digital. De là, par déplacement, mise en place d'une discipline. Mais ce glissement était intéressant car il reposait sur une distinction nécessaire entre le numérique et le digital, mais aujourd'hui je crois que cette distinction n'est plus suffisante : Il me semble important de le distinguer d'avec ce qui est l'activité d'encoder. Une dimension dans vos travaux qui est importante avec l'émergence d'une philologie numérique qui relève tout à la fois de l'héritage de la philologie classique et de l'encodage TEI.
 
-Également considérer la dimension du matérialisme numérique, qui nécessite d'être pris en compte mais nécessite aussi de faire l'objet d'une réelle réflexion.
-
-Il y a quelques éléments que l'on peut décliner selon trois modalités
-- des notions de l'ordre de la raison computationnelle : cad des choses qui découlent des caractéristiques de l'informatique. C'est formuler des questions de telle sorte que la machine puisse en donner des réponses.
-Dans nos domaines aujourd'hui, tant de réfléchir au-delà de l'abondance et du big data de réfléchir à la question de l'évolution de la structuration de nos modèles. Connu Bdd, puis Xml, aujourd'hui plus dans le domaine stricte des entités-nommées. Peut accueillir de nouvelles choses.
-- La pensée algorithmique. cad non pas strictement dans le sens des formulations simples qui peuvent être cursives ou complexes. Mais dans le sens d'une
-Steeven Renzi beaucoup écrit sur les choix réalisés par le Père Busa pour essayer de trouver comme une généalogie avec les choix faits dans les années 50. Distribution autour de corpus diversifiés et divergents.
+Il me semble également nécessaire de considérer la dimension du matérialisme numérique, qui doit être pris en compte mais nécessite aussi de faire l'objet d'une réelle réflexion. À ce propos, il y a quelques éléments que l'on peut décliner selon trois modalités :
+- des notions de l'ordre de la raison computationnelle : c'est-à-dire des choses qui découlent des caractéristiques de l'informatique. C'est par exemple formuler des questions de telle sorte que la machine puisse en donner des réponses.
+Dans nos domaines aujourd'hui, il s'agit tant de réfléchir au-delà de l'abondance et du big data de réfléchir à la question de l'évolution de la structuration de nos modèles. Nous avons déjà connu plusieurs genres de bases de données, puis la vogue du XML, aujourd'hui on est plus dans le domaine stricte des entités-nommées. Peut accueillir de nouvelles choses.
+- La pensée algorithmique. C'est-à-dire non pas strictement dans le sens des formulations simples qui peuvent être cursives ou complexes, Mais dans le sens d'une...
+Steeven Renzi (Stephen Ramsay??) beaucoup écrit sur les choix réalisés par le Père Busa pour essayer de trouver comme une généalogie avec les choix faits dans les années 50. Distribution autour de corpus diversifiés et divergents.
 Intéressant car trouve déjà l'idée de la sémantique dans les propositions du père Busa.
 Question aujourd'hui, comment penser ces éléments avec les algorithmes dont on dispose aujourd'hui.
 - Gouvernementalité. La gouvernance algorithmique. Plus intéressant, les usages qui sont devenus importants dans nos domaines de la recommandation. Aujourd'hui devenus puissants, presque façonnant. Important à considérer car ici il y a un vrai risque.
