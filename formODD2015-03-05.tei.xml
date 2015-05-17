@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="../schema/gdpArticle.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Fichier @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ --> 
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
     xmlns:xi="http://www.w3.org/2001/XInclude">
     <teiHeader>
@@ -104,49 +107,17 @@
                     <head>ODD une introduction</head>
                     <div>
                         <head>À quoi sert un ODD ?</head>
-                        <p>Peut-être ne savez pas ce qu’est que ODD, en revanche
-                            vous savez sans doute ce qu’est un schéma et vous
-                            avez peut-être créé, ou utilisé des DTD. L’idée de
-                            ODD est basée sur le fait que dans le monde
-                            informatique, lorsque l’on lance un grand projet de
-                            création de ressources numériques, on a besoin de
-                            plusieurs choses : on a d’abord besoin d’un schéma
-                            formel qui s’exprime dans un langage informatique
-                            comme les DTD, W3C XML Schema, ou RelaxNG. Tout
-                            comme RelaxNg, W3C Schema présente l’avantage de
-                            résoudre certains inconvénients des DTD. Il s’agit
-                            d’un ensemble de technologiques qui permettent de
-                            résoudre chacun des aspects suivants :<list/>
-                            <item>D’abord de déterminer quelles sont les balises
-                            disponibles. C’est un premier aspect essentiel, mais
-                            ces balises ne sont pas toujours disponibles
-                            n’importe quand, elles peuvent également disposer
-                            d’un contexte.</item> <item>Le contexte. Par
-                            exemple, le fait que les titres ne puissent pas
-                            apparaître en bas de page.</item> <item>Les balises
-                            disposent aussi d’attributs. La définition des
-                            attributs est une partie essentielle dans la
-                            définition d’un schéma.</item> <p>Il y a encore bien
-                            d’autres contraintes que l’on pourrait vouloir
-                            exprimer à l’aide d’un schéma. Il s’agit de
-                            documenter les choix que l’on a fait ; les principes
-                            éditoriaux.</p> <p>Il arrive très souvent que l’on
-                            veut documenter un chapitre. Là plusieurs choix
-                            possibles, il est souvent intéressant de documenter
-                            les choix que l’on a fait. Même si le schéma le
-                            permet, ne va jamais va faire quelque chose. Dans
-                            d’autres cas, on va vouloir contraindre les valeurs
-                            des attributs. Or, dans la plupart des schémas
-                            formels, il n’y a pas moyen de documenter cela.</p>
-                            <p>ex : On peut ainsi déclarer que <att>status</att>
-                            prend la valeur a, b ou c. Mais on ne dispose pas de
-                            moyen pour documenter la signification de cet
-                            attribut.</p> <list>
-                            <item>Besoin de fournir une explication de la
-                                manière dont l’encodage a été appliqué</item>
-                            <item>Enfin, on a besoin de plusieurs outils pour
-                                gérer les documents XML que l’on a créés.</item>
-                            </list> </p>
+                        <p>Peut-être ne savez pas ce qu’est que ODD, en revanche vous savez sans doute ce qu’est un schéma et vous avez peut-être créé, ou utilisé des DTD. L’idée de ODD est basée sur le fait que dans le monde informatique, lorsque l’on lance un grand projet de création de ressources numériques, on a besoin de plusieurs choses : on a d’abord besoin d’un schéma formel qui s’exprime dans un langage informatique comme les DTD, W3C XML Schema, ou RelaxNG. Tout comme RelaxNg, W3C Schema présente l’avantage de résoudre certains inconvénients des DTD. Il s’agit d’un ensemble de technologiques qui permettent de résoudre chacun des aspects suivants :<list>
+                            <item>D’abord de déterminer quelles sont les balises disponibles. C’est un premier aspect essentiel, mais ces balises ne sont pas toujours disponibles n’importe quand, elles peuvent également disposer d’un contexte.</item>
+                            <item>Le contexte. Par exemple, le fait que les titres ne puissent pas apparaître en bas de page.</item>
+                            <item>Les balises disposent aussi d’attributs. La définition des attributs est une partie essentielle dans la définition d’un schéma.</item></list></p>
+                            <p>Il y a encore bien d’autres contraintes que l’on pourrait vouloir exprimer à l’aide d’un schéma. Il s’agit de documenter les choix que l’on a fait ; les principes éditoriaux.</p>
+                            <p>Il arrive très souvent que l’on veut documenter un chapitre. Là plusieurs choix possibles, il est souvent intéressant de documenter les choix que l’on a fait. Même si le schéma le permet, ne va jamais va faire quelque chose. Dans d’autres cas, on va vouloir contraindre les valeurs des attributs. Or, dans la plupart des schémas formels, il n’y a pas moyen de documenter cela.</p>
+                            <p>ex : On peut ainsi déclarer que <att>status</att> prend la valeur <val>a</val>, <val>b</val> ou <val>c</val>. Mais on ne dispose pas de moyen pour documenter la signification de cet attribut.</p>
+                        <list>
+                            <item>Besoin de fournir une explication de la manière dont l’encodage a été appliqué</item>
+                            <item>Enfin, on a besoin de plusieurs outils pour gérer les documents XML que l’on a créés.</item>
+                            </list>
                     </div>
                     <div>
                         <head>L’idée essentielle de ODD</head>
@@ -211,9 +182,7 @@
                         <p>http://www.tei-c.org/release/oxygen/updateSite.oxygen</p>
                         <p>Ensuite, allez dans <ident>Aide > Rechercher des mises à jour
                             d’add-ons</ident></p>
-                        <p>Pour l’installation de nouveaux adds-ons, voir le tutoriel <target
-                            href="http://blogs.it.ox.ac.uk/jamesc/2014/04/02/auto-update-your-tei-framework-in-oxygen/"
-                            >http://blogs.it.ox.ac.uk/jamesc/2014/04/02/auto-update-your-tei-framework-in-oxygen/</target></p>
+                        <p>Pour l’installation de nouveaux adds-ons, voir le tutoriel <ref target="http://blogs.it.ox.ac.uk/jamesc/2014/04/02/auto-update-your-tei-framework-in-oxygen/">http://blogs.it.ox.ac.uk/jamesc/2014/04/02/auto-update-your-tei-framework-in-oxygen/</ref></p>
                         <p>Vous pouvez maintenant créer un nouveau document ODD. Ajouter dans à l’intérieur de l’élément <g>body</g> de ce document le contenu de oddex-1.xml, puis avant <gi>schemaSpec</gi> le contenu du fichier oddex-1-doc.xml. Enfin, enregistrez le nouveau document.</p>
                         <p>Vous avez maintenant créé votre premier document ODD. Nous
                             allons maintenant le traiter avec oXygen et les
@@ -740,18 +709,18 @@
                         <p>Pour suppression de title</p>
                         <p>Exclude et include ne peuvent être rattachés qu’aux modèles ou aux classes.</p>
                         <p>Pour faire en sorte que <gi>s</gi> ne contienne que des <gi>w</gi>, il faut modifier le contenu de s. Il faut donc ajouter une définition pour l’élément s qui aura une définition de contenu différente. On ajoute un élément elementSpec et indique que l’on veut le modifier. La modification doit seulement porter sur son contenu, ici ne veut que des éléments w, donc elementRef dans content avec maxOccurs unbound</p>
-                        <![CDATA[
-                        <elementSpec ident="s" mode="change">
-          <content>
-            <elementRef key="w" maxOccurs="unbounded"/>
-          </content>
-        </elementSpec>
-        ]]>
-                        <p>Pour traiter le problème du title, il faut regarder la raison pour laquelle title est permis dans certains éléments comme s ou ab. Pour cela consulter la documentation des éléments sur internet.</p>
+                        <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                            <elementSpec ident="s" mode="change">
+                                <content>
+                                    <elementRef key="w" maxOccurs="unbounded"/>
+                                </content>
+                            </elementSpec>
+                        </egXML>
+                        <p>Pour traiter le problème du <gi>title</gi>, il faut regarder la raison pour laquelle title est permis dans certains éléments comme s ou ab. Pour cela consulter la documentation des éléments sur internet.</p>
                         <p>Le cas est ici plus compliqué car l’élément <gi>title</gi> hérite de plusieurs autres éléments. Sauf qu’il apparaît dans le header explicitement. Il existe une classe qui est utilisé par toutes les classes d’éléments, le seul membre de cette classe <gi>title</gi>. On peut donc soit supprimer l’élément de la classe ou supprimer cette classe. Si la classe est supprimée tous les membres de la classe disparaissent bien sûr. Mais cela permet toujours d’avoir <gi>title</gi> dans le header car si l’on regarde la définition de <gi>titleStmt</gi> on voit que sa déclaration implique que l’élément title est disponible dans le header explicitement sans qu’il soit fait explicitement référence à la classe. On peut donc supprimer la classe tout en conservant l’élément disponible dans <gi>titleStmt</gi>.</p>
                         <p>Pour spécifier un nouvel élément, il suffit d’ajouter un élément <gi>elementSpec</gi> (<gi>elementRef</gi> signifierait que l’élément existe déjà). On veut ajouter un élément qui aura l’identifiant mw. Mais comme il s’agit d’un nouvel élément qui n’est pas présent dans la TEI il faut spécifier un autre espace de nom pour s’en distinguer. On fournit des descriptions puis des déclarations de classes. Dans l’élément classes on indique que l’élément va hérité des attributs de la classe.</p>
                         <p>Comme on veut avoir ce nouvel élément au même endroit que w, on regarde la documentation de cet élément et les classes auxquelles il appartient. Il est notamment membre de la classe model.seqLike. Si l’ajoute dans la classe, alors il apparaîtra au même endroit.</p>
-                        
+
                     </div>
                 </div>
                 <div>
