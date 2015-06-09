@@ -1,0 +1,45 @@
+crTHATCamp 2015-06-08, Bac Numérique
+
+En réalité apprentissage du numérique naturalisé.
+Proposition faite pour provoquer. Jeu avec l’image.
+Trois scénarios dans les équipes qui portaient le projet.
+- formation à l’informatique de ceux qui ne sont pas informaticien (Seger Abitbul)
+- acception vernaculaire : ce que doit savoir un humaniste à l’âge du numérique
+- enfin les Humanités numérique, techniques savoir faire des sciences du document qui sortiraient le numérique de son contexte et capable d’éclairer la société sur les transformation qu’elles sont en train de vivre.
+Cf. Colloque Stanford Profiter de l’avance technique et scientifique pour faire partager les expériences que l’on a par exemple pu acquérir en passant des contenus aux données. Pollenisation de la société dans la mesure où les techniques de recherche ne concernent pas seulement la recherche.
+
+Beaucoup d’impact, forte écoute du côté de la présidence.
+Plus qu’au sein de l’éducation nationale où brandissait les sciences de l’information. Recherche d’un projet qui fasse vibrer, or bac symbolique. Toucher au bac, à la fois être conservateur et iconoclaste. Rapidement lassitude à l’égard d’un dialogue de cabinet, or discussion qui commence à échapper au seul monde de l’éducation. Alors l’idée de proposer un supplément humanité numérique au bac. Proposé d’en faire un objet sérieux au moment des choix d’orientation en négociant partenariat avec grandes écoles pour que se déclarent intéressées.
+Un vrai dispositif stratégique et média se prépare donc autour de ces questions. Emmanuel Davidenkoff, Olivier ??, etc. Groupe stratégique, mais pas profs et pas chercheurs en DH.
+D’aborder la question par un Mooc délivrant.
+Donc idée d’ouvrir pour rapprocher la recherche de communautés d’enseignants exhilés ou isolés alors que des pratiques numériques permettant un travail avec les chercheurs.
+Trois scénarios :
+- introduire des savoirs numériques dans toutes les disciplines (programme informatique pour chaque discipline)
+- modification de l’approche des disciplines ou des programmes et opérant une bascule vers la question des compétences (resp pédago explique que numérique la folle du logis, introduction transversalité dans les disciplines et provoquait une bascule vers compétences = sentiment que transformation profonde des disciplines, etc.)
+- scénario constructiviste : mettre l’accent sur le numérique, en lançant un prototype, lancer un mouvement en mettant bien l’accent sur une transformation des formats. Soutien du référentiel de la fondation ?? Explorer, Construire, Partager.
+Sans ranger les exercices dans disciplines, peut les ranger dans ce référentiel.
+Sur ce scénario comment envisager collaboration.
+
+Littératie numérique en un sens restreint intégré au C2I. Clair que du point de vue des Humanités Numériques pose un problème car pour des étudiants qui n’ont pas d’apétence particulière pour le numérique risque de donner l’impression que brancher des cables, etc.
+Par ailleurs un B2I au collège. Un échec total que les administratifs ne veulent pas reconnaître.
+
+Référentiel de compétences numériques de la Fondation Mozilla
+http://www.netpublic.fr/2015/04/referentiel-de-competences-web/
+
+Plus commence ces enseignements tôts, mieux c’est.
+C3I doctorat
+Novembre à février mars pour que puisse servir à l’orientation.
+Dans le dispositif utiliser l’ouverture vers l’enseignement supérieur comme argument.
+Pas sur fun, Pythagora https://pythagora.com, ou Open Classroom http://openclassrooms.com : une forte composante vidéo.
+Introduire l’apprentissage par le faire. Valorisation des réalisations des étudiants. Déclarer les choses qu’ils savent faire.
+
+Calendrier
+1heures pour 5 semaines. Calibrer pour que devienne validant.
+Pourrait exiger binôme bac S / bac L
+Mooc qui pourrait permettre de revenir sur des choses qui sont censées être acquises dans d’autres matières. Ex. explorer sujet du programme histoire comme matériau, mathématiques.
+Faire attention à ce que les professeurs de Lycée n’aient pas l’impression que l’on fasse leur travail en plus sexy. Complémentarité à faire pour les enseignants ?
+
+Réseau des maisons pour la science. Idée qu’un pédagogue et un enseignant chercheur se mettent ensemble pour former des étudiants. Pourrait imaginer ce dispositif pour former les enseignants aux HN.
+Education populaire : BSN, Sympo, Ligue de l’enseignement sont en train de se doter de moyens pour prendre en charge la formation au numérique en se saisissant de la réforme de 2013 sur la transformation des rythmes scolaires.
+
+Ligue qui est actuellement en train de lancer sa transformation numérique, en contact avec le Conseil national du numérique.
