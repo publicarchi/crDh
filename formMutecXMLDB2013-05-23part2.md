@@ -176,4 +176,3 @@ Demo : Realtime Search in a Catalog Data
 
 Propre moteur de recherche.
 Intérêt d’implémenter la spécification XQuery full-text. Sans doute des choses pas possible avec XQuery full-text, mais plus proche de la structure des données.
-
