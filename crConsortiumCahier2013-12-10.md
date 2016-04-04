@@ -7,7 +7,7 @@ Rmq : La réunion du comité directeur a eu lieu la veille au soir.
 
 
 Rappel des objectifs du consortium
-----------------------
+---
 
 Le consortium a été labellisé en septembre 2011 avec une gestion confiée au centre d'histoire de la renaissance de Tours, qui est ensuite passée à la MSH Val-de-Loire que l'intervenante dirige (Marie Luce Demonet). Sa gouvernance peut à l'avenir évoluer vers un fonctionnement plus consensuel.
 
@@ -50,7 +50,7 @@ Nouveaux entrants :
  - Rouen Flaubert
  - Nice
  - Item, Corpus hispaniques
- 
+	 
 Il est frappant que la diffusion des activités du consortium se fasse à partir des mêmes lieux, il y a notamment un grand vide dans le Sud-Ouest.
 
 
@@ -72,14 +72,14 @@ Garde le principe de demandes de subvention de 3 000 euros par projet sur la ba
 
 #### Budget prévisionnel 2014
 
-Gestion consortium 							10 000
-Formations 									6 000
-Financement des formations 				    9 000
-Participation financement ANF 				2 000
-Missions coordination, comité de pilotage 	5 000
-Organisation AG 2014 						6 500
-Organisation d'atelier et de gr de travail 	4 500
-Cotisation TEI pour Cahier					4 000
+Gestion consortium                          10 000
+Formations                                  6 000
+Financement des formations                  9 000
+Participation financement ANF               2 000
+Missions coordination, comité de pilotage  5 000
+Organisation AG 2014                        6 500
+Organisation d'atelier et de gr de travail  4 500
+Cotisation TEI pour Cahier                  4 000
 
 
 ### Les groupes de travail
@@ -90,7 +90,7 @@ Travail selon trois axes.
  - Le premier porte sur le droit d'auteur pour les publiants et proposition de clauses pour les auteurs refusant mise à disposition de leurs texte en accès libres. Texte aujourd'hui prêt (diffusion fin janvier).
  - Deuxième axe concerne des recommandations sur la constitution des corpus lors de récupération de textes provenant d'auteurs ou musées, (demandes autorisations).
  - Troisième axe sur la diffusion des bases de données et droits.
- 
+	 
 #### Groupe de travail WebOAI (moissonneur OAI-PMH des fichiers TEI)
 
 Déjà eut deux réunions
@@ -118,7 +118,7 @@ Prévisions 2014
 
 
 Cahier dans les Humanités numériques
------------------
+---- 
 
  - DARIAH Copenhague, octobre 2013
  - DARIAH Paris, novembre 2013
@@ -127,7 +127,7 @@ Cahier dans les Humanités numériques
  - Article pour le dossier "Humanités numériques" de l'INSHS (article avec A. Gefen)
  - Participation à la conférence des DH, Lausanne, 8-11 juillet 2014 (Alexis proposé un papier)
  - Création d'une association francophone en Digital Humanities [sic]
- 
+	 
 { Peu favorable à la création d'un consortium, disposer d'une structure qui permette de mieux travailler. Trouve que très gigogne (sans doute par rapport aux consortium, et autres). Agacée par la dimension revendicative "francophone". D'accord sur le fait que manque d'une reconnaissance métier, ou dans les formations. }
 
 Calendrier qui implique 
@@ -162,7 +162,7 @@ Discussion
 
 
 Stéphane Pouylleau
-----------------
+---- 
 
 Point d'actualité de la TGIR qui pilote les consortium, Nicolas Larousse.
 HumaNum est une très grande infrastructure de recherche issue de la fusion entre Adonis et Corpus. A pris la forme d'une UMR entre Condorcet, Aix-Marseille, et ?? (= 3 structures qui forment la tutelle).
@@ -218,7 +218,7 @@ Il y aura une information DARIAH le 23 janvier à la journée des consortium (R�
 
 
 Usage TEI-XML dans les corpus Cahier : état de l'art, Lou Burnard
------------
+---- 
 
 A rencontré un petit problème, pour faire un état des lieux, besoin d'une mise à disposition ouverte des corpus, la plupart des membres ne le faisant pas à quelques petites exception près. Il était donc difficile de contacter séparément chaque projet, néanmoins fait circulé un questionnaire.
 
@@ -288,7 +288,7 @@ Peu en matière d'exploitation, beaucoup TXM 3, PHP 2, XTF 2. Apache Solr. Mais 
  - être isolé en tant qu'ingénieur sur un projet (intérêt de consortium)
  - anticiper les résultat pour faire un choix pertinent de balise
  - et ... ce type de projet est chronophage.
- 
+	 
 ### Désirs exprimés
 
 Nouveaux genre de formation
@@ -321,7 +321,7 @@ La voie est tracée, mais boueuse !
 
 
 Archivage Pérenne, Nicolas Larousse
------------------
+---- 
 
 TGIR HumaNum créé en cours d'année, bonne occasion de mettre à plat tous les services et d'en définir de nouveaux.
 Mise à plat pour identifier ce qui a changé et ce qui peut être utile.
@@ -347,10 +347,10 @@ Les services associés aux données
 HumaNum
 
 Stockage
-Grille			-->		hébergement web, grille de calcul
-Exposition		-->		prochainement Silo
-Signalement 	--> 	Isidore		--> applications métiers
-Conservation 	-->		Préservation à long terme
+Grille          --\>     hébergement web, grille de calcul
+Exposition      --\>     prochainement Silo
+Signalement     --\>     Isidore     --\> applications métiers
+Conservation    --\>     Préservation à long terme
 
 S'appuie pour la préservation à long terme sur collaboration avec centre de calcul de Villeurbanne et le CINES à Montpellier.
 
@@ -387,7 +387,7 @@ Résultats attendus sauvegarder les ressources, dans un environnement intellectu
 
 
 Discussion
-------------
+---- 
 
 Michel Bernard : Trouve assez déprimant bilan de Lou
 Car 20 ans qu'entend parler de la TEI comme d'un standard, or moins de 20% des corpus encodés en TEI, or sur un consortium très actif. 
@@ -414,7 +414,7 @@ Lou : deux réponses à cette question, l'une consiste à archiver le PDF, l'au
 
 
 Giono Véronique
------------------
+---- 
 
 Hyperbase, outil de recherche hypetextuel pour travailler sur le corpus. Outil de lexicométrie avec lequel souhaite parvenir à caractériser l'écriture de Giono.
 
@@ -443,7 +443,7 @@ Aussi une question de contrat avec l'état. Lorsque l'on veut présenter des cor
 
 
 De
-----------------
+---- 
 
 Lui a demandé de donner une présentation sur le projet de bibliothèque numérique. Voudrait caractériser le projet de la bibliothèque moins du point de vue éditorial qu'institutionnel.
 
@@ -515,9 +515,9 @@ Quelques éléments vraiment importants pour produire une édition numériques
 
 Nouveau design qui permet à l'éditeur d'accéder à différentes versions du contenus.
 
-Document		--
-Archive			--
-Disemination	--
+Document        --
+Archive         --
+Disemination    --
 
 Iconclass pour le catalogue, s'est avéré de plus en plus intéressant pour indexer le contenu des images au sein de la collections. Un partenariat basé sur le fait que puissent obtenir toutes nos données, en échange multilinguisme basé sur leur interfaces.
 
@@ -527,7 +527,7 @@ Mise au point d'un sparql-endpoint, un connecteur qui transforme une base sql en
 
 
 Vincent Jolivet, Aldone
---------------
+---- 
 
 Donnaient cours à 16H, donc se sont divisés !
 Présentation d'un travail réalisé avec collègues au sein de la société Algone que le consortium a rémunéré pour le développement d'un moissonneur d'en-tête TEI en commun. 
@@ -636,7 +636,7 @@ Peut également aller voir le tableau de mapping
 
 
 Édition électronique de la correspondance de Flaubert
----------------
+---- 
 
 Voudrait inclure correspondance active et passive.
 Lettres de tiers. Des ambitions très larges.
@@ -688,7 +688,7 @@ Lou : Non, il pourrait y avoir toutes les balises nécessaires en TEI ! mais, 
 
 
 Fathiane : Chispa, Un projet pour l'expoitation numérique de corpus hispanique
----------------
+---- 
 
 Nombreux points de convergeances, remercie pour les formations car important pour nourrir les projets.
 
@@ -710,7 +710,7 @@ Notices saisies sous Notix (logiciel libre). Plan de classement prévu par l'aut
 
 
 TODO Desgodets
-------------
+---- 
  
 Demander un statut de membre correspondant ? Envisager une procédure d'intégration progressive (à l'exemple projet Chispa). Motiver cette demande par un courrier circonstancié.
 
@@ -743,7 +743,7 @@ Marie-Luce : très claire, voit bien le projet et la progression. Intéressant 
 
 
 Conclusion
-----------------
+---- 
 Soutien MSH Lille, Item et MSH Tours
 
 Il est possible de bénéfier d'Oxygen lorsque membres ANR, etc.
@@ -754,7 +754,7 @@ Disposent d'un co-grille lundi pour bénéficier licences Oxygen
 
 
 TODO Guides de Paris
----------------
+---- 
 
 Demander un statut de membre correspondant ? Envisager une procédure d'intégration progressive (à l'exemple projet Chispa). Motiver cette demande par un courrier circonstancié.
 
@@ -777,7 +777,6 @@ Participation à des formations et colloques
 
 
 Voir pour la création d'un consortium sur les données historiques avec Francesco
-
 
 
 
