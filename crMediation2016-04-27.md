@@ -466,7 +466,7 @@ Pour faire cela des partenariats avec le milieu culturel au travers de milieux t
 
 ## Maryse PAquin
 
-Directrice d’un programme court en médiation et interprétation culturelle ici au Québec à l’Université de Trois-Rivières.
+Directrice d’un programme court en médiation et interprétation culturelle ici au Université du Québec à Trois-Rivières UQTR.
 
 Bref historique du programme court. En 2008, inscriptions au second cycle descendent sur une pente glissante. S’interroge sur la manière de relancer les inscriptions. Une hypothèse parmi celles évoquées, créer des formations courtes qui n’existent pas et qui répondent à des besoins pour la société. Comme en culture et société, alors identifie rapidement la médiation culturelle.
 
@@ -607,3 +607,25 @@ Rida qui a joué rôle important à parc Canada dans le modèle de l’interpré
 Programme de doctorat qui est né en 2005 est le prolongement de la maîtrise professionnelle. Il s’inscrit encore une fois dans une évolution internationale, les grands musées cherchent des professionnels hautement formés. Il y avait donc la volonté de former une nouvelle cohorte de professionnels qui ne deviennent pas tous professeurs mais intégrent les institutions.
 
 Muséologie, médiation et patrimoine, mais quand fait le bilan ensemble des thèses qui portent surtout sur la muséologie et le patrimoine mais que le champ de la médiation est peu abordé. Il y a donc un important travail à faire pour approfondir ce troisième champ.
+
+
+## Discussion
+
+Motivations : Pas de littéraires pourtant aussi des besoins en sciences humaines. Nombreuses personnes qui rejoignent la formation car pas le goût de la recherche en laboratoire. Veulent rester dans la science mais pas la produire. Un pas de côté.
+Gens qui sont intéressés par la culture et qui ont eu le malheur d’être bons maths...
+
+Question sur les suivi des emplois pour s’assurer que travaillent dans la médiation culturelle.
+Pour le programme court à distance, les gens déjà tous dans le milieu professionnel. Par contre observe que ne portent pas le titre. Métier par reconnu encore par l’observatoire de la vie culturelle. Or les choses ne bougent pas rapidement.
+
+
+## Rmq
+
+Il manque UdeM, il manque formation Museum à Paris, MNCP
+
+Bordeux idem. Mais étudiants se reconnaissent dans ce terme de médiation. Quant aux débouchés, une partie des étudiants qui poursuivent leurs études, ils le font à cause d’une angoisse à l’égard du monde du travail. S’aperçoit que premier emploi pas très difficile car beaucoup d’emplois aidés, mais observe que très difficile de durer.
+Lorsque arrivée en 94 dnas cette formation nombreux étudiants qui pensaient qu’une formation correspondait à un métier. Aujourd’hui des étudiants plus conscients que ce n’est pas facile, mais que quelque chose à défendre. Souvent projets à court terme, moyen terme et long terme, qui traduit certes une certainne précarité professionnelle, mais aussi une autre manière d’aborder le monde professionnelle. Question de savoir s’il s’agit d’un métier ou d’une fonction.
+
+Quelqu’un de la salle qui explique que se retrouve à faire beaucoup de choses très différentes mais que l’est
+
+En France, statistique qui indique que 5 qui travaillent dans le domaine sur 18 au bout de 18 mois.
+Enquêtes 18 mois, maintenant 30 mois. Mais sur de petits effectifs comme cela difficile de faire des stats. Malgré tout des taux d’insertion bien meilleurs que ce que l’on attendait et que dans d’autres domaines. En tous les cas pour le premier emploi assez simple même si se complique aujourd’hui. Le problème c’est que ce sont des emplois mal payés, précaires, en revanche en majorité dans le secteur culturel. Pas forcément au niveau où les diplômes devraient les placer. On entre toujours par la petite porte dans ce domaine là. Second emploi plus compliqué.
