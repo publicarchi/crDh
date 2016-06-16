@@ -525,5 +525,15 @@ Création d’un réseau professionnel et amical. Trouvé ses emplois avec ces c
 
 Un devoir aussi de partager notre contexte de travail. Par ailleurs recherche financée par le public et nous avons l’obligation de rendre compte de nos résultats et de notre activité. Plus souvent le cas dans le domaine des sciences. beaucoup bénéficié d’internet, important de participer à la création d’un web plus intelligent et généreux en remettant de l’énergie dans la machine qui bénéficiera à d’autres.
 
+Avec internet peu faire fi des accréditations et de la distance géographique, chacun pouvant s’emparer de la resource et en faire ce qu’il veut.
 
+Non académique mais considérer ce que peut apporter l’adresse au grand public et pas seulement auprès des pairs. Pas seulement une dimension de marketing de soi, mais réel en terme de diffusion des connaissances. Grand-mère qui reçoit billets de blog par la poste, etc. Expliquer le travail en cours hors des cadres classiques peu faire frémir mais le fait de construire une communauté diverse riche, active, sur internet apporte beaucoup. Riche comme la société. De même entretien organe de presse connu, important et tous s’emparer des possibilités de l’auto-publication.
+
+## Conclusion
+
+Transversalité rare. Multicompétence.
+
+Enchantée que l’INHA ait accordé un petit budget pour organiser cette journée d’étude. Remercie tout le monde.
+
+Passion et enthousisme, ne publiera pas. Vidéo qui sera intégrée dans le site de l’INHA. Comptait aussi mettre à côté des documents sous forme de Pdf qui précisent la bibliographie et les liens évoqués pendant la discussion avec de la bibliographie.
 
