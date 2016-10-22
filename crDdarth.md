@@ -25,4 +25,31 @@ L’objectif de la rencontre consistait à parvenir à la publication d’un liv
 
 Espère intervention inclusive. 
 
-Vous faire travailler, structurer le temps pour promouvoir un échange intellectuel le plus riche possible pour identifier les enjeux et les moyens d’une transformation de l’histoire de l’art par le numérique.
+« Initial begin » Vous faire travailler, structurer le temps pour promouvoir un échange intellectuel le plus riche possible pour identifier les enjeux et les moyens pour adresser la transformation de l’histoire de l’art par le numérique.
+
+Plusieurs tables rondes, réception et plénières.
+
+## Table ronde inter-générationnelle
+
+Volonté de voir où se situent les jeunes chercheurs dans ce monde émergent. Quel a été leur point d’entrée dans le numérique, à quels défis ont-ils dû faire face en commençant, quels ont été les fruits de leur nouvelles manières de travailler.
+
+Table ronde modérée par Matthew Lincoln. Participants : Alexander Brey (Bryn Mawr College and Dumbarton Oaks), Pamela Fletcher (Bowdoin College), Rodrigo Guzmán (City College of New York), Jennifer Henel (National Gallery of Art), Arthur K. Wheelock (National Gallery of Art and University of Maryland).
+
+Alexander Brey, étudiant PHD Bryn Mawr College. Scaffolding Digital Art History.
+
+Pamela Fletcher, professeur d’histoire de l’art au Bowdoin College. Faire des projets numériques depuis dix ans. Pointer des problèmes en revenant sur cette expérience et identifier les problèmes aujourd'hui. Savoir si des enjeux partagés, ou des inclinaisons personnelles. 
+
+Volume partagé, pas identique aux archives et la bibliographie. Visualisation, un argument. Inclure dans la conceptualisation les enjeux de UX, structuration des données, etc.
+
+https://www.bowdoin.edu/faculty/p/pfletche/
+
+Rodrigo Guzmán. Archivage expositions interactives du Moma. New York Art Resources Consortium. http://www.nyarc.org Programme d'archivage de ressources en histoire de l’art.
+
+Arthur K. Wheelock (National Gallery of Art and University of Maryland). NGA online Editions, Dutch Painting of the Seventeenths Century.
+
+Jennifer Henel, coordinatrice curatoriale des contenus culturels à National Gallery of Art.
+
+### Discussion
+
+Quelles différences en fonction du statut institutionnel.
+
