@@ -51,5 +51,7 @@ Jennifer Henel, coordinatrice curatoriale des contenus culturels à National Gal
 
 ### Discussion
 
-Quelles différences en fonction du statut institutionnel.
+La discussion est ouverte sur les perspectives différentes que l’on peut avoir en fonction du statut  institutionnel de chacun. Arthur Wheelock souligne le besoin de compétences techniques pour construire catalogue NGA. S’il avait une idée très claire de ce que voulait, apporte des techniciens déterminant. Dans ce cas, le support du Getty important également car la publication numérique présentait un coût. Fletcher explique que l’enseignement sur la cartographie a bénéficié d'une réception très contrastée parmi les étudiants. Le support de l’institution a été à cet égard déterminant. De même, lorsqu’elle a publié ses données, s'est sentie très vulnérable.
+
+
 
