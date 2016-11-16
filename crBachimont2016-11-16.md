@@ -121,5 +121,151 @@ Des réseaux neuronaux, systèmes multicouche. mais personne ne sait réellement
 
 Incapable de dire en quoi le calcul qui a produit le résultat une preuve et pas un résultat de production.
 
+Pas nouveau, cf. calcul infinétisimal. Mais comme pas d’élément de référence. Les fictions restent des fictions, les imaginaires restent des imaginaires.
+
+
+
+La question de la rstitutution
+
+Nous autres simples mortels sommes des animaux sémiotiques. Surdoués pour donner du sens à tout ce que l’on voit. Cf. François Rastier. Mais ne sait jamais si résultat.
+
+Souvent ce qui motive la représentation des données, vient de sémiotique empruntée par ailleurs.
+
+Ex. piliers de la création. énergie qui donne lieu à la création d’étoiles. Intéressant dans ce cliché, qu’évidemment pas une photo. Un télescope spatial ne prend pas de photos. Des algorithmes de traitements qui vont produire l’image. Or intéressant de voir que des stéréotypes culturels des mondes nouveaux, des mondes en création. Cf. Nouveau monde, falaises de la rivière du Colorado Thomas Moran.
+
+
+
+Des constats sévères
+
+Des données construites, des calculs inintelligibles, des résultats fantasmes.
+
+Des constats sévères mais liés au fait que prend au sérieux les gens du big data qui disent que font de la science comme avant mais avec de nouveaux moyens. Les anciens réponses ne conviennent pas à ces nouvelles approches. Si révolution il y a, va devoir envisager nouvelles pratiques différemment.
+
+
+
+épistémologie des données, un nouveau paradigme ?
+
+Comprendre le mythe, mais aussi savoir comment les aborder.
+
+
+
+Origines hétérogènes, traitement homogène. 
+
+La force du paradigme de la données : permet de considérer des données de nature et d’origine hétérogène pour les unifier dans un format unique permettant un traitement homogène. On élargit le champ du possible, ou du pensable de même que l’écriture avait permis cet élargissement cf. Goody.
+
+Ici un nouvel outil synthétique. Ne veut pas dire que d’emblée produit du sens. l‘écriture n’a pas immédiatement produit la grammaire mais condition de l’émergence de la grammaire.
+
+Nécessité de sortir du paradigme de la mesure. Théories qui permettent d’avoir une théorie de la mesure, les mêmes que celle qui permet d’analyser les résultats. Il y a donc une intelligibilité continue du phénomène depuis son début jusqu’à son analyse finale. Pris beaucoup de temps à construire, mais sait que quand fait une analyse expérimentale, on dispose d’un appareil théorique homogène. Une homogénéité entre la théorie et la pratique.
+
+Avec le big data. Plus de continuité épistémique. triple rupture, entre les outils qui servent à collecter et analyser, et ceux qui servent à analyser et représenter. raison pour lequel trouble. Ne sait jamais de quoi en parle ni ce que l’on en dit.
+
+On prétend savoir de quoi on parle car voudrait bien que les données soit les données de quelque chose. Ne peut pas s’en sortir avec rmq de Russel sur les mathématiques, car ici voudrait que parle du réel.
+
+Un vrai chantier, pour donner un statut de connaissance à ce que l’on fait avec nos informations.
+
+
+
+Proposition, déplacement de la donnée qui permet d’aborder un nouveau domaine du réel qui jusque là résistait au calcul, le social.
+
+Pour cela qu’un nouveau nominalisme. Cf. Roseline de Compiègne, les mots sont des flatus lens vocales.
+
+Guillaume d’Ockham, un philosophe qui a révolutionné le monde philo et scientifique du 14e car a posé un nouveau cadre.
+
+cf. travaux Hans Gonas ? et Ruprich paquet ? sur le nominalisme médiéval.
+
+Sortait du réalisme médiéval où la structure syntaxique du langage reflète l’ontologie du réel. Les relations entre les mots renvoient à des relation entre les essences. Réels, res (essences). D’où le trivium. Comprendre le langage, c’est comprendre le réel.
+
+Pour les nominalistes, le langage pas le reflet du monde. Mais un signe du monde. Suppositions simples, etc. ruine des essences.
+
+Révolution qui consiste à détruire le lien qui existe entre le langage et le monde. Va permettre de construire un nouveau lien entre le langage et le monde, celui du calcul scientifique et le monde. Pour que Gallilé soit possible, il fallait avoir Ockham avant.
+
+La relation du mot à la chose n’est plus constitutif de la connaissance de la chose, qui doit donc se constituer autrement.
+
+Le langage devient une donnée, un fait, comprendre le monde, consiste donc à analyser computationnellement le langage comme information. La donnée, ce qui permet d’abolir le lien entre le langage et le fait social pour permettre d’aborder d’une nouvelle manière le fait social.
+
+Cette donnée on l’a.
+
+
+
+Seconde révolution nominaliste. Constitution de grandes bases de donnéeS. Massification qui rend les données inaccessible à la conscience humaine, va devoir construire des outils de lectures distantes qui vont pouvoir les lire pour nous. 
+
+Cette révolution nominaliste est donc d’une certaine manière en partie en acte. 2 millions d’heures numérisées à l’INA, YouTube, etc. Bases de données, Open Data.
+
+Une révolution nominaliste supplémentaire qui renouvellerait le geste d’OCk vers les sciences de la nature, vers les sciences de la culture.
+
+
+
+On retoruve nos deux enjeux.
+
+Le rapport au fait humain, critique du calcul
+
+Le rapport à la complexité, le paradoxe du Ménon
+
+
+
+Au fondement du social et du culturel
+
+L’idée des sciences sociales en général, d’analyser le fait social mais plus précisément le fait humain (Marc Bloch). Un fait, et humain. Un fait humain qui est arrivé des humains ce qui suppose une empathie interprétative Ginsburg ou Dilthey qui fait que peut comprendre ce fait car aurait pu nous arriver. Ce qui fait que peut en comprendre aussi la différence. Pour expliquer la différence, il faut une identité partagée. Il n’y a pas de différence absolue autrement dit.
+
+Différenence qui ne peut être différence que si un fait commun qui permet de l’appréhender. Pour être intelligible, fait le postultat qu’il est interprétable. D’où complexité sur l’analyse historique de la Shoa.
+
+En même temps, veut que cela soit des faits, un objectif de véricité. Verne, un roman vrai. Un régime de contrôle interprétatif, contrôle empirique. Fiction du fait humain rapporté à un contrôle qui permet de passer du fait à sa reconstruction.
+
+Dans l’optique du calcul, la difficulté que va avoir, c'est que perte du fait humain comme fait car va l’effacer.
+
+
+
+La complexité des résultats
+
+Retours aux beaux calculs. Retours aux belles figures
+
+Revisite à nouveau frais, de manière sophistiquée le paradoxe du Ménon (Platon). Demande toujours au gens des big data de savoir ce que nous a permis d’apprendre que ne connaissait pas déjà.
+
+Question de la connaissance. Paradoxe par lequel commence le dialogue que connaissance impossible. car si aborde qqch de nouveau, ne le reconnait pas. Et si le connaît déjà, alors rien à apprendre.
+
+Pour le moment l’exploitation que l’on fait, confirmer ce que l’on a deviné par d’autres moyens ou de reconnaître ce que l’on sait déjà.
+
+Un problème de fond, car le problème de la complexité. Les données étant tellement complexe que ne peut les aborder directement. Il faut réduire la difficulté. Ce que propose le big data, c'est la réduction. Expertise des acteurs du big data, travail d’accompagnement ou font accoucher les client pour reconnaître dans les données les connaissances qu’ils possédaient déjà. C'est donc une sorte de maïeutique.
+
+
+
+## Conclusion
+
+à la fois très sérieux, et une mystification.
+
+Les big data reconfigurent notre rapport au monde, le fait social comme donnée (nominalisme) [en tous les cas un chantier épidémique majeur pour comprendre comment déléguer à ces outils]
+
+Reconfigurent notre rapport au savoir, la donnée en lieu et place de la mesure.
+
+Mais surmonter, la mythologie de l’interprétation graphique, l’inintelligibilité de son fonctionnement. Donc doit pouvoir construire une critique raisonnée pour donner du sens au calcul et à ces visualisations.
+
+Mais aussi un déplacemement plus profond de nos perspectives entre le social et l’humain.
+
+Kant révolution de la mesure. 
+
+Que puis-je savoir ? science newtonnienne
+
+que dois-je faire ? morale
+
+Que m’est-il permis d’epsérer ? la doctrine de la religion
+
+Qu’est-ce que l’homme ? L’humain est)il mesurable
+
+
+
+Pour la révolution de la donnée. épistémologie de la donnée, critique pour interpréter les calculs et leurs résultats.
+
+Une éthique de la donnée, déontologie des big data.
+
+Quel sens de l’humain reste-t-il (cf. transhumanisme)
+
+L’humain est-il calculable ?
+
+
+
+Hilbert sur l’infini, il ne faut pas que l’on nous chasse du paradis que Cantor a créé pour nous.
+
+XXIe ne pas nous chasser du paradis que les big data pourraient créer pour nous, suppose pouvoir disposer d’une anthropologie assumée.
+
 
 
