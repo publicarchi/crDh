@@ -267,5 +267,33 @@ Hilbert sur l’infini, il ne faut pas que l’on nous chasse du paradis que Can
 
 XXIe ne pas nous chasser du paradis que les big data pourraient créer pour nous, suppose pouvoir disposer d’une anthropologie assumée.
 
+## Discussion
+
+Idée rupture entre la donnée et le réel.
+
+La même chez les nominalistes, car sont dans un paradigme de la représentation. Si fait un coup à la Hegel en disant que pas de rapport entre les deux et que le réel, c’est ça. Alors la question plus celle du réel.
+
+Un enjeu fondamental pas de comprendre le monde mais de contrôler le monde. Prophétie autoréalisatrice. Plus un isomorphisme mais une appartenance à la même sphère.
+
+R Il y a effectivement un déplacement, la donnée n’est plus une représentation du monde. Donc ta proposition entre bien dans mon discours car ce qu’il faut envisager. Mais le problème se pose quand a une exigence de véridicité scientifique.
+
+Prédire ce n’est pas expliqué. Dès lors même plus du pilotage, car ne peut que constater a posteriori, et pas diriger. Le pilotage dans la métaphore aristotélicienne sait où veut aller. En revient à la non décision, non pilotage, car délègue à l’incompréhensible. Ne veut pas dire que ne doit pas utiliser le calcul, mais considérer que pas outil de la décision. Par définition le calcul ne décide de rien.
+
+
+
+Données génétiques, clair que pas des représentation mais des entités qui ont un mode de représentation différentes de l’analogique. Léotard de l’inhumain dit est-ce que la question essentiel l’ici et maintenant. Ordinateur. Sur le paradoxe de Ménon, je ne sais quoi et presque rien.
+
+R je ne sais quoi, différence entre la preuve et le calcul. L’ordinateur le monde de la conséquence automatique. Donc lui arrive bien quelque chose mais jamais ni l’auteur, ni le spectateur, ni l’acteur de ce qui lui arrive. Paradoxe, en déléguant la décision et en remettant à l’ordinateur. 
+
+La philosophie de la connaissance pouvoir penser i
+
+
+
+Michoulan. Critique et déconstruction. Ménon et théorie de la connaissance question illumination du passé.
+
+Actuellement dit plutôt que n’y est pas encore plutôt que de dire, circuler il n’y a rien à voir.
+
+Théorie de la réminiscence de Platon, c'est qu’il y a un travail. Cf. Phèdre, le Big data peut-être un outil pour la réminescence, mais pas pour autant un outil de production de la connaissance en tant que tel. 
+
 
 
