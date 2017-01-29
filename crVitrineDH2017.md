@@ -74,7 +74,7 @@ Botanical insertions. Ces insertions sont problématiques du point de vue biblio
 
 Collections botaniques, etc. Mais le cas de la poésie semble en partie différent. Parfois, convergence ou inter lecture avec bordure, etc. Collaboration sur des signes floraux entre les lecteurs et l’auteur. Le livre appelait les fleurs.
 
-Buds, Blossoms, and Leaves ! et une pensée. Très clairement convergence. Poésie du XIXe florales à plein d’égard. *Forget me not*, mais aussi *The Floral forget me not* !
+*Buds, Blossoms, and Leaves !* et une pensée. Très clairement convergence. Poésie du XIXe florales à plein d’égard. *Forget me not*, mais aussi *The Floral forget me not* !
 
 Fleurs qui créent un trouble entre le contenu d’un livre et les contenus d’un ouvrage.
 
@@ -83,4 +83,10 @@ LEs lectures du XIXe distribuées entre ces livres.
 Des éditions qui présentent en illustration des agrafages de fleurs ! Mais aussi, découpages, images, etc.
 
 Culture féminine. Livres qui ont été les leurs, et sont désormais conservés dans nos bibliothèques. Question de savoir ce que voulons en faire.
+
+## Discussion
+
+Bibliodiversity, vie sociale compliquée des livres qui se traduit par des aspects matériels différents. Plus conserve d’exemplaires plus va pouvoir les analyser.
+
+Sans doute possible utiliser deep learning techniques pour repérage automatique.
 
