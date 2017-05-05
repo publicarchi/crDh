@@ -694,13 +694,155 @@ Des bonnes pratiques, cadres OAIS, etc. qui peuvent fonctionner en fonction des 
 
 Webrecorder, pour vous qui produisez des contenus, commencez dès aujourd'hui. Essayez les outils.
 
+## Panel
 
+Mark Beasley dev webrecorder.
 
+Projets pour restituer le web dans un état plus proche orignal.
 
+Net anthology
 
+Webrecorder un outil pour créer pour enregistrer version de haute qualité du web Ilya Kreymer dans le cadre du programme préservation
 
+Worm’s eye view pour archivage URL et timestamp, Le web étant plus complexe
 
+prend en charge javascirpts, etc. Mode replay. Restitution contexte riche. Peut interagir avec la source. Permet préservation de contenus riches sur le web comme twitter, Facebook et réseaux sociaux.
 
+Construit avec émulateur de navigateur. Recording flash avec webrecorder.
 
+pour récupérer certains contenus, besoin de postengeenering. Aspects participatifs, engagement avec l’œuvre.
 
+Marc Bramoullé travaille comme gestionnaire de contenu. Préservation une partie du mandat qu’a au niveau interne. 40 personnes. Product owner, content strategist, community manager. Travaille chez Ubisoft depuis 7 ans. Aujourd’hui 12 000 personnes ! 30  studios dans le monde. 80% dans la production. Parfois des équipes à travers 8 studios.
+
+Concepteurs qui sont des créatifs, producteurs de savoirs. Knowledge workers. 70M budget pour un jeu. Réclame organisation pour gérer ensemble des contenus et des connaissances produits dans le cadre de ce travail.
+
+5000 collaborateurs en ligne, 24 000 sur les mailing listes, 50+ newsletters.
+
+Un intranet qui appartient au centre de connaissance, possible de filtre sur les plateformes et les studios. Possibilité de s’inspirer de ce qui a été fait par ailleurs. Ensemble des métadonnées, etc. Documentation clef dans ce processus, comment le produit a été réalisé. etc. Key contents qui sont mis en avant, et contenus d‘intérêt en fonction de son activité dans l’entreprise.
+
+FindlWas! ne conserve pas tout le code, pour le faire un service de recherche d’entreprise. Un moteur de recherche pour accéder aux masters, etc.
+
+Un processis, de la conception en workshop à la production.
+
+Politique s’assurer que bon endroit pour conserver ensemble information. Archiver les données de manière adéquate. S’assurer que l’équipe supporte la stratégie de contenu, et comprend bien qu’important de gérer les données à tous les stades de leur production.
+
+Maria Yves Leblond, web departement à Arte France. Produisent contenus interactifs depuis 10 ans. 70 à 80 réalisations très diverses. Garder à l’esprit dans la manière dont envisage cette question à la fois comme producteur, co-commissionnaire des contenus. Mais aussi un média publiant et distribuant les œuvres que co-produit. D’autres producteurs et partenaires. Modèle de coproduction hérité du système français, licence pour temps limité et territoire limité, ce qui pose la question de savoir ce qui arrive une fois qu’on arrive au terme de ce délai. Est donc aujourd'hui confronté à cette question.
+
+En France un dépôt légal du web assuré par l’INA dans un cadre réglementaire mais réservé à une consultation de recherche. Reste avec tout le reste. Plusieurs issues. Tension living entre encouragement à innover, employer dernières technologies, qui à certains égard opposé accessibilité et conservation. Besoin de structurer la scène professionnelle en France. Producteurs interactifs se sont constitués en association il y a 2 ans. A commencé récemment à produire des jeux vidéo. Une école pour apprendre des méthodes, de la maintenance et de la préservation, et une raison pour cela possibilité de disposer d’une chaîne commerciale. Cas rare pour nous car contenus produits librements pour le web sur fonds public. Pas pour autant que pas de valeur.
+
+Huges Stweeney, ONF
+
+Grande variété de plateformes et contenus. Dans le mandat de ONF besoin archiver ce que l’on fait. Fait correctement dans le cadre du 25 mm. Mais challenges à travers les décades. Avec les œuvres interactives, s‘assurer que l’ensemble des contenus soient sécurisés de manière approprié. Documenter les expériences de façons appropriées. Ne pas contraindre la créativité par les processus archivistiques.
+
+## Katerina Cizek, Highrise comme key study
+
+Actuellement au MIT documentaire lab, un studio de corrélation. David Openheim. 7 ans. 2 Emmy Awards, Peabody Award, etc. 300+ couverture de presse. etc.
+
+Idée de prendre le high rise building comme un prisme de storytelling de notre époque. Départ local.
+
+Story, process, platform technology, process
+
+5 documentaires majeurs produits au cours des 7 années. Quelques clips pour avoir une idée esthétique et du contenu éditorial. Ensemble généralement réalisé avec ONF, autre sur les serveurs du New York Times
+
+En terme de plateformes et de technologies, toutes html, WebGL, HTLM5, YEllowbird 360, APIS, Yahoo, etc.
+
+Film à Cuba, avec entreprise Yellowbird film 360° streaming on line. Flickr projet, de participation. Transformation de Out of my windows en installation interactif. Utilisation des contenus et reformattage pour une installation. Idem avec métro pour aire installation documentaire sous forme de poster. Également des performances, live show, radio broadcast depuis les bâtiments.
+
+Peut aussi envisager seulement les contenus, plus de 10 000 photographies, 90 films courts, 360 collage et 360 films, 10 feature articles (journalism) auxquels contribué pour ajouter du contenu, 20 academic article, 6 poster métro, 20 profiles humains, etc.
+
+pour moi le processus lui-même important. Plusieurs choses inspirées de ce procès notamment le FB Challenge for change. Logique participative, collaborative, etc. Projet de résidence 5 ans à Toronto, beaucoup de documentation de protocoles et outils. Deux kits qui sont disponibles pour des équipes distantes à travers le monde. Projet historique. Research and ethics board, participatory-research action, etc. un manifeste.
+
+Sur le fonds une question spirituel. Pas tant conserver le projet proprement dit. Mais comment conserve l’esprit du projet. Comment ziguifier high rise et son esprit.
+
+Un écosystème élaboré. Comment faire.
+
+## Discussion
+
+Beaucoup de technologies, et plateformes. Beaucoup de complexité pour le conserver. D'une certaine façon un projet auto documenter. D‘un point de vue médiatique, savoir ce qui mérite d’être préserver et à quel moment engager le processus de préservation. Dimension caractéristique des documentaires, relation avec les personnages et le moment où le film est réalisé. D‘une certaine façon, question de savoir ce qui se passe avec ces personnes 20 ans plus tard alors que vie passé et que documente un moment. Une question de base pour la production de documentaire, paramètre important de où et quand le résultat doit être présenté.
+
+Ici ce qu’il y a de commun avec le documentaire habituel, une personne au centre qui fait quelque chose. Et passage depuis l’attention à la suite. Doit faire beaucoup plus à propos de la manifestation physique de nos projets. Un élément central auquel devons réfléchir et donner forme. Pas forcément chercher à rendre le contenu accessible pour l‘éternité. Sans doute faire l’effort d’organiser une sauvegarde. N’a aucune idée de ce que pourra signifier dans 200 ans ce contenu.
+
+Qu‘est-ce que la préservation signifie pour vous ? Question de rendre l’œuvre accessible dans son intégrité de manière autonome mais aussi dans son contexte. Content retrieval et manière dont contenu peut être découvrante. Pour Arte préservation est une vieille histoire, pour moi liberté d’usage. Nombre des œuvres dont s’occupe ont cette caractéristiques. Des œuvres souvent immatériel. Il y a une sorte de crise de croissance, a passé des années à faire des choses et d‘un coup une sorte de panic à l’égard du temps. Pas de réponse sur ce qu’est la préservation simplement contenus qui doivent rester disponible. Question de la manière dont peut se réaprorpier les contenus. Si considère la littérature ou musique, voit bien que va et vient. Montréal une ville prolifique en création numérique. Ici ressuscite ZIG mais que signifie pour les historiens d’étudier la production récente quand pas disponible ?
+
+Qui devrait être responsable de cela ? En France, pense cela de manière spécifique et légale. Pas dans le contexte du copyright. Contenus avec licence limitée dans le temps et les territoires, à voir avec financement et possibilité de les rendre disponibles gratuitement. Une tension entre les fait de pouvoir les rendre possible et les maintenir. Besoin d’argent, peut les conserver mais quid prefinancement. Grande partie du secteur en France financé sur argent public. Dès lors serait juste que l’argent vienne de la même source. Une responsabilité partagée comme le fait de produire ces œuvres broadcaster, autorités publiques, etc. Pour ONF, du leadership, journée d’étude aujourd’hui et workshop demain. Plans d’action aussi. Peut mettre pair de joueurs ici, et exemple de leadership. mais choses qui arrivent déjà, plusieurs pièces du puzzle réuni, doit donc faire preuve de leadership et pas travailler chacun dans son coin.
+
+Le rapport à la préservation sans doute différent entre secteur public et commercial. Clairement le bénéfice commercial un vrai inventif à agir ici. Près de la moitié du revenu de Ubisoft se fait sur l’ancien catalogue. Doit donc souvent remasteriser jeux pour les nouvelles consoles pour les vendre et permettre aux joueurs vivre intégrité de l’expérience.
+
+Question de la legacy de Highrise et manière dont pourrait la transmettre pour génération future. Une bonne manière sans doute l’auteur qui en parle. Préserver Kat !
+
+Plusieurs questions dont le leadership. Comprendre que préservation pas seulement regarder vers le passer. Mais penser pour le futur. D‘une certaine manière comment nouvelles générations peuvent faire avec des contenus et remixer. La documentation est clef ici, mais ici besoin d’être créatif aussi dans la manière de produire la documentation.
+
+Chaque fois que des dimensions participatives, doit respecter les acteurs car institution publique, un challenge de considérer les limites normales. Music of insomnie, musique créer par twitt des gens insomniac. Anonyme, d’une certaine manière internet est la pellicule, comment archive l’internet ?
+
+Isabelle, enseigne cinéma à UdeM, lorsqu’envisage un film, essaye de comprendre dans quelles conditions un travail a été produit. Pour nous formidable de pouvoir disposer de l’ensemble de la documentation, en tous les cas d’un point de vue académique fondamental.
+
+## Jean Gagnon, Memory loss
+
+Quand parle de culture, parle de mémoire. Se souvenir fondamental dans la culture. Comment se souvient.
+
+Directeur de la préservation et de l’accès aux collections. Une des difficultés à parler à la fin de la journée c‘est que beaucoup de choses déjà dites. Mais au moins peut considérer qu’un certain consensus se dégage.
+
+La cinémathèque est une organisation à but non lucratif de financement privé. Reconnue dans la loi québécoise sur le cinéma comme cinémathèque reconnue mais ne vient pas nécessairement avec tonnes de monnaie. Ce dont je vais parler aujourd’hui coûte beaucoup d’argent.
+
+Memory loss, réfère ici pas tant à la perte de matériel, même si fréquente dans le passé comme aujourd’hui, considère que près de 50% du cinéma perdu, a perdu 10 premières années de la télévision au Canada. Mais la perte de mémoire dont je parle ici, c’est de la perte de savoirs à propos de ce dont on parle aujourd’hui.
+
+Comme l‘a vu aujourd’hui nombreuses personnes s’intéressant à ces questions à travers le monde. Parfois pour les nouveaux venus arrivent nouvellement à ces questions. Ce n’est pas que ces questions sont nouvelles inconnues, mais parfois savoir très peu développé. Tous les 10 ans, une nouvelle cohorte de personnes qui en viennent à se poser les mêmes questions que celles qui ont été posées depuis plus de 25 years.
+
+Contrairement aux sciences, nous ne paraissons pas être capable d’accumuler du savoir. Projet de restauration 2003 avec Gughenheim. Project of the Erl King dans le projet Variable Media.
+
+2005 à 2010 documentation des œuvres d’art contemporain DOCAM
+
+Et question du dépôt légal au Québec.
+
+Des projets similaires de recherches. Ici projets listés en 2010 à la fin de DOCAM. Aujourd’hui, près de la moitié de ces liens conduiraient nulle part. Certains pourraient encore fonctionner, mais moitié nulle part.
+
+Réseau Variable media, 2000 lorsque directeur fondation Daniel Langlois, alors projet de financer des projets de recherches qui s’occupaient de préservation. Un projet issu du Gugenheim à NY, notamment John Ippolito. Question de savoir ce que pourrait faire en dehors de la restauration.
+
+The Real King 1982-85, Grahame Weinberg
+
+Trois disque CD, programmes conçus en PASCAL, conçu sur ancienne machine SMC-70, ancien système et système renouvellement. Deux moniteurs et deux écrans dont dimension. Premier exemple d’installation vidéo interactive. Programme en PASCAL qui permet au visiteur de sélectionner et naviguer parmi les films. Cherchait à réactiver le système de sorte que puisse être présenter sur un ordinateur en 2003.
+
+Dans le rapport final report qui peut être trouvé sur le site variablemedia, approche qui a du être adaptée. Pour émuler le code, travail sur le code. Où trace la ligne sur la modification du comportement du système original. Là où celui-ci une erreur, ou cause de crash, sans doute ne peut être considérer comme partie du système original que veut préserver. La valeur de l’amélioration à l’original bien évidemment discutable.
+
+Vidéoplayer beaucoup plus rapide mais artiste considérait que dégradait l’expérience. On a donc du délayer l’affichage de la vidéo. Une attente que l‘artiste souhaitait. Prorgammeur proposé de choisir le langage de remplacement. Java qui est un langage très largement supporté, librement disponible sur beaucoup de système, évite nombreux problèmes de mémoire et bugs de C++. 
+
+Films numérisés et produits en bitmap, etc. ne correspondait pas standard encodage vidéo.
+
+Expérience 14 ans. Ici Java une combinaison haute qualité et faible coût. In computer science toujours aisé de souligner avantages de telle ou telle technique mais en pratique s’aperçoit aussi qu‘en dehors avantages, peut présenter un certain nombre d’inconvénients. 
+
+Projet DOCAM, 2005 à 2010 financé par Langlois. But du projet comment préserver art technologiques. Musée BA Mtrl, MAC, Centre Canadien architecture, et plusieurs universités. Grand nombre de matériel disponible en ligne. S‘est intéressé à la manière dont une institution catalogue une œuvre lorsque l’acquiert. Cette question des métadonnées n‘a pas beaucoup été abordée aujourd'hui. Elle comporte une description intellectuelle, mais doit aussi extraire des descriptions technologiques comprenant les technologies, les dépendances. Un guide technologique sur ce qui doit être fait ici, pas seulement œuvre numériques, mais aussi œuvres avec diapositives des années 60s. Une chronologie technologique pour aider les conservateur à résoudre les réalités relatives à l‘œuvre que récupèrent alors. 
+
+On a aussi développé un modèle documentaire, partant du principe que la documentation est clef. Comme certains l’on rappelé plus tard, très important pour les chercheurs de pouvoir documenter les conditions de productions de certaines œuvres. Exemple ReKall un open source web accessible software développé par Clarisse Bardillot en France, principalement pour enregistrer les arts vivants mais peut également être employé par les créateurs pour documenter leur processus.
+
+Quelques mots au sujet de la Cinémathèque québécoise et dépôt légal du film. Depuis 2006 en charge du dépôt légal du film et de la télévision. Cela a été un très difficile pas en avant à faire en terme de méthodologie mais aussi de question technologique. Car pour gérer ampleur des fichiers qui nous sont confiés et contrôler que ceux-ci sont dépourvus d’erreur, peut nécessiter beaucoup d’expertise et de connaissances techniques, en interne ou en externe. Ici financement pas vraiment suffisant en dépit d’un mandat très large.
+
+En matière de politique public, ici au Québec met beaucoup d’argent au niveau de la production et de la distribution, mais pas grand chose en terme de préservation. Depuis près de 30 ans, budget qui est à peu près le même. Aussi doit être vigilant sur le fait que devient difficile. Pourrait penser une manière de faire en sorte que de l’argent sur le budget de production puisse être intégrer dans le financement de sorte que les producteurs aient ces considérations à l’esprit, adoptent un certain nombre de standard et de bonnes pratiques.
+
+## N
+
+Beaucoup de personnes doivent formuler des décisions. Dernier panel présenté par sponsor, Telefim Canada, directrice production, Rowane Girard.
+
+voir notes papier
+
+## William
+
+Vraiment une journée magnifique. Film à propos de la perte liée aux nouvelles technologies.
+
+Replacer ce dont on parle ici dans un contexte plus large. Parle de web doc, d'art technologique. Mais partie d’un phénomène plus général, celui des changement de paradigme. Chacun sait que ce moment là, très particulier et n'aura pas lieu pour des années. Ce changement de paradigme affecte ensemble de la société y compris les milieux professionnels. Quand intervient difficile de lutter. Présupposés des politiques qui viennent d’un monde où les choses prises pour garanties depuis des années.
+
+D’abord un changement manifeste du médium analogue au numérique. Le livre est un artefact fixe, mais par al manière dont les personnes comprennent le livre fixe. Dans le domaine du numérique, nous avons des versions diverses, des matériaux changeants qui font partie du jeu. Quelle est la bonne version ?
+
+Nous avons parlé dans ce dernier panel d’un monde où le rôle du filtre a changé. Exemple producteur et shooting, versus numérique. Où se place le choix. Parle ici d’une différence d’accès. Une grande quantité de merde, mais aussi une grande quantité de voix qui n’ont jamais eu cet accès à la parole; Doit donc en conséquence repenser cette question de l’accès.
+
+Question cruciale, nous aide à repenser legacy media form. Changements de paradigme qui a aussi lieu dans les media studies. Issues du texte et de la question de la variante. Avec irruption du numérique, média plus la question de savoir ce que les gens font avec les médias, comment ils s’engagent avec les médias. Changent beaucoup la manière dont considère toutes ces formes. Pendant longtemps habitués à sauver des coquilles. Mais les trainées aujourd’hui font aussi partie du tableau. Qu’est-ce que cela implique.
+
+Doit aussi repenser la manière dont considère l’archive. Foucault et Derrida. Mais aussi Wolfgand Ernst?? Beaucoup à voir avec le gouvernement. Relation entre l‘archive et la politique très important. Question de savoir ce que l’on garde beaucoup à voir avec qui nous sommes. Questions de justice sociale, demande un recadrage du fait de l‘accès et de la domination.
+
+Actuellement dans le monde des musées, une sorte de mouvements pour la récupération des objets. Parfois réclame les objets non pas pour les conserver mais pour les laisser disparaître car c’est leur fonction. Actuellement les musées confrontés partout dans le monde à ces questions. La disparition est donc une partie active de la culture. Bien sûr peut les scanner, les numériser. L’effacement est important dans l’avant-garde et question doit considérer. Conserve les histoire à succès. Mais sait que dans le domaine du développement technologique, l’erreur souvent dont on apprend le plus. Jason nous propose de tout sauver, et de fait parviennent à le faire. Bientôt vingt ans qu’existe et une approche intéressante. D’un autre côté une stratégie de filtrage à laquelle peut se référer. Comment la reconsidérer à l’aulne de ces question d’accès et de diversité.
+
+Nouvelles technologies très instables. Doit donc être attentif, car endroit où nouveauté arrive. Demain va essayer d’avoir un mouvement depuis les grandes questions, le cadre général et la pragmatique de ce que pourrait faire aujourd’hui. Ensemble d’organisation qui se sont occupé de ces questions et bientôt parties. Incroyable à quel point les personnes qui ont été les acteurs de ces productions ont oublié à leur sujet. Faire appel à ensemble des bonnes pratiques vues aujourd’hui. Access un driver pour la préservation. Cf. pour DVD et nouveau marché. Une manière importante de penser.
+
+## Remarque dia
+
+Usage souligné soigné niveau des enjambement, séparation des mots; etc. Travail grille à la Suisse (grid) Usage de morceau mangé en bas dia pour casser rect.
 
