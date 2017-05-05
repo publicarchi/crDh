@@ -623,6 +623,77 @@ Problème, liens rompus, etc. pb caractères. Comment approcher ce challenge. La
 
 Highrise continue d‘évoluer. Interface qui risque de paraître dater. Recréer une archive fermée ? ou réinterpréter archive.
 
+## (Im)possible approaches to preserving interactive media
+
+Jonathan Harris "I Believ ou medium – the online medium – has the potential to become the next great way of processing and expressing our xorld"
+
+Flash on the beach, Brighton UK 2008. http://number27.org/beyondflash
+
+Moments of innovation, updated version of an existing site. Permet de passer en revue étendue des contenus dont parle ici. Jusqu’à quel point genre de travail permet de traiter le travail dont on s’occupe. Part de décision curatorieale.
+
+Des questions que ne pose pas suffisamment. Conserve pour des buts différents. Pourquoi conserve-t-on. Une archive focalisée sur l’authenticité. Comment reproduit effet spécifique plus que actuel. 
+
+Préserver les documentaires web considérer ces diverses perspectives. Potentiel de réalisation. Mix media pratique de conservation très fines. Une vraie joie cette conférence.
+
+Owning the content, owning the ~~problem~~ challenge.
+
+David Rosenthal important dans la communauté de la préservation. Penser comment rendre ce contenu suffisamment avancé. Une archive pour webcast. Ce que peut faire comme institution de média. Grande quantité de matériau perdu avant la création de ces institutions, ne peut avoir le luxe d‘attendre.
+
+Quelques années, linéar préservation sur le web. Crawling websites. 
+
+Rafael "Mistrust anyone who has a *method* for conservation of Media Art. Anyone who offers a set of rules is not considering the vast... "
+
+Approaches to preservation
+
+- Hardware presevartion
+- Migration
+- Emulation / Virtualization
+- Documentation
+- Reinterpretation
+
+Définir des tactiques. Matérialité de l’œuvre. 
+
+Make a Mask, œuvre où utilisation souris très spécifique d‘un contexte. Plus tard pour réalité virtuelle, quel type de lunettes utiliser. 
+
+We Feel Fine, projet intéressant du point de vue de la préservation car l’auteur considéré en amont ce qui pourrait être intéressant pour la préservation. Database archive. à un certain niveau, le web a changé beaucoup.
+
+media format
+
+Web Archeology. Digital city, première city based website, 1994-2001.
+
+Gaza Sderot, archivage dans certains pays plus ou moins régulé. En France, dépôt légal du Web. Le font essentiellement de manière automatique, mais manque partie spécifique ou dynamiques.
+
+Émulation et virtualization, émulation comme service s’est révélé très successful. Forays into game archiving. Essaye de faire la même chose pour les environnements de jeu des années 90 produits aux Pays-Bas. Commence à documenter maintenant. 
+
+Flash, exemple ONF. Certain que l’émulation d’un environnement pour flash sera quelque chose d’important. 
+
+Plusieurs dimensions également importantes. Let’s Play Videos "the capturant of games in and at play [.] should be the core objective of game preservation" (Newman, 2012). Plateformes où joueurs filmés, pourquoi ne pas appliquer cela à une dimension collaborative.
+
+Réinterprétation, quand environnement change, doit passer à un autre environnement et la manière dont fonctionne.
+
+Bear 71, ici un événement public. Savoir si aurait pu le documenter. Documentaire interactive réside au milieu de cela. Quid si oublie que ces œuvres master pièce ou pas. Une manière de faire, passer à une remédiation. Alors que parle de VR, pourquoi ne pas essayer. Au début seulement sound and vision, puis Google entré.
+
+nfb.ca/bear71vr
+
+Sans doute pas meilleur projet digital. Complémentaires en divers aspects.
+
+Somebody a messaing service By Miranda July. Application qui ne fonctionna jamais. Plus tard, relancé sous nouvelle version qui fonctionne. Vidéo à propos de la republication. 
+
+Mais trop compliqué de le maintenir, donc terminé.
+
+What can you do
+
+Preservation = more than technology
+
+- Establish intellectual control
+- centralize your assets
+- Distribute redundancy
+- Establish bit preservation
+
+Des bonnes pratiques, cadres OAIS, etc. qui peuvent fonctionner en fonction des différents cadres.
+
+Webrecorder, pour vous qui produisez des contenus, commencez dès aujourd'hui. Essayez les outils.
+
 
 
 
