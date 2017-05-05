@@ -155,6 +155,70 @@ Permaculture diagram after Bill Mollison, David Holmgren and they associate. Env
 
 Ne peut pas sans cesse rejeter la question de la préservation sur des acteurs tiers. Peut l‘intégrer nous-même.
 
+## Discussion
+
+Participante qui travaille sur projet de recherche concernant passage de la mémoire papier à la mémoire numérique.
+
+## Zachary Kaplan
+
+Comment enregistre le web. Directeur exécutif de Rhizome et s’est engagé dans la réflexion sur la manière dont peut transformer les contenus dans différentes formats.
+
+Pas non plus un professionnel de la préservation, et si mon institution conserve plusieurs œuvres numériques, pas une archive traditionnelle. Parvenu à ce champ en partie accidentellement. Plusieurs années, et notamment il y a trois ans avec travail sur le netart et préservation des arts médiatiques. 
+
+Aujourd’hui voudrait expliquer comment parvenu à ce sujet, et manière dont voudrait voir émerger préservation au niveau mondial.
+
+Rhizome fondé 1996 par… pour champion artistes, premiers artistes www. Une communauté liée. Comme indique le nom. époque où liens circulaient beaucoup par les boites mail sans être stabilisées sur des lieux particuliers.
+
+Rapidement amené à présenter des œuvres numériques. Dès lors que Rhizome dédié à la contextualisation du travail. 
+
+Archive de net art créé car musées ne s’y consacraient pas. Question de savoir si archive un lien ou un fichier. Proposer d’héberger le contenu en promettant de maintenir accès au travail. À ce moment pas compris fondamentalement ce que signifiait un tel engagement.
+
+Petite équipe de une ou deux personnes. Starry Night : Rhizome Art Base Interface c. 1999 (Mark Tribe + Alex Galloway) une galaxie.
+
+Dans les premiers temps accès un fait simple. Mais nouvelle génération d’artistes qui ont commencé à produire des contenus non plus hébergés sur leur propre serveurs mais sur des plateformes commerciales. 
+
+2009 premier employé à mi-temps. Depuis 2013 plein temps. Comment maintenir accès au fichier, etc. Fichier pas le même type d’artefact.
+
+Performativité, numérique pas seulement des fichiers. cf. Olia Lialina My Boyfriend came back from the war 1996 Conserver accès à cette performance nécessaire pour conserver accès à l’artefact. Variabilité inhérente à la performance. Dimension du navigateur, et environnement changeant. Ce qui doit être préservé pas autant un objet stabilisé mais possibilité d’être variable.
+
+Meilleure possibilité de conservation sa variabilité en traitant deux aspects séparément.
+
+Performativité, variabilité et décentralisation parvenu à concevoir préservation de ces objets. Approche éthique. 
+
+Emulation as a Service technical detail, University of Freiburg + Rhizome
+
+Pour nous question de savoir comment apporter émulation à grande audience. Émulation comme un service qui met à disposition un environnement préparé à disposition. Ex a pré macintosh TV. 
+
+Cory Arcangel, *Bomb Iraq*, 2005-2014, Presentation at Rhizome.org
+
+Offrir expérience comparable à celle anciens ordinateurs. qui reproduit outils des versions antérieures de photoshop.
+
+Mongrel. *Heritage Gold*, 1997
+
+Emulation framework, cf. Oldweb.today navigateur émulé.
+
+JODI, http://wwwwwwwww.jodi.org/ rendu différent dans Netsacape et Chrome navigator
+
+Changement majeur création par les artistes d’art sur les plateformes commerciales comme YouTube ou Facebook. Utilisation des algorithmes de recommandation, etc. qui déterminent très largement valeur du contenu. Ce type de production réclamait un changement de paradigme. Webrecorder permet un enregistrement individuel très précis comprenant y compris javascript. Supposant que le web de plus en plus individualisé, nécessaire que l’archive devienne elle-même de plus en plus individuelle.
+
+Utilisé ce matériel pour enregistrer performance par exemple instagram de Amalia Ulman, 
+
+Voulu standardiser système pour distribuer. Archivage pour tous et pour les institutions. Webrecorder. Old web browser avec flash, œuvre avec Livescript, etc. 
+
+Group Z Maichaël Samun, Love 1995
+
+Travail avec institutions culturelles pour tester solutions. Alors devenu par accident, en raison de nos besoins institututionnels, une institution de préservation. Autres organisations qui pourraient créer collections et poser question. Partage outils, mais aussi intéressé par partage expérience. Alors possible de décentraliser préservation et s’assurer que la mémoire soit bien sécurisée et préservée entre les communautés.
+
+Mais travail qui pose questions éthiques difficiles. Par exemple travail sur DocNow avec Melon. Archivage de photos, et archives, etc. protéger la mémoire et les individus. Capture possible de n’importe quoi sur le web. Mais questions de savoir comment rend diversité des voix, expressions, mais aussi protection vie privée. Premier événement sur ce sujet bientôt organisé.
+
+## Patricia Falcao, Preserving digital Artworks at the Tate
+
+Tate, time media preservator
+
+Patricia Falcão, Time-based media conservator depuis 8 ans environ
+
+C
+
 
 
 
