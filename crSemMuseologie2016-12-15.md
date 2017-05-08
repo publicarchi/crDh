@@ -34,7 +34,11 @@ Voir et regarder deux choses très différentes. Porter un regard actif, très d
 
 Ce que voulait, c’est entrer dans la cognition.
 
-L’expérience de visite et cours d’expérience. Pour nous ce qui fait sens pour le visiteur, de son point de vue, au fur et à mesure de sa visite. Jacques Theureau : Le cours de l’action. Francisco Varela : L’inscritption corporelle de l’esprit.
+L’expérience de visite et cours d’expérience. Pour nous ce qui fait sens pour le visiteur, de son point de vue, au fur et à mesure de sa visite. Jacques Theureau : Le cours de l’action. Francisco Varela : L’inscription corporelle de l’esprit.
+
+https://www.cairn.info/resume.php?ID_ARTICLE=RAC_010_0287
+
+http://www.seuil.com/ouvrage/l-inscription-corporelle-de-l-esprit-sciences-cognitives-et-experience-humaine-eleanor-rosch/9782020134927
 
 De Visu un laboratoire qui défend une vision constructiviste. Le monde construit de fait par les humains. Partage une sous-catégorie énactive. École chilienne, idée que l’inscription de l’esprit est fondamentalement corporelle et inscrite dans un corps. Boucle de l’action, chose que peut penser en fonction d’une structure neuronale qui permet de construire des choses et de sentir des choses.
 
