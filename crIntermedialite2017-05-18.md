@@ -194,9 +194,71 @@ Kodak instamatic, au même moment que Bourdieu conduisait sa recherche sur l’u
 
 
 
-## Authenticity, Obsolescence and the Analogue Renaissance: Kodak’s ‘new’ Super8 camera 
+### Authenticity, Obsolescence and the Analogue Renaissance: Kodak’s ‘new’ Super8 camera 
 
 André Habib (Université de Montréal)
+
+Papier qui est très lié à un ensemble d’obsession qu‘a nourri ces dernières années autant qu’à des projets de recherche. Vie après la vie paradoxale. Rapport analogue et digital. Caractéristiques sociales associées à ces deux dimensions analogues ou digitales.
+
+Nostalgie de l’analogue, un hystérie des média. Un écho des médias dans ses effets mais sans ses causes. Cf. Simondon, etc. Essayer de comprendre la forme et la signification de à quoi ressemble le film quand considère flares, poussières, rayures comme élément d’authenticité. Mais l’image numérique généralement pas brulée !
+
+Pour autant toutes ces choses ont été produites numériquement ces dernières années. Capital esthétique de ces choses d’autant plus intéressant en rapport au discours concernant la perfection du numériqrque.
+
+David Sax, The Revenge of Analog. Le simulacre qui nous a fait perdre le contact avec la chose. Souvent présenté avec ses vertus, organiques, narrative.
+
+Nostalgie reflexive qui est supposée provoquer délectation. Signifiants de cette authenticité, de toutes ces choses accidentellement analogues, apparaissent aujourd’hui comme des qualités a posteriori du médium. Qu’il est matériel, appréhensible, mais choses qui sont perçues comme perdues aujourd’hui. 
+
+Possibilité de reconnecter avec un passé qui serait perdu. En même temps immédiatement reconnaissable. En réalité une forme très contemporaine réifiée, cf. clip vidéo de Lanna del Rey.
+
+Lorsque Kodak a annoncé qu’il allait ressortir une caméra Super 8, peut bien évidemment être rattaché à ce contexte. Annonce en 2016, l’entreprise qui avait introduit ce format en 1963. Nouvelle présentation dans un format plus plat. Mais jamais sortie.
+
+Kodak publie à la même époque une plateforme Films on Real Film, où peut montrer de "vrais films". Paraissait un repositionnement complet de Kodak autour de la renaissance de l’analogue autour de laquelle le nouveau directeur nommé en 2014 semblait vouloir surfer. Question part de ses revenus à ce sujet.
+
+Peut se demander quel est le sens de tout cela. Nostalgie, surf sur vague hipster ? Mais si considère jeune génération qui n’a pas connu production ancienne, Old is the new New !
+
+Retrouve ce qui a été perdu. La renaissance analogue est là. Kodak Ektachrome film !! Mise en relation avec les vynils, etc. Choses qui ont été redécouverte à la fois par ceux qui les ont perdus et ceux qui les redécouvrent. Toujours pas ressorti !!
+
+Agonie de Kodak depuis 2000. En partie en raison de la vague du numérique qu’a contribué à créer sans vouloir la marketer. Faillites, et destructions usines.
+
+Welcome to the Analog Renaissance, 2012 industrial holocaust. Remplassemblent des projecteurs analogiques 25mm par des projecteurs numériques.
+
+Citation "je ne me suis jamais vu enfant en super 8, je veux offrir à mes enfants cette expérience" !
+
+Festivals spécialisées, et diverses manifestations. Nitrate picture show, etc. Super8 Events. Tous ces événements participent en quelque sorte à cette renaissance analogue.
+
+Design de la caméra par designer qui a fait également lecteur numérique de disque vinyles. 
+
+Caméra avec chargeur de film, mais aussi écran ! une carte mémoire. Envoyé à développé et Kodak renvoie film lui-même développé mais aussi téléchargement du film numérisé pour le partage sur les réseaux sociaux. Typiquement intermédial.
+
+Kodak pas la seule à avoir envisagé. Logmar 2014 idem. Valent cher aujourd'hui. Randacam accompagnant la vente d’appareil Lomo. Culture Hipster générale qui circule à travers et par la technologie numérique comme ebay par exemple. Instagram qui a également comme l’a montré Suzanne rendu désirable expérience analogue. De même rétro-gaming (GameBoy, Fisher Price) et même K7 players Elbow. Et même retour de la machine décrire !
+
+Tradition d’innovation par rapport au passé. Comme si question de designer une caméra super 8 aujourd’hui. Se concenter sur une des fonctionnalités les plus surprenantes de cette caméra, la poignée. La plupart des caméras super 8 ou 16, poignées en cuir pour tenir la caméra mais pas pour filmer. En réalité une poignée dessous pour la tenir comme un microphone.
+
+Généalogie de cette poignée qui renvoi aux débuts de la Betamax qui dispose poignée au dessus. Sans doute en raison du poids de ces caméras que devait porter sur l’épaule. Mais restée après réduction de la taille, et caméra LCD. Se sont avérées utiles notamment pour les plans en contre-plongée (ex film de skate).
+
+Retrouve ces poignées dans les produits de Sony, etc. Parfois formes très sophistiquées pour certains films. Ex système dans lequel met iPhone. Esthétique du skateboard qui explique sans doute cet aspect de la caméra et mode d’existence de cet objet.
+
+Dogtown and 2 boys, paranoid Park, etc. Une manière de restituer à l’esthétique glossy des caméras. Mais aussi persistance d’une sous-culture relative au style de vie. Savoir si un style de vie Super 8. Régime culturels de ces opérations. Mais en tous les cas, archéologie de l’ergonomie et de l’usages socio-culturel de ces appareils.
+
+### Discussion
+
+Deux type de développements, anciennes entreprises qui ne font plus d’argent et qui prennent un tournant dans leur activité. Question de marketing, comment donne nouveau look à notre compagnie au moyen de ces dimensions qui relève du life style, plutôt que manière dont regarde.
+
+Sans doute la question principale pour Kodak le marketing, mais pense aussi que produit des choses. Superficialité et artificialité de la chose produisent toutes les deux des choses.
+
+Entreprise Impossible, qui a cherché à ressortir le polaroïd sur le marché. Mais photo prise sur un iPhone et imprimée sur l’appareil. En fait appareils souvent laids, et bizarres, peu commodes. Sans doute drôle, et leur principale qualité.
+
+Aujourd’hui toute la pile des technologies pour le film centrée sur le scann et une chaîne intermédiale. Principalement produisent des négatifs destinés à la numérisation. 
+
+De même toujours fasciné par le maintient du prisme et du visuel qui sont inutiles alors que l’écran. Lentilles aussi une médiation entre le sujet et l’appareil. 
+
+Une des différences entre l’analogue et le digital d’une certaine manière le bruit. Et ici dans les deux cas bruit reproduit dans la forme numérique. Signification très liée à l’ontologie du média. Revendication de ces entreprises, produire du grain. En même temps scannent des films réels et permet de les sauver. Filtres pour rendre effet. Complètement injustifiés technologie. Mais actuellement en train de scanner, vrai flammage du film, etc. Très confusant à plein d’égard, mais ce qui m’intéresse plutôt de savoir pourquoi font-ils cela. Produit intentionnellement, ce qui n’était souvent pas là intentionnellement. Encore que nuancer car grain parfois intentionnellement introduit dans les films par les réalisateurs.
+
+Question et rapport à la restauration. Regain d’intérêt pour les films maisons. Digital scans avec restauration des couleurs, et correction des films. Mais de nouveau voit volonté des cinémathèques de promouvoir 35 mm de nouveau.
+
+
+
+
 
 
 
