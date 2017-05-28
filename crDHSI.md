@@ -1,0 +1,102 @@
+# DHSI, plenary Panel
+
+## Ray Simons, directeur de l’institut
+
+Félicite les participants à DHSI, salut notamment les leaders de groupes. Merveilleux de se trouver encore ici. Congrès qui reflète et peut servir de modèle à ce qui constitue peut-être en premier lieu les DH. Notamment la nature informelle dont on interagit et partage les uns avec les autres. Ce sur quoi j’aimerai finir.
+
+## Centering Digital Humanities Collaboration and Community at Ryerson
+
+Lorraine Janzen Kooistra, prof anglais Ryerson
+
+Cony Projets sur visualisation, développement savoir. Débuté sa carrière dans les DH ici, et donc très heureuse d’introduire la rencontre et particulièrement l’inauguration dans cet endroit. Va nous parler de ce que cela signifie construire une communauté et créer un centre.
+
+Commencer par ton histoire Cony. Volontaire pour travailler sur édition numérique. Sa thèse sur la littérature de la fin du 19e. Postdoc chez Ray Siemens à Victoria. Premier poste comme professeur assistant UBCO, maintenant en route pour Ottawa. Création d’un des premiers projets LGBT. Puis directeur associée DHSI. Aujourd’hui Société des humanités numériques.
+
+Ce sur quoi veut mettre l’accent, c’est que si les invite vont venir. Mais ne peut pas savoir quand viendront lorsque débute. 
+
+"Productive collision"
+
+Centre qui prend place dans le centre du savoir de l’Université, sa bibliothèque. Que signifie centraliser les DH et son scholarship.
+
+Considérant cette question trois aspects constructifs à la métaphore.
+
+### Building form the ground up
+
+Lorsque débuté, très peu de collègues parlaient de digital humanities. 2005 rejoint Ryerson. Diagramme de vein, etc. Yellow Book. Workshop à Université de Victoria avec Nines en juillet 2005. Alors demandé de présenter sur la TEI, une domaine dont avait seulement connaissance minimale et connaissance très partielle. Mais devait survire et réussir. Remercie le support et la générosité des praticiens de la communauté des DH.
+
+Première plateforme, aujourd’hui 2.0. Mais aussi construction d’un centre. Qui aujourd’hui supporte près de 20 projets dans divers départements. Projets en lien avec d’autres projets à l’étranger. Collaboration a été, et continue d’être clef dans la construction des DH à Ryerson et continue de l’être.
+
+Plan stratégiques et visions institutionnelles. Explique que jamais eu de budget opérationnel et reconnaissance institutionnelle. Mais bénéfice, building form the ground up c’est apprendre comme partout où le peut. Apprend non pas des métriques mais par les scholarship primitives. Appris également des erreurs. Concentrer sur les processus à la collaboration. Pris cinq ans pour savoir comment réussir balisage d’un texte avec images pour le volume 1. Avec cette méthode calculait que 60 ans pour le reste, mais en fait terminé les 12 volumes en deux ans. Car ayant appris de nos erreurs gagné en compétence.
+
+Annotation, comparaison et représenter. Depuis 2005 Keneth de la bibliothèque collaborateur clef. Facilité d’accéder à la numérisation et OCRisation des volumes prêts pour commencer l’édition structurée. Collaboration qui a permis aux étudiants à apprendre comment manipuler les livres anciens, et les numériser. Rapport avec la matérialité. Ne serait jamais devenu un centre comme le devenons aujourd’hui sans la collaboration des bibliothèquaires.
+
+Mais aussi collaboration des doyens, offrant support technique et fournitures et équipement. Manière dont d’abord eu une première pièce, puis une autre, et encore une autre, et enfin un premier équipement. Amazing cohort of early adopter, communauté d’assistant qui partagent fort sentiment de propriété dans la ressource qu’avons construit ensemble. Chaque année, possible d’envoyer cinq personnes à DHSI à Victoria. Alors pouvant devenir mentor par fréquentation DH leader (Laura Mandell, etc.).
+
+Digital Humanities : Visualizing the archive. 2010 possible d’envisager de nous développer d’un petit projet à un centre de recherche. Jason Boyd DH spécialiste. Participation à un ThatCamp. Organisation d’un Symposium. Même année où obtint financement. Support avec invitation à divers événements et conférences. Poursuite du projet qui doit donc beaucoup au support de la communauté.
+
+Nouvelle opportunité de travailler à l’intersection du matériel et du numérique avec projet proposé par bibliothèque. Optint espaces pour loger des livres (c. 2010), vitrine. Labo devenu un objet pédagogique. Une collection de livre a besoin d’être cherchable pour devenir utile. Comment créer un catalogue cherchable pour la collection à la fois accessible au public et consultable en ligne.
+
+CLA searchable catalogue développé avec Omeka. Les étudiants ont construit des expositions en ligne en liant leurs exposition au catalogue. Participation à l’open scholarship. Ensuite déplacé aux collections spéciales et archives, plus facilement accessible pour le public. Grace au support des responsables des collections.
+
+Windsor Salt Freakies ! Relocalitation CLA dans le nouveau bâtiment des archives. Occasion renouveler les enseignements. Synergie. 9 mai 2017, occasion d’un forum pour proposer aux étudiants de présenter leurs recherches sur divers sujets.
+
+Toujours étonnée d’être encore dans cette espace, disposer facilités comme un espace de numérisation ou une salle de réunion que partage avec la bibliothèque ainsi qu’un local de travail. En outre à proximité, dans le même bâtiment avec un laboratoire de fabrication. Important car construit des relations personnelles également.
+
+The House that jack built, 1958, pas les valeurs que véhiculent. Si vous le construisez, ils viendront mais vous ne savez pas ce qu… Être suffisamment flexible pour assumer changements et prendre en compte nécessaires mises à jour. Mon père constructeur. Mais conscient qu’aider à construire la ville qu’il aimait.
+
+Une maison bien construite, expertise, relations humaines...
+
+Les principes fondamentaux de notre collaboratrice. Droits et responsabilités. Accepter qu’une personne ne peut pas disposer ensemble des connaissances nécessaires, etc. Monographie qui dans mon domaine reste étalon de la réussite académique, un modèle qui perpétue le mythe du travail scientifique isolé.
+
+Reconnaissance du travail intellectuel mobilisé dans les projets DH. Collaborative research. Bethanie Novinsky. Différents rangs dans la faculté, les collaborateurs techniques, et les étudiants. Codification des responsabilités et des crédits. 
+
+Comment conserver notre communauté en bonne santé. Bénéficie du travail pionnier de Siemens. Rédaction d’une charte par les participants, et crédits prévisibles. Processus transparent. Dans rencontres régulières mise à jour. Assistant de recherche deviennent ainsi des collaborateurs scientifiques reconnus. Les encourage également à proposer des projets de recherche. Doit certainement encore faire plus, ici aussi apprend de nos erreurs.
+
+Authoring seulement l’une des activités. Fabrication, design, lecture, etc. qui doivent aussi susciter des crédits. Un autre principe des DH, que les résultats de recherche doivent être accessibles librement. Ensemble des contenus librement mis à disposition par l’intermédiaire d’un site web. De même Lesbian an Gay Liberation in Canada par Co-P and Michele Schwartz. Crucial de comprendre que la manière dont conçoit le portail de consultation instance argument. Passage entre le passé et le futur. Une herméneutique, comprendre comment nos codes culturels fonctionnent aujourd’hui.
+
+Préserver et interpréter notre patrimoine culturel toujours été le travail des humanistes. Doit rester critiques et réflexifs sur nos pratiques.
+
+DH critiqué comme anti-théorique, pratiques, etc. Toujours besoin d’apprendre les uns des autres. Processus de construire une vaste archive de matériel numérisé. À la fois aléatoire et privilégié. Participer au champ de la production culturelle à grande échelle. Raison pour laquelle les DH si essentiels et cruciaux pour le patrimoine culturel.
+
+Patrick Leary? parle d’online conundra, les documents qui restent non numérisés qui restent invisiblement remote et dans l’ombre. Digital divide entre ce qui est disponible et ce qui ne l’est pas. En 2005, aujourd’hui encore plus crucial. Pour les étudiants aujourd’hui internet est omniscient, ce qui ne revient pas dans recherche parait non pertinent. Suppose une urgence dans ce que faisons.
+
+Former les étudiants pour que sache suffisamment à propos du code pour savoir que google remédiatise.
+
+En outre dher doivent avoir conscience critique et reflexive de leur rôle lorsque préservent, encodent et rendent disponibles ressources, alors en fait réécrit l’histoire et être conscience de cela. ex Re-Writing history in CDH research project. Projet LGBT idem, montre que l’histoire peut être queer en mettant à disposition données fluides, etc. Construction de l’Innocence des enfants. Paul Moore sur connexion du cinéma. History books and cultural… examiner zone de contact diaspora chinoise, etc. performatif et interactif transformation en objets 3D. Mise en acte de la notion de McGann déformation interprétative… 
+
+Dans ces projets et de plein d’autres manières les project conduits au centre réécrivent l‘histoire et illuminent la vie de personnes oubliées qu’elle remet dans la lumière et revigore.
+
+Deeply recursive ways selon laquelle signification et interprétation s’incorpore dans navigation et construction.
+
+Ne sait pas ce qu’aura à la fin.
+
+De la TEI à RDF triples. Sait pourquoi TEI fondateurs. Interopérabilité et transférabilité, une manière de construire pour durer. Autrement dit, utiliser et réutiliser pour le futur. Comme le consortium le déclare, contribution à...
+
+en dépit de ce succès à constamment maintenir standard. Données qui restent des silos plutôt que des agrégats ouverts. Pour des gens comme moi qui construit des outils plutôt que les conçoit, bon de savoir qu’une communauté s’occupe d’outils pour moi. Travail à l’échelle macro sur le sémantic web, possibilité de partage de données. Infrastructure de Suzanne Brown. Un projet ambitieux et unique international.  Une collaboration qui a un réel possibilité de positionner canada comme leader dans l’histoire culturelle.
+
+Préservation long terme de born-digital scholarship 2016-2018, travail pour construire preuve de concept sur préservation projets nativement numériques. Au moins sûr que projets qui vont durer et rester accessibles à long terme.
+
+Construire pour durer dans un monde où institutions et technologies toujours changeante. Un objectif ambitieux. Au centre de tout cela, les étudiants que forment à la recherche en DH. 72 étudiants formés 58 graduate. Pour ce que je peux dire de tous, foreuse sur 5 d’entre eux.
+
+Ruth Knetchetel office of research service U Waterloo
+
+Dr Constance Crompton, ass prof UBCO, now Ottawa
+
+Any Ratelle Research Coordinator Semaphoe Lab U of Toronto
+
+Ali Versluis U de Guelph.
+
+Reginald Beatty Toronto Bookbinder and CDH project manager depuis 2010 !!
+
+Expertise et mentoring. Sans lui les choses tombent. 
+
+Si les DHs sont centrales à la formation académiques et développements pour la société, les institutions doivent investir dans leur support. Collaborer et … pour durer.
+
+Comment travaillé pour collaborer comme équipe. Culture de volontariat, celle sur laquelle le centre s’est construit. Même si toujours demandé comment payer Constance ! Si volontariat, inclure autres personnes. Pourquoi l’avons fait, car convaincus que utile pour le futur. Je ne crois pas que soit durable ou sustainable. Mais je sais que recherche que nous avons produit et partagé avec le monde, pu être achevée car avons pu nous mettre les uns avec les autres.
+
+Et maintenant un bel espace pour plus de gens. Productive collision. Vraie célébration.
+
+Le futur que nous construisons ensemble aussi dans nos mains. Forged at the CDH
+
+
+
