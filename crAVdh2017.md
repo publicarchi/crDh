@@ -200,6 +200,8 @@ NEURAL NEIGHBORS
 
 https://yaledhlab.github.io/neural-neighbors/
 
+https://github.com/yaledhlab
+
 ## Hands on
 
 Computer vision for DH handson
@@ -270,9 +272,225 @@ Low-level difference example. Altère image, même nombre de pixels, du point de
 
 Différence de haut-niveau. Image de l’acropole d’Athènes. Mémoriser cette image dont peut acquérir une version mentale très haute. Pour autant incapable de répondre sur le nombre exact de colonnes. Pourquoi car une vision de très haut niveau, compressée en ne tenant pas compte du détail. Une représentation de haut niveau même si est capable de mémoriser les images.
 
+### Une opération fondamentale : la convolution
 
+Opération de base pour transformer une image
 
+Cette transformation est définie par un kernel (filtre)
 
+Elle peut produire un adoucissement, renforcer les angles, etc.
+
+Convolution illustrée
+
+http://setosa.io/ev/image-kernels
+
+Comment prend en compte les pixels environnants pour computer le pixel lui-même.
+
+Belles visualisation pour rendre cela plus clair. Version numérique d’une image une liste d’intensité de pixels. Peut jouer sur des niveaux de résolution différent. En circulant dans l’image prend la valeur et la combine avec des valeurs proximales calculées pour produire la nouvelle image.
+
+Idée pas travailler avec mathématique, transformation de Fourier etc. mais seulement comprendre comment cette image fonctionne.
+
+Gabor filters, detect orientation and scales of edges, good model pour le first part of V1 processing (brain)
+
+Take Away messages : 
+
+notre compréhension de la vision des images et sans doute plus complexe que les versions digitales (arrays of pixels). Ce qui rend le champ de la vision computationnelle si complexe. 
+
+Digital images are a 3D stack
+
+Convolution is an operation that transform images...
+
+## Pratique
+
+Buts se familiariser avec Jupiter
+
+performer des opérations de base sur les images
+
+jouer avec différente convolutions
+
+https://cdh-dhlappc5.epfl
+
+## What do art historian do ?
+
+Projet depuis 2009
+
+Computer vision formuler des questions de recherches qui soient pertinentes pour les deux champs. Savoir ce que nous définissons comme le style et définition des attributs du style.
+
+Cam pcomputeres propel the understanding and reconstruction of drawing processes ?
+
+étude du processus de dessin, puis modifications autres parties de l’image. Nous fournit des précisions sur les processus de production. Comparaison avec l’image originale.
+
+Comment et quels gestes utilisés pour illustrer la communication légale. Quels gestes peut-on identifier. Image en deux dimensions et sans perspectives, pour autant challenge car des représentations de nature différentes selon les artistes.
+
+Travail qui fournit des informations sur la communication gestuelles.
+
+Projets qui montrent que possible d’analyser et explorer des corpus d’images numériques. Interface développée pour analyser des corpus plus larges. Algorithme de classification utilisé. Collection variée où peut sélectionner des objets d’intérêt. Sélection possible d’images pour identifier des motifs comparables dans le corpus. Interface qui permet de marquer jusqu’à 5 surfaces et lier ces surfaces entre elles. En tant qu’utilisateur, possible de donner du feedback au modèle pour marquer les exemples négatifs et positifs et relancer le processus.
+
+Au moyen de ce genre d’interface possible de marquer et classifier grand corpus et trouver des similarités visuelles. Utilisation de DL méthodes et approches non supervisées pour étudier les similarités visuelles à différents niveau. Niveau de l’image, analyse globale, mais aussi séquences et aspects temporels.
+
+Avec les développements du champs et de la numérisation de plus en plus confrontés à des grandes masses de données et se pose la question de savoir ce que l’on en fait.
+
+Comment envisager les DH dans le futur, etc. 
+
+Qu’est-ce qui manque en terme d’outils 
+
+## The Media Ecology Project’s Semantic Annotation Tool and Knight Prototype Grant
+
+https://news.dartmouth.edu/news/2015/12/mark-williams-and-media-ecology-project-receive-neh-grant
+
+Digital curation university of Maine
+
+Dimitrios Latsis pas pu être là, postdoc à Internet archive.
+
+The Arclight, Media Ecology project. 
+
+- Media thread
+- Scalar
+- Onomy.org pour faciliter la création de vocabulaires
+
+Knight prototype grant. Équipe qui a beaucoup innovée dans l’analyse d cela vidéo. Possibilité de requêtes énormes dataset depuis Internet archive. Matériau publié.
+
+Annotate Share Archive ! time based annotation. Pour annoter plusieurs sous clip. Une plateforme pour faire cela. Commencé à partir 100 aines de films éducatifs. Entraînement depuis Google Images.
+
+[Waldorf.js](https://github.com/colejd/Waldorf) un plugin jquery, interface annotation. Annotation restent côté interface.
+
+[Statler](https://github.com/VEMILab/Statler) server Ruby on Rails, Annotation aggregator, API-based interaction
+
+## The mind of the Universe
+
+https://www.vpro.nl/programmas/the-mind-of-the-universe.html
+
+Navigation à travers les vidéos en "close reading".
+
+Labellisation avec le thesaurus Unesco.
+
+Modélisation des mouvements de camera dans les vidéo d’installation art. [Unfolded Cinematography](https://vimeo.com/210616907)
+
+## CLARIAH Media Suite
+
+http://mediasuite.clariah.nl
+
+Un des workpackage, des outils que peut apporter au sein de l‘espace.
+
+Outils qui supporte la critique de sources (quantités de sources, nb avec description, etc.), recherche, annotation, analysis, visualisation.
+
+Possibilités de recherche quantitative mais aussi qualitatif.
+
+AV player with annotation options connectable à diverses bases de connaissance : wikipédia, Unesco, possibilité créer son propre documentaire.
+
+AV analysis services. Identification des locuteurs, détection des plans, extraction des éléments clefs des plans, reconnaissance faciale, reconnaissance des émotions, analyse des couleurs. Transcription du discours, etc.
+
+## Using computer vision to describe material in the Graphic novel corpus
+
+Plusieurs niveaux d’annotations. Subjective description. Objective description en relevant des aspects visuels. Reader-level description avec Eye tracking. Améliorer l'annotation automatique qui fonctionne bien pour le repérage des cases. Marquage du texte. Possible de 
+
+## Mosaïc
+
+Codé en pascal
+
+http://mith.umd.edu/people/person/stephanie-sapienza/
+
+## Aligning images and text in a Digital Library
+
+Jack Hessel and David Mimno
+
+Text and images, The British library corpus, why is this hard ?
+
+Connection entre le texte et les images dans la production culturelle date de longtemps. Cf. vase grec avec inscription. Autre exemple Arp et poème.
+
+Chercheurs qui cherchent à tracer la sémantique et l’esthétique à travers le temps et l’espace. Relever les influences et les allusions qui ne peuvent pas facilement être relevée. De même avec les images.
+
+Prendre des images, toutes de la Nasa, navette, cosmonaute, logo. Toutes très différentes mais similaires car viennent toutes de la page wikipédia sur la Nasa. Le texte et l’image sont dont très différents.
+
+De quelle couleur sont les moutons, un exemple classique pour le traitement automatique du langage. Pour Google Ngram Black. Mais si regarde les images sont plutôt blancs ou gris !
+
+Previous multi-modal work
+
+data sets 
+
+- microsof common objects in contexte COCO : images labeled by anonymous workers on Amazon Mechanical Turk
+- Flickr : Images with user-provided tags
+
+Tasks
+
+- boss modal information retrieval
+- ..
+
+Recent work
+
+Pereira … voir dia
+
+Exemple de la British Library. Avec numérisation de plus en plus de contenus mis en ligne. Contient aussi de plus en plus d’images. 
+
+https://data.bl.uk/digbks/
+
+texte scannés avec segmentation des image. Parfois problèmes d’orientation. Parfois cadres ronds ou ovales. Planches, vignettes, symboles, encadrements.
+
+Pourquoi le traitement du lien entre l’image et le texte est-il si compliqué.
+
+- variations dans la relation entre text et les images
+- coco/flickr sont très alignés. Wikipedia moins
+- les deux disponibles dans le patrimoine culturel mais alignement plus rare.
+
+Exemple, image et légende. Veut que voit moi et la bibliothèque. Mais aussi l’arbre, les gens, etc. avec lesquels la machine va devoir faire.
+
+Alignement texte et images. Utilisation des réseaux neuronaux.
+
+utilisation de Resnet 50 et transforme en traits.
+
+Pour les traits des textes, unigrams words, weighted unigram tfidf, etc. plusieurs méthodes.
+
+LDA pour le texte, Resnet 50 pour les images. Comment les matcher ?
+
+Volume-level holdout
+
+Fait beaucoup mieux que random, etc.
+
+Texte et topic générés. Plutôt du bon travail. 
+
+Parfois moins bon !
+
+## Visual trends in ads
+
+Travail en cours à la bib des pays-bas.
+
+Difficultés pour travailler sur les publicités. Rapport entre les publicités et les annonces.
+
+Comment utiliser des aspects visuels des publicités pour les trouver dans un grand ensemble de journaux.
+
+téléchargement par l’API gd nombre (1,6M) de pubs de deux journaux avec information sur leur localisation et contextes.Nb de pages qui augmente dans le temps. Journaux de plus en plus grands, et nombre de pub diminue en nombre. Dimension des publicités qui augmente dans le temps. Quelles position dans le journal. Mouvement du début vers l’arrière et de même.
+
+Savoir le type de pub. Proposition des caractères en fonction de la pub. Permis de filtrer les annonces textuelles. Colonnes qui montrent que journaux très structurant (largeur des colones, etc.) Recherche de similarité.
+
+Sur la pub mode, savoir si regarde l'évolution des annonce ou de la mode proprement dit.
+
+Clusterisation par type d’image.
+
+Travail sur l'analyse de topic. Langage très distinctif pour café, pour etc. mais difficile pour finance. Corrélation entre le visuel et le textuel qu’aimerait investiguer plus loin.
+
+## Deep learning tools for foreground-aware analysis of film colors
+
+Identifier l’innovation dans l’esthétique des fonds de couleurs dans les films.
+
+numérisation et restauration.
+
+Timeline of historical fils colors
+
+db filemaker, mots-clefs, chaque segment analysé selon un protocole. Question des fonds très important pour l’analyse. Exemple robe rouge et fonds, très différent mur gris, ou fonds bleu. Mise en scène narrative de la star dans le film.
+
+Semi-automati color scheme extraction
+
+utilisation de TinEye Labs.
+
+Yolo produit sélection de fenêtres sur les objets. Traitement de l'image comme un tout qui fournit meilleur contexte. Yolo très rapide. donc possible de penser détection en ligne.
+
+Superpixel décomposition pour isoler les figures
+
+## discussion
+
+savoir si pas nécessaire d'avoir deux réseau parallèles, un pour la recherche l'autre pour la présentation; Car bien sûr contexte important mais pour le travail de reconnaissance, plus aisé de recadrer, etc. pour aller plus loin : ex visage avec type de moustache, etc.
+
+rmq perso : en fait la stratégie pour les moteurs de recherche avec filtres et stemmatisation.
 
 
 
