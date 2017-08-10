@@ -492,5 +492,49 @@ savoir si pas nécessaire d'avoir deux réseau parallèles, un pour la recherche
 
 rmq perso : en fait la stratégie pour les moteurs de recherche avec filtres et stemmatisation.
 
+## Computer vision for Digital Humanities, Hands-on Session 2
+
+Complexe, penser comme représentation 3D, convolution une manière d’y parvenir.
+
+Convolution Filter Bank
+
+Différents type d’outils à appliquer et évaluer. Valeur local, savoir si le pourtour… une manière de considérer l’image mais peut les considérer comme autant de chaînes que peut traiter et que pourrait combiner ensemble.
+
+Cette transformation est une opération fondamentale.
+
+Quid du réseau neuronal. Un neurone biologique dans sa caractéristique la plus élémentaire contexte une cellule à une autre par un dendrite. Manière dont le neurone est connecté aux autres qui définit des fonctions. Quelques chose de fondamental pour les neurones, mais en quoi s’applique à la convolution ?
+
+Ce que fait la convolution, c'est regarder à des informations autour de l’objet. D‘une certaine manière définit une sorte de connectivité autour d’un feature. Pour chaque pixel réunit de l'information.
+
+Avec ces deux concepts, arrive à l’idée de NN convolutional layer. D’une image, applique plusieurs kernels et applique convolutional. Ces kernels que l’on choisit, mais laplupart des paramètres découlent directement des données.
+
+Qu’est-ce que CNN ? rien de plus que cela. Ce genre de travail sur des couches successives. Faisant cela, système qui devient très capables d'apprendre sur les images.
+
+cf. Visualisation 
+
+Premier réseau neuronal convolutionnal, Ian Le Cunn, développé en 1990. Visualisation qui permet de voir comment l’image est décomposée en couches successives jusqu’à la reconnaissance du caractère.
+
+Premier niveau, grey scale, 6 premières conversion. Légères déformations de l’image. Sur cette base là. Couches supplémentaires qui combines information des différents niveaux. Mais déjà une abstraction car ne représente pas des choses qui existent. À la fin parvient à sélectionner le digit et le reconnaître. Visualisation utile pour identifier ce qui arrive au sein de ce réseau neuronal.
+
+Pour appliquer ce genre d’analyse, pas besoin d’une grande résolution d’image. Pour reconnaître ce que représente une image, nous n'avons pas besoin d’une grande résolution. Différent pour faire de la photogrammétrie, reconstitution 3D, etc.
+
+Aujourd’hui s’oriente vers des réseaux neuronaux avec le moins de paramètres possibles et augmente le nombre de couches.
+
+Historique de l’évolution. Les architectures ont évolué rapidement, devenues de plus en plus performantes même si dans le même temps difficile de voir ce qui s’y passe.
+
+Important use case imagenet
+
+Un dataset très large de données annotées. Quelque chose auquel est sensible car réseaux neuronaux sont très bons pour travailler sur des grands nombre de données. Dans le deep learning chaque neurone, fait sous-tâche pour identifier quelque chose de pertinent.
+
+Ce qu’on extrait la conséquence de couches successives de plus en plus complexité. En fonction de la tâche, ne sait pas quelle tache qui match le plus.
+
+Cependant, faire attention car qu’il y ait un match ne signifie rien à propos des choses. Car aucune représentation de ce qu’est une peinture. Simplement un des outils les plus efficaces que nous ayons.
+
+Si avions même type de dataset.. mais le mieux que nous ayons aujourd’hui
+
+différent si entraîne soi même le truc.
+
+Comme le neurone à l'échelle individuel pas compliqué, mais dès que passe à une autre échelle, devient plus difficile de savor ce qu’il se passe.
+
 
 
