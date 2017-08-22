@@ -204,7 +204,7 @@ https://github.com/yaledhlab
 
 ## Hands on
 
-Computer vision for DH handson
+Computer vision for DH hands on
 
 Goals
 
