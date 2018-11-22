@@ -41,7 +41,6 @@ Reviendra sur projets de la BNF, CGP, Cité de la musique, HADOC sur Interoperab
 
 
 
-
 ------
 Gildas Illien, des catalogues de bibliothèques dans LOD
 ------
@@ -158,7 +157,6 @@ R: une question technique mise en œuvre par notre prestataire
 
 
 
-
 ------
 Rodolphe Bailly, Nouvelle interface et web sémantique
 ------
@@ -180,7 +178,6 @@ Production d'un thesaurus d'instruments de musique, localisation des lieux de pr
 
 Anne Faure Musée du quai Branly
 Actuellement travail pour intégrer leurs thesaurus dans rameau, voudrait les rencontrer
-
 
 
 
@@ -353,7 +350,7 @@ Peur de la perte de contrôle qui a constitué un gros frein à nos ardeurs d'ou
 Beaucoup eu d'expérimentation, mais peu d'innovation. Car nombreuses de données dans nos placards pas libre de droits. Agréments avec agences météos, sports, etc. Souvent peu clairs pour l'ouverture des données. S'est donc dit qu'aller être flou en matière de licence. Des expérimentations, mais quand nécessite évolution avec investissement et startup, plus personnes.
 
 Est donc retourné vers nos principes
-Le Web est notre cms, chaque URI une chose, etc.
+Le Web est notre CMS, chaque URI une chose, etc.
 Qu'en faire.
 
 Un des succès pragmatique dont parlait peu. BBC avait fait des choses à partir de données ouvertes dont disposait et qui marchait très bien. Des données sur qui passé à la radio et quand, etc. Mais pas de connaissance nécessairement fine sur ces personnes. Pouvait pour ça faire référence à d'autres données ouvertes telles que Wikipedia.
@@ -401,7 +398,6 @@ R
 Ouverture à l'idée d'utiliser les archives, je pense que cela va venir pour tout le monde. Pour le moment chez nous en cours. Mais une véritable richesse, et la possibilité que l'on va avoir pour puiser dans ces archives et chercher du contexte, ne va pas forcément changer la culture du maintenant, maintenant, mais tout de même.
 
 Bien sûr une culture du rédacteur. Mais aborde cela avec humilité, carra sait comment lecteur va scanner la page, etc. Ce qu'essaye de faire pas remplacer l'éditorial, mais leur fournir des outils qui vont simplifier leur travail. Automatisation qui permet d'identifier David Cameron alors pas de problème. En revanche quand la machine raconte une histoire alors plus conflictuel. Humilité, humanité.
-
 
 
 
