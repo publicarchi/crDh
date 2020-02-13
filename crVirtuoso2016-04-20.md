@@ -1,3 +1,8 @@
+---
+date: 2016-04-20
+tags: cr, conférence, virtuoso, inke, Stéphan Sinclair
+---
+
 # crVirtuoso2016-04-20.md
 
 Support du projet par la bibliothèque, intention de prolonger support dans le cadre plan stratégique.

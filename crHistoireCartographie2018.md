@@ -4,7 +4,7 @@ Lamassé, Genet dès 70
 
 Création parcours recherche, fortement axé sur l’algorithmie
 
-Léon Robicheau Sherbrook, modélisation 3D, Bdd
+Léon Robichon Sherbrook, modélisation 3D, Bdd
 
 ## Benjamin Deruelle
 

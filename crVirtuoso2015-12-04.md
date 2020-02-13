@@ -1,3 +1,9 @@
+---
+date: 2015-12-04
+tags: cr, colloque, virtuoso, numérisation, Pascal Bastien, Lynne Da Silva, Christian Nadeau, Rémy Besson
+---
+
+# Journée d’étude Virtuoso du 4 décembre 2015
 
 ## Pascal Bastien
 

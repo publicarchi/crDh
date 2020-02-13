@@ -1,5 +1,11 @@
-TCP2013, Atelier archéologie des médias
-===================
+---
+date: 2013
+tags: cr, tcp, dh
+
+
+---
+
+# TCP2013, Atelier archéologie des médias
 
 [pad](http://piratepad.ca/p/thatcampstmalo_atelier2)
 
@@ -84,7 +90,7 @@ La représentation en graphe, directement à partir du web sémantique, certes s
 ce serait plus intéressant de produire des mashups, l'enrichissement, annotation interactive (fluidité entre résultat final et dispositif d'annotation), continuité donc entre annotation et dispositif de lecture. 
 
 Je réfléchis actuellement sur la préfiguration d'un projet d'édition et d'annotation collaborative des guides de Paris. Plusieurs guides avec entrées multiples, accès au texte du début à la fin, ou par la notice avec résolution de la requête par une image à la BNF, proposer des liens hypertextes pour rebondir. Aller vers des interfaces de consultation enrichies. Ce que semble dire Tim B L dans son 1er texte.
- 
+
 Continuité entre l'édition et la consultation
 Fluidité
 

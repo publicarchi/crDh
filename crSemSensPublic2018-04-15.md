@@ -1,3 +1,10 @@
+---
+date: 2018-04-15
+tags: cr, séminaire, sens public
+---
+
+
+
 # Séminaire éditorialisation 15 avril 2018
 
 Rôle de la bibliothèque de structuration et d’organisation des connaissance. Structuration des contenus qui n’est pas le principal modèle du web. "Et s’il contient bien des équivalents numériques à la bibliothèque, il contient aussi des places boursières, des marchés, des chambres à coucher..."

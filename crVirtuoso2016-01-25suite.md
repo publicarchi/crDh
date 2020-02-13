@@ -1,3 +1,7 @@
+---
+date: 2016-01-25
+tags: cr, conférence, numérisation, Matteo Treleani
+---
 
 # suite conf Matteo Treleani 25 janvier 2016
 
@@ -62,7 +66,7 @@ Relation entre la mort et les archives. Une manière d’actualiser un présent 
 ### Réponse
 
 Histoire des morts me fait penser que quand travaillait à l’INA disait que toutes les archives pour la mort des gens connus étaient déjà prêtes à publier. Un enjeu politique en nombre de clic. Forme d’actualisation.
-  
+
 Question colorisation. Manière de penser pas seulement lié à la technologie. Spectarisation des archives. Cf. Critique Apocalypse, pb actualisation. Ne s’intéresse pas aux archives comme passé, mais dans leur présent. Volonté de porter les archives à nous. Les actualiser et les rendre présentes.
 
 Tout est numérisable, donc par conséquent mémorable.

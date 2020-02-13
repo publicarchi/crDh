@@ -1,3 +1,8 @@
+---
+date: 2017-02-20
+tags: cr, conférence, crihn, visualisation, culturonomics, Clarisse Bardiot
+---
+
 # Conf Clarisse Bardiot, 20 février 2017
 
 UdeM 26 personnes

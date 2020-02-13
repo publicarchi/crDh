@@ -1,5 +1,10 @@
-TCP2013, Atelier 6, Outils et méthodes
-========
+---
+date: 2013
+tags: cr, tcp, dh
+
+---
+
+# TCP2013, Atelier 6, Outils et méthodes
 
 Camille Bosquet, doctorante à Rennes 2 sous la direction de Nicolas Tely ?? en esthétique
 École Boule mobilier, etc. Thèse sur les fablabs, hackerspace, makerspace

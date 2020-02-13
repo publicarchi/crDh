@@ -1,3 +1,8 @@
+---
+date:
+tags: cr, dah
+---
+
 # Digital Dimensions
 
 Art History in Digital Dimensions: A convening aiming to unite diverse practitioners in a critical intervention for the digital humanities & digital art history

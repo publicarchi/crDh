@@ -1,3 +1,8 @@
+---
+date: 2015-01-22
+tags: cr, colloques, dicen, lecture numérique, éditorialisation
+---
+
 # Journée d'étude Dispositifs de lecture savante, Humanisme et numérique, 22 janvier 2015
 
 http://dicen-idf.org/evenement/seminaire-dispositifs-de-lecture-savante/

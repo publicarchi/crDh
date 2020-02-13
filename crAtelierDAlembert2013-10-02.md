@@ -1,3 +1,8 @@
+---
+date: 2013-10-02
+tags: cr, tei, correspondance, réseaux
+---
+
 CR Atelier D’Alembert et les Digital Humanities, 2013-10-02
 =============
 

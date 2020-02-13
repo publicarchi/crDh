@@ -1,13 +1,15 @@
-Atelier du consortium Cahier, Assemblée générale 2013
-================
+---
+date: 2013-12-10
+tags: cr, tei, édition critique, corpus
+---
 
-10 décembre 2013
+# Atelier du consortium Cahier, Assemblée générale, 10 décembre 2013
+
 
 Rmq : La réunion du comité directeur a eu lieu la veille au soir.
 
 
-Rappel des objectifs du consortium
----
+## Rappel des objectifs du consortium
 
 Le consortium a été labellisé en septembre 2011 avec une gestion confiée au centre d'histoire de la renaissance de Tours, qui est ensuite passée à la MSH Val-de-Loire que l'intervenante dirige (Marie Luce Demonet). Sa gouvernance peut à l'avenir évoluer vers un fonctionnement plus consensuel.
 
@@ -50,7 +52,8 @@ Nouveaux entrants :
  - Rouen Flaubert
  - Nice
  - Item, Corpus hispaniques
-	 
+	
+
 Il est frappant que la diffusion des activités du consortium se fasse à partir des mêmes lieux, il y a notamment un grand vide dans le Sud-Ouest.
 
 
@@ -90,7 +93,7 @@ Travail selon trois axes.
  - Le premier porte sur le droit d'auteur pour les publiants et proposition de clauses pour les auteurs refusant mise à disposition de leurs texte en accès libres. Texte aujourd'hui prêt (diffusion fin janvier).
  - Deuxième axe concerne des recommandations sur la constitution des corpus lors de récupération de textes provenant d'auteurs ou musées, (demandes autorisations).
  - Troisième axe sur la diffusion des bases de données et droits.
-	 
+	
 #### Groupe de travail WebOAI (moissonneur OAI-PMH des fichiers TEI)
 
 Déjà eut deux réunions
@@ -101,7 +104,7 @@ Il est donc nécessaire de se mettre d'accord sur ce qu'est un auteur, ce qu'est
 
 Groupe qui va continuer, verra le calendrier tout à l'heure.
 
- 
+
 ### Formations
 
 Poste budgétaire passé de 3 000 à 8 000 euros
@@ -127,7 +130,8 @@ Cahier dans les Humanités numériques
  - Article pour le dossier "Humanités numériques" de l'INSHS (article avec A. Gefen)
  - Participation à la conférence des DH, Lausanne, 8-11 juillet 2014 (Alexis proposé un papier)
  - Création d'une association francophone en Digital Humanities [sic]
-	 
+	
+
 { Peu favorable à la création d'un consortium, disposer d'une structure qui permette de mieux travailler. Trouve que très gigogne (sans doute par rapport aux consortium, et autres). Agacée par la dimension revendicative "francophone". D'accord sur le fait que manque d'une reconnaissance métier, ou dans les formations. }
 
 Calendrier qui implique 
@@ -161,8 +165,7 @@ Discussion
 5 ou 6 presses universitaires associées avec le Cléo ou Presses universitaires de Caen pour utiliser leur chaîne éditoriale basée sur TEI. En collaboration avec Open Edition.
 
 
-Stéphane Pouylleau
----- 
+## Stéphane Pouylleau
 
 Point d'actualité de la TGIR qui pilote les consortium, Nicolas Larousse.
 HumaNum est une très grande infrastructure de recherche issue de la fusion entre Adonis et Corpus. A pris la forme d'une UMR entre Condorcet, Aix-Marseille, et ?? (= 3 structures qui forment la tutelle).
@@ -217,8 +220,8 @@ Chaque pays dispose d'un système différent. Les autrichiens qui n'ont pas enco
 Il y aura une information DARIAH le 23 janvier à la journée des consortium (Réunion des porteurs de projets et des membres de comité de pilotage)
 
 
-Usage TEI-XML dans les corpus Cahier : état de l'art, Lou Burnard
----- 
+## Usage TEI-XML dans les corpus Cahier : état de l'art, Lou Burnard
+
 
 A rencontré un petit problème, pour faire un état des lieux, besoin d'une mise à disposition ouverte des corpus, la plupart des membres ne le faisant pas à quelques petites exception près. Il était donc difficile de contacter séparément chaque projet, néanmoins fait circulé un questionnaire.
 
@@ -288,7 +291,7 @@ Peu en matière d'exploitation, beaucoup TXM 3, PHP 2, XTF 2. Apache Solr. Mais 
  - être isolé en tant qu'ingénieur sur un projet (intérêt de consortium)
  - anticiper les résultat pour faire un choix pertinent de balise
  - et ... ce type de projet est chronophage.
-	 
+	
 ### Désirs exprimés
 
 Nouveaux genre de formation
@@ -320,8 +323,7 @@ Sans doute l'un des groupes de travail que proposerait tout de suite.
 La voie est tracée, mais boueuse !
 
 
-Archivage Pérenne, Nicolas Larousse
----- 
+## Archivage Pérenne, Nicolas Larousse
 
 TGIR HumaNum créé en cours d'année, bonne occasion de mettre à plat tous les services et d'en définir de nouveaux.
 Mise à plat pour identifier ce qui a changé et ce qui peut être utile.
@@ -386,8 +388,7 @@ Pour ce faire, va imposer un certain nombre de choses, recommandations fortes. P
 Résultats attendus sauvegarder les ressources, dans un environnement intellectuel qui permettra de comprendre le résultat, améliorer la qualité des ressources produites. Tous les produits tendent vers cela avec la promotion des bonnes pratiques. En retour apporteront les outils développés et leur expérience.
 
 
-Discussion
----- 
+### Discussion
 
 Michel Bernard : Trouve assez déprimant bilan de Lou
 Car 20 ans qu'entend parler de la TEI comme d'un standard, or moins de 20% des corpus encodés en TEI, or sur un consortium très actif. 
@@ -413,8 +414,7 @@ Thomas (DE) : Question de la relation entre les méta-données structurelles et
 Lou : deux réponses à cette question, l'une consiste à archiver le PDF, l'autre à archiver la TEI avec ODD comme source.
 
 
-Giono Véronique
----- 
+## Giono Véronique
 
 Hyperbase, outil de recherche hypetextuel pour travailler sur le corpus. Outil de lexicométrie avec lequel souhaite parvenir à caractériser l'écriture de Giono.
 
@@ -442,8 +442,7 @@ Marie-Luce : Sans doute pour les auteurs du XXe siècle, pas d'autres solutions
 Aussi une question de contrat avec l'état. Lorsque l'on veut présenter des corpus au public, commencer par les ouvrir et y donner accès. Là où peut discuter avec les auteurs et les éditeurs. Un statut de membre associés est prévu pour de tels projets, car ne peut pas les exclure, ni les financer pour mise en valeur pour laquelle il y a trop de restrictions. Ne peut être considérés comme des diffuseurs illégaux de la littérature.
 
 
-De
----- 
+## De
 
 Lui a demandé de donner une présentation sur le projet de bibliothèque numérique. Voudrait caractériser le projet de la bibliothèque moins du point de vue éditorial qu'institutionnel.
 
@@ -470,7 +469,7 @@ Deux facteurs cruciaux dans cet achèvement : financement à long terme et à d
 
 BIB **Une version anglaise des Guidelines de numérisation que recommande pour d'autres projets.**
 DFG Practical guidelines
- 
+
 Voudrait également un troisième facteur, la volonté des bibliothèques de recherche de publier leurs ressources sous licences libres CC, By-Sa comme indiqué en pied de page.
 
 Au cours des trois à quatre dernières années, le contexte de la recherche a considérablement changé du fait du développement de l'accès aux ressources numériques. Volonté de généraliser le développement d'infrastructures numériques pour la recherche mais pour le moment, la question de savoir à qui doit revenir le soin de financer et la responsabilité de maintenir ces infrastructures n'est pas clairement tranchées.
@@ -526,8 +525,7 @@ Intègre toutes ces ressources en un point central.
 Mise au point d'un sparql-endpoint, un connecteur qui transforme une base sql en un sparql-endpoint. Semble fonctionner mais pour le moment une simple preuve de concept.
 
 
-Vincent Jolivet, Aldone
----- 
+## Vincent Jolivet, Aldone
 
 Donnaient cours à 16H, donc se sont divisés !
 Présentation d'un travail réalisé avec collègues au sein de la société Algone que le consortium a rémunéré pour le développement d'un moissonneur d'en-tête TEI en commun. 
@@ -635,8 +633,7 @@ Pour le moment en conformité avec un certain nombre de projets. Besoin de discu
 Peut également aller voir le tableau de mapping
 
 
-Édition électronique de la correspondance de Flaubert
----- 
+## Édition électronique de la correspondance de Flaubert
 
 Voudrait inclure correspondance active et passive.
 Lettres de tiers. Des ambitions très larges.
@@ -687,8 +684,7 @@ Marie-Luce : il y a tout ce qu'il faut en TEI !
 Lou : Non, il pourrait y avoir toutes les balises nécessaires en TEI ! mais, il faut proposer quelque chose de cohérent.
 
 
-Fathiane : Chispa, Un projet pour l'expoitation numérique de corpus hispanique
----- 
+## Fathia : Chispa, Un projet pour l'expoitation numérique de corpus hispanique
 
 Nombreux points de convergeances, remercie pour les formations car important pour nourrir les projets.
 
@@ -709,9 +705,8 @@ Site SPIP
 Notices saisies sous Notix (logiciel libre). Plan de classement prévu par l'auteur. Volonté de respect de l'intentionnalité de l'auteur.
 
 
-TODO Desgodets
----- 
- 
+## TODO Desgodets
+
 Demander un statut de membre correspondant ? Envisager une procédure d'intégration progressive (à l'exemple projet Chispa). Motiver cette demande par un courrier circonstancié.
 
 Faire une présentation qui fasse état de la nature particulière de notre corpus.
@@ -742,8 +737,8 @@ Discussion :
 Marie-Luce : très claire, voit bien le projet et la progression. Intéressant aussi car apporte contenu hispanique car contrairement aux apparences pas un consortium de francisants [argument valable pour l'inclusion de notre corpus]
 
 
-Conclusion
----- 
+## Conclusion
+
 Soutien MSH Lille, Item et MSH Tours
 
 Il est possible de bénéfier d'Oxygen lorsque membres ANR, etc.
@@ -753,8 +748,7 @@ Disposent d'un co-grille lundi pour bénéficier licences Oxygen
 
 
 
-TODO Guides de Paris
----- 
+## TODO Guides de Paris
 
 Demander un statut de membre correspondant ? Envisager une procédure d'intégration progressive (à l'exemple projet Chispa). Motiver cette demande par un courrier circonstancié.
 

@@ -1,3 +1,8 @@
+---
+date: 2018-11-22
+tags: cr, conférence, design
+---
+
 # design et philosophie
 
 22 novembre 2018

@@ -1,5 +1,10 @@
-TCP2013, Introduction
-========
+---
+date: 2013
+tags: cr, tcp, dh
+
+---
+
+# TCP2013, Introduction
 
 Décision en avril
 Ouvrir la discussion à d'autres disciplines, aux écoles d'art et à la culture

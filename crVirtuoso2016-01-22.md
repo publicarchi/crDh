@@ -1,3 +1,7 @@
+---
+date:2016-01-22
+tags: cr, conférence, virtuoso, édition critique, tei, Jennifer Drouin
+---
 
 # Jennifer Drouin, Shakespeare au/in Québec: Building a bilingual, open-access database and critical anthology in collaboration with the Internet Shakespeare Editions
 

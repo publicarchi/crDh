@@ -1,4 +1,9 @@
-# crCongres2017
+---
+date: 2017
+tags: cr, cinéma, cartographie
+---
+
+# crCongres2017, Toronto
 
 ## Panel 
 

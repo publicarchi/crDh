@@ -1,5 +1,11 @@
-Conférence de Nicole Coleman (Stanford), 30 septembre 2013
-================
+---
+date: 2013-09-30
+tags: cr, conférence, visualisation, Nicole Coleman
+
+
+---
+
+# Conférence de Nicole Coleman (Stanford), 30 septembre 2013
 
 Introduction
 ----------------

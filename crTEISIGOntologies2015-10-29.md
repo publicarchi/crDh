@@ -1,3 +1,10 @@
+---
+date: 2015-10-29
+tags: cr, conférence, tei, lod
+
+
+---
+
 # TEI Ontologies SIG, Lyon 2015-10-29
 
 - Emmanuel Château, in charge of various TEI projects, specially interested in the work which have been done by the SIG with representation of TEI in RDF for places and persons.
@@ -28,9 +35,9 @@ A fragment of a imaginary report.
 ex. identification of elements
 Actor
   Relation
-    Event: E1
-      type excavation
-      ...
+​    Event: E1
+​      type excavation
+​      ...
 
 Doesn’t say that could extract information automaticaly. But focus on how much information could be extract.
 Three possible strategies :

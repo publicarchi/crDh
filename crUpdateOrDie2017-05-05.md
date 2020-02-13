@@ -1,3 +1,8 @@
+---
+date: 2017-05-05
+tags: cr, colloque, numérisation, préservation
+---
+
 # Update or die
 
 CCCT centre de recherche en Cegep, que des professionnels qui viennent de l’industrie. Centré sur la recherche appliquée. Les CCCT sont censés collaborer, sont censés aller chercher de la recherche théorique pour l’appliquer aux entreprises avec leur dead line, etc. Le plus souvent, devient le pôle R&D des compagnies. Une manière de se dégager du risque. Collaborations multiples qui peut rendre la structure très transversale, d’autres privilégient la verticalité pour s’affirmer comme référence dans un domaine. Le dispositif n’existe qu’au Québec, le Canada envisage un dispositif comparable.

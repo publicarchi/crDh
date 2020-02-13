@@ -1,5 +1,10 @@
-TCP 2013, Atelier Enquête sur les modes d'existence
-=====================
+---
+date: 2013
+tags: cr, tcp, dh
+
+---
+
+# TCP 2013, Atelier Enquête sur les modes d'existence
 
 Livre gratuitement accessible sur le web et en édition imprimée
 http://www.bruno-latour.fr/fr/node/251

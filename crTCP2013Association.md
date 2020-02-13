@@ -1,5 +1,11 @@
-TCP2013, Association francophone
-===============
+---
+date: 2013
+tags: cr, tcp, dh
+
+
+---
+
+# TCP2013, Association francophone
 
 Il ne sera probablement pas possible de traiter de tous les articles en réunion plénière.
 Organisation du travail à venir.

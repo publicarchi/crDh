@@ -1,7 +1,12 @@
-Cr 4ème atelier du Labex, Journée ModRef
+---
+date: 2014-04-10
+tags: cr, lod, web sémantique, ModRef
+---
+
+Cr 4ème atelier du Labex, Journée ModRef, 10 avril 2014
 ===========
 
-Introduction Ghislaine
+Introduction Ghislaine Glasson-Deschaumes
 ------------
 
 Nouveaux venus au sein du Labex : 8 nouveaux projets et 7 projets de préfiguration pour leur donner le temps de mûrir.

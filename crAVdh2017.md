@@ -1,3 +1,8 @@
+---
+date: 2017
+tags: cr, computer vision, dh2017
+---
+
 # crAVdh2017
 
 https://avindhsig.wordpress.com/workshop-2017-montreal/

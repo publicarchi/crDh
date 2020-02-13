@@ -1,3 +1,8 @@
+---
+date: 2015-10-31
+tags: cr, colloque, tei
+---
+
 # TEI Buisness meeting 2015-10-31
 
 Très émue car dernière fois où préside cette réunion après 4 ans à la tête. Temps pour elle de prendre repos et la TEI de se reposer d’elle.

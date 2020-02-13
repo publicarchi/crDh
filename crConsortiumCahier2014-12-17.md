@@ -1,3 +1,8 @@
+---
+date: 2014-12-16
+tags: cr, tei, édition critique, corpus
+---
+
 # Assemblée générale annuelle du Consortium Cahier 16 décembre 2014
 
 ## Bilan et projet

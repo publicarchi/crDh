@@ -1,3 +1,8 @@
+---
+date: 2015-12-03
+tags: cr, conférence, virtuoso, édition critique, Laura Mendell, Seth van Hooland
+---
+
 # cr Virtuoso 3 décembre 2015
 
 Présentations courtes pour commencer à engager le travail sur les éditions critiques.

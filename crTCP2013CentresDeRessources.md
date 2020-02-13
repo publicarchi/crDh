@@ -1,5 +1,10 @@
-TCP2013, Atelier 13
-========
+---
+date: 2013
+tags: cr, tcp, dh
+
+---
+
+# TCP2013, Atelier 13
 
 http://piratepad.ca/p/thatcampsaintmalo_atelier13
 

@@ -1,5 +1,10 @@
-TCP2013, Web Culturel Sémantique, Atelier 9
-===========
+---
+date: 2013
+tags: cr, tcp, dh, lod
+
+---
+
+# TCP2013, Web Culturel Sémantique, Atelier 9
 
 Travail sur l'art dans l'espace public
 Silophone.net

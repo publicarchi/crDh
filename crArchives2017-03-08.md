@@ -1,4 +1,9 @@
-# Présenter l’archive/Exposer l’archive
+---
+date: 2017-03-08
+tags: cr, séminaire, figura, archives
+---
+
+# Cr Présenter l’archive/Exposer l’archive, 8 mars 2017
 
 Joanne Lalonde, département d’histoire de l’art, historienne des arts médiatiques et numériques. S’intéresse aussi aux méthodologies de la recherche et notamment de la recherche création.
 

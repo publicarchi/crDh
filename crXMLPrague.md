@@ -1,6 +1,6 @@
 ---
-author: Emmanuel Château-Dutier
-since: 2017-02-11
+date: 2017-02-11
+tags: cr, colloque, xml
 ---
 
 # Steven Pemberton

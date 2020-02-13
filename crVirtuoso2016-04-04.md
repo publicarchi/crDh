@@ -1,3 +1,7 @@
+---
+date: 2016-04-04
+tags: cr, virtuoso, édition critique, Ray Siemens
+---
 
 # cr Virtuoso 4 avril 2016
 
