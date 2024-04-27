@@ -2,6 +2,8 @@
 
 Martine Denoyelle, INHA, 4e journée, la deuxième à l’INHA. Dédiée à l’Open Content.
 
+<https://meta.wikimedia.org/wiki/Journée_Wikimedia_Culture_et_Numérique_2023/Programme>
+
 Cette journée permettra de mesurer l’engagement de Wikipédia et les partenaires de l’observatoire de l’Open Content. Journée autour de la restitution du rapport de l’agence Phare et Wikipédia France. Aujourd’hui passe à une phase d’incitation et de promotion avec la création du Label Open Content.
 
 À l’INHA considérons comme très importante notre participation à cette initiative, au-delà de notre conviction et notre expérience professionnelle et personnelle, il n’y a pas de stratégie nationale pour l’open content. Les instiutons libres de s’y engager, donc important qu’une institution nationale de recherche dépendant des deux tutelles, joue un rôle actif dans le domaine. Programme Usages et Images depuis 2016. Cycle des lundis du numérique qui a fait une large part à l’ouverture des données. INHA partie prenante depuis 2017 avec la mise à disposition des collections de la bibliothèque sous licence EtatLab et CC0. Du côté des données de la recherche actions d’ouvertures importantes. Charte pour la science ouverte de l’INHA signée cette année et votée qui fait état du partenariat avec l’INHA et de l’engagement ferme en faveur de l’Open Content.

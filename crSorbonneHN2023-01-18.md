@@ -150,7 +150,7 @@ Outil développé au même moment que Jean-Gabriel Ganascia. [Phoebus](https://o
 
 [Projet VHS](https://vhs.hypotheses.org) débuté en 2020. Vision artificielle et  historique de la circulation de l’illustration scientifique. Vise utiliser AI pour l’étude de corpus médiévaux ou modernes. Histoire naturelle, mathématiques et pharmacologie.
 
-Encyclopédie et lumuières. Pour étudier circulation savoirs sur une aussi longue période, concevoir un instrument analyse inédit basés sur les méthodes non ou faiblement supervisé. Détecter similarités iconographiques dans les images pour repérer processus de copie et d’emprunt et similarités textuelles. Pour repérer images différentes décrivant des objets similaires.
+Encyclopédie et lumières. Pour étudier circulation savoirs sur une aussi longue période, concevoir un instrument analyse inédit basés sur les méthodes non ou faiblement supervisé. Détecter similarités iconographiques dans les images pour repérer processus de copie et d’emprunt et similarités textuelles. Pour repérer images différentes décrivant des objets similaires.
 
 Développement des méthodes de similarité. Analyse des résultats obtenus. Dissémination et exploitation des résultats. Séminaire public mensuel dédié à la circulation de l’imaginaire scientifique. Approche qui mèle science des données et humanités.
 
