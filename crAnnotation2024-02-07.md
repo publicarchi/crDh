@@ -206,7 +206,7 @@ Theatre data
 
 https://datatheatre.eu
 
-Adopter une approche plus datadriven. Video rekall pour demander autuers nous expliquer chaque section.
+Adopter une approche plus datadriven. Video rekall pour demander auteurs nous expliquer chaque section.
 
 À bien des égards échoué à rendre datadriven. Pour les artistes réduction, tendance abstraction.
 

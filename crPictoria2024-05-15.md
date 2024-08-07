@@ -55,7 +55,7 @@ Le DataLab une porte d’entrée pour les chercheurs aux collections. Conventin 
 
 ## Jean-Philippe Moreux, IIIF et IA
 
-Envisager le protocole d’ëchange IIIF dans un contexte d’IA.
+Envisager le protocole d’échange IIIF dans un contexte d’IA.
 
 IIIF et workflows IA, pipeline et workflow
 
@@ -71,9 +71,9 @@ Le PoC GallicaPix
 
 Expérimentations à la Bnf au tournant 2017-2018 avec plusieurs prototypes qui ont permis d’identifier qu’il s’agissait d’un accélérateur d’idées en permettant d’accéder directement aux images à partir d’URL en partant des entrepôts institutionnels ou en utilisant des outils commerciaux. À l’époque indexation d’images.
 
-Aujourd’hui flux complet d’iamges. Corpora sélection...
+Aujourd’hui flux complet d’images. Corpora sélection...
 
-Méthodologie aujourd’hui classique. Exemple des collègues de la Sorbonne sur des Ms enlumminés. ex. Illumination Déterction in IIIF Medieval Manuscript... Sorbonne.
+Méthodologie aujourd’hui classique. Exemple des collègues de la Sorbonne sur des Ms enlumminés. ex. Illumination Détection in IIIF Medieval Manuscript... Sorbonne.
 
 Ex. Projet [rara magnetica](https://www.raramagnetica.de), Early modern magnetism image. Idem pipeline de traitement de l’image. Chaîne de traitement orientée sur la partie textuelle et une bdd compatible IIIF permettant de revenir à al collection pour déployer une activité scientifique.
 
@@ -118,7 +118,7 @@ Corpus et jeux de données
 
 [NewsEye](https://www.newseye.eu) projet de presse quotidienne. Jeu de données. Accès au dataset et corpus.
 
-GallicaPix précurseur de Gallica Images. une fois les objets annotés, va avoir envie de fournir ces nouvelles métadonnées appuyées d’outils de consultation. Mais aussi laisser les utilisateurs valoriser ces données. IIIF permet de porter ces annotations.
+[GallicaPix](https://gallicapix.bnf.fr/rest?run=findIllustrations-form.xq) précurseur de Gallica Images. une fois les objets annotés, va avoir envie de fournir ces nouvelles métadonnées appuyées d’outils de consultation. Mais aussi laisser les utilisateurs valoriser ces données. IIIF permet de porter ces annotations.
 
 Métadonnées consultables destinées à l’utilisateur du portail mais peuvent être utilisées par l’informaticien.
 
@@ -128,7 +128,7 @@ Vikus, visualiseur de collections IIIF. Déployé sur rara magnetica
 
 Groupe de. travail au sein du consortium qui cherche à améliorer AIML https://iiif.io/community/groups/AIML/
 
-Plupart des projets mentionnés éviqués dans
+Plupart des projets mentionnés évoqués dans les slides
 
 ## Marion Charpier, Ontologie et annotation : bonnes pratiques et cas d’usage
 
