@@ -393,8 +393,140 @@ Grand risque lié aux corrections LLM pour éviter réécriture... Un gros écue
 
 ### Ateliers
 
+Dicover-demo, fonctionne en miroir avec Eikon. Plateforme développée à l’École des ponts dans le cadre de l’ERC Discovery pour proposer des démos et interface pour modèles.
 
+https://tinyurl.com/dhnord-discover
 
+Connexion sur la plateforme. Sélection d’un jeu de données pour les tests.
 
+Charge les modèles et visualise résultats. Possibilité de télécharger les crop en format TIFF sur son ordinateur.
+
+Plateforme modulaire destinée à accueillir différentes experiences sur le même dataset. Plateforme encore en développement possibilité de recommencer extraction sur même jeu de données.
+
+Utilisation de la même API. Deux plateformes. Une en partenariat avec différents projets. Showcase censée être beaucoup plus minimale.
+
+Plateforme pour corpus de données satellitaires et historiques. TRavail avec deux projets sur la diffusion de l’imaginaire scientifique. VHS et Eida pour voir comment les diagrammes ont pu se diffuser dans l’astronomie. Modèles inspiration ptoléméenne.
+
+Ambition
+
+- accessibilité
+- intégration
+- données : possibilité de correction es résultats
+
+Données entraînement. Plateforme développée par Robin Champenois et [Ségolène Albouy](https://github.com/Segolene-Albouy). Étudiants École des ponts. Un projet collectif.
+
+Articulation en deux blocs. Un front utilisant Django et une API Flasq déployée sur un GPU pour faire différents traitement. Bipartition qui permet d’être plus modulaire et éviter concurrence de processus et mettre GPU seulement sur GPU. PErmet aussi avoir un même outil pour différentes utilisations avec différents front.
+
+Clustering (actuellement désactivé). Modèle pour extraction de watermark. Un modèle de vectorisation de diagrammes. Un modèle d’extraction et de similarité.
+
+VHS et Eida branchés sur autres modules.
+
+Yolo et Doc Extractor (pipeline pour générer de fausses docuemnts historiques, T. Monier) De même pour la détection de copie, entraîné sur des motifs synthétiques. Résultats intéressants pour retrouver des correspondances entre des simgaes.
+
+Shen, Xi, Alexei A. Efros, Armand Joulin, et Mathieu Aubry. 2022. « Learning Co-Segmentation by Segment Swapping for Retrieval and Discovery ». In *2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 5078‑88. New Orleans, LA, USA: IEEE. https://doi.org/10.1109/CVPRW56347.2022.00556.
+
+Modèle développé par ?? pour détection de diagrammes. Modèles reposant sur des transformers.
+
+Cluster repose sur méthode Deep transformation-Invariant Clustering idée de travailler sur modèles invariance aux transformations 2020. Reconnaitre une image indépendamment de la rotation. De même transformation affine, colorométrique, et reconnaissnce visuelle.
+
+Installation du repo. Téléchargement des modèles. Tester interface graphique en local. Puis travail sur l’API.
+
+En local possibilité d’avoir directement accès aux résultats bruts des extraction (prochainement disposnible). Bounding box calculés en valeur relative. 
+
+Extraction de données support pour d’autres extraction de données. Donc souhaite par exemple pouvoir les utiliser pour similarité. Dans Sharedocument/extraction un fichier JSON avec extraction et crop défini par valeurs absolues, etc. Bbox un encodage hexadecimal de ces crop. Une annotation au format de base utilisée par Yolo, aevc nom images et dimensions. Ceci pour les formats bruts.
+
+Idem pour les watermarks
+
+Possible de travailler avec l’API REST. Un fichier JSON avec informations minimales. Possible de communiquer un manifeste Bnf et un nom de modèle. Possible de lancer la requete CURL en donnant comme référence le JSON.
+
+API renvoie un id de l’expériment et un tracking ID qui permet d’obtenir un statut pour monitorer diverses tâches à distance.
+
+Document journal, clef données dans mon JSON. Document qui peut être soit un Zip soit un manifeste. Actuellement travaille sur la gestion des dataset pour pouvoir importer images, ou zip d’images. Annotations et images téléchargées. Annotation avec coordonnées.
+
+Pour les watermark idem, mais besoin chemin image. 
+
+Aussi possible d’utiliser les modules dépourvus d’interface graphique comme la recherche de similarité. JSON qui comprend un certain nombre de document. Similarité qui se calcule par paire de documents. Recherche dans les images extraites ce qui est comparable dans autre ensemble de documents.
+
+Matrices de similarité au format numpy, un format compressé pour des matrices. Indice de similarité cosinus. AUtres indices.
 
 http://www2.culture.gouv.fr/documentation/archim/Batim.html
+
+### DVT Distant-viewing toolkit
+
+https://github.com/distant-viewing/dvt
+
+Collection dataset et outils pour faciliter le travail sur les images mouvantes.
+
+Second tutoriel https://github.com/distant-viewing/dvt/blob/main/tutorials/Distant_Viewing_Tutorial_2_Network_Era_Sitcoms_and_Visual_Style.ipynb
+
+Essayé être très robuste dans le notebook. Montrer avec de pertits exemples comment travailler sur courte vidéo.
+
+Importance des plans pour comprendre la relation entre les personnages. 45’’ que va analyser de ce point de vue.
+
+Plusieurs formats avec lesquels possible de travailler. Enjeux échelle des corpus.
+
+DVT avantage de travailler sur des vidéos. Faciliter la vie.
+
+Analyse temporelle de la luminosité permet déjà d’identifier un certain nombre d’aspects.
+
+Pour détection des plans. Segmentation en pt morceaux. Seul à travailler nativement sur fichier vidéo. Sans production images individuelles.
+
+Produire ligne pour segmenter plan et déterminer longueur des plans pour avoir un sens d’à quelle vitesse viennent les plans.
+
+Pour simplifier un tableau pour travailler directement.
+
+Détection de visages. Voir qui est sur l’écran et avec qui. Gros plans, closeup, etc.
+
+Test de similarité avec produits matriciel.
+
+Quand travail avec grand corpus pas nécessaire de travailler sur ensemble des plans. Détection de scènes particulières. Réduire le temps de travail.
+
+Intéressant car contredit idée que l’une des émission copie l’autre.
+
+Beaucoup travaillé avec des photographies mais documentaires. Peu avec les images d’art. 
+
+Photogrammar débuté 2010.  https://lyonelkaufmann.ch/histoire/2022/07/03/photogrammar-un-laboratoire-derudition-numerique-sur-la-grande-depression/
+
+Première image sur laquelle travaillé, images art, pb identification.
+
+Aimeraient travailler plus de formes narratives.
+
+## DH Nord 2024
+
+### Discours introduction : « 10 ans de DHNord ! »
+
+*Philippe Useille (UPHF)*
+
+Sous la direction de Martine Benoît que la MESH a lancé DHNord en 2010. Des humanités numériques, des outils, des méthodes... Les directeurs successifs de la MESH ont continuement appuyé le domaine.
+
+Aspects méthodologiques et spécifiques au domaine. De plus en plus sujets contemporains ou réflexifs. 2016, théorie et critique. 2018 matérialité de la recherche en SHS. Collaboration entre acteurs, liens société, etc. Encourager la réflexion épistémologique et promouvoir la diffusion des connaissances et des pratiques.
+
+Donner du temps aux intervenants. Favoriser les échanges pour mieux identifier les problèmatiques pour le Colloque DH Nord 2025.
+
+### Search and Exploration of Documentary Photography Using Multimodal Large Language Models
+
+*Taylor Arnold et Lauren Tilton (Université de Richmond, Virginie, États-Unis)*
+
+Distant viewing. Photographie homme sur cheval et chien. Qu’est-ce que cette image ? que veut faire le photographie ? Quel message convoie ? Comment véhicule le message ?
+
+Processus d’interprétation des images. Paul Valéry décrit le processus d’interprétation des images comme « looking in other world forgetting the name of the things that one sees ».
+
+Comment ce système fonctionne-t-il ?
+
+Challenge pour penser computer vision. Série de pixels et array de nombres. Peuvent representer le même concept.
+
+Pourquoi si différent comme compréhension image. Exemple image de niveau de gris. Détail œil, sans contexte ?? si zoom out, contexte et comprénd image.
+
+Computer vision basé sur la visualité humaine. Il existe d’autres manières de voir dans le monde. Manière de voir une question de 
+
+Steve Anderson suggère de théoriser les technologies de vision de nouvelle manière. John Berger, Lisa Cartwright, Stuart Hall, Elizabeth Losh, Tara McPherson, Lev Manovitch, Marita...
+
+Pourquoi est-ce nécessaire ? Distant viewing une théorie de l’exploration computationnelle des images à travers l’application de la vision computationnel et pourquoi est-ce nécessaire ?
+
+- nature mimétique des images qui réclame analyse computationnelle parte de l’extraction de métadonnées sémantiques en utilisant la vision computationnelle
+- processus construction annotation médiévismes computationnellemeent comme forme de viewing
+- application de la vision computationnelle n’est pas un processus neutre, engage dans des manière de voir socialement médiée de voir et encoder dans algorithmes manières dont utilisées.
+
+Rmq
+
+Pas de di
