@@ -8,8 +8,6 @@ https://journees-dhnord2024.sciencesconf.org/resource/page/id/6
 
 *Modération: Philippe Useille (Université Polytechnique des Hauts-de-France (UPHF) - MESHS)*
 
-#### Introduction
-
 *Julien Schuh (Université Paris Nanterre - MSH Mondes)*
 
 Collaboration avec DHNord qui permet à PictorIA d’organiser une journée. Remerciements des acteurs. Quelques mots sur le consortium PictorIA. Consortium Huma-Num dédié à l’analyse automatique des images par l’utilisation d’outils de traitement automatique des images.
@@ -529,4 +527,378 @@ Pourquoi est-ce nécessaire ? Distant viewing une théorie de l’exploration c
 
 Rmq
 
-Pas de di
+Méthode distant viewing offre une approche pour spécifier ou interroger des méthodes poru l’exploration computationnelle des images à travers l’application de la vision computationnelle.
+
+1. annoter
+2. organiser
+3. explorer
+4. communiquer
+
+Qui a les données les plus Messing, nous. Pour cela que IA tellement important.
+
+Travail sur Documerica, 1972 à ...
+
+**Trois approches « classiques »**
+
+Trois manières passées de faire. Et présentation de la manière dont approche multimodale nous permettent aujourd’hui de travailler.
+
+Approche utilisant les métadonnées. Pour les photographies des métadonnées consistantes. Photogrammar fondée sur les métadonnées : localisation, photographe, etc. Archive et carte interactive. Desinstaller Photogrammar 170k images collectsion FSA-OWI.
+
+Utilisation ML supervisée. Détection objets. Exemple plusieurs manières de voir les bouteilles. Différents contextes.
+
+Image embeddings. Utiliser DL modèle et regarder comment fait la prédiction. Jusqu’à ce qu’obtienne prédiction. Dernier layer, utilisation de ces séquences pour décrire les images. Idée que peut utiliser ces séquences pour facilement détecter des objets dans les images et donc identiifer des similarités. Résultats phénoménaux. 
+
+Ne sait pas pourquoi similaire, à l’humain de comprendre pourquoi. Parfois saisit sur les objets, mais parfois aspects plastiques, texture ou matérialité de l’image.
+
+Exemple, images dont légendes très différentes. Mais même type de contenus.
+
+**Multimodal large Language Models (MLLMs)**
+
+Explainable clusters and tags. Plus proche de la manière dont nous interprétons les images. Mécanismes du prompt qui permet également de recontextualiser les images.
+
+#### Questions
+
+Faisons aussi des analyses formelles. Pas présenté aujourd’hui. Notamment analyse des plans : contre-plongée, etc. Travailler sur le cadrage. Selon le background, différents éléments.
+
+Partie théorie surtout question de la manière dont ordinateur voit les choses. Sémiotiques, plutôt un argument technique sur la manière différente dont l’ordinateur voit les choses.
+
+### Emmanuelle Bermès
+
+2017 Google met l’IA au cœur de son écosystème.
+
+Certains nombre d’acteurs considère alors que les technologies sont sufisamment matures.
+
+2019 considèrer que l’IA un sujet 
+
+2019 AI4LAM
+
+2022 ChatGPT
+
+Où en est-on aujourd’hui.
+
+Première chose que l’on observe avec ces grandes conférences, c’est un effet de balancier entre des enjeux d’expérimentations et de...
+
+Fantastic Futures, nom de la première conférence. Ensuite organisés dans différentes régions du monde et différentes langues. 2018, mais aussi 2023, plus sensibilisation et expérimentation. Retour à l’expérimentation en 2023 car irruption de ChatGPT.
+
+2021 et celle de Paris cette année plus du côté de l’implémentation. Comprendre comment stabiliser les experiementations faites. Démarche encore compliquée à construire.
+
+L’an 2 après ChatGPT (pas Kraken car outil HTR dans notre domaine). Ce qui ressort aujourd’hui la maturité certain nombre de modèles utilisés par tout le monde.
+
+- Chat GPT
+- Whisper 
+  Modèle de Meta pour speetch to text
+- Utralytics Yolo
+  Très utilisé pour la détection d’objets dans les images. Celui qui est utilisé dans le projet MAD.
+- OpenAI Clip
+  Beaucoup cité en 2024, un modèle multi-modal qui permet de faire de la recherche d’images via du texte. Modèle zéro shot utilisable pour indexer immédiatement un corpus d’images.
+- Florence-2
+  Microsoft, très performant
+- Llama
+- Mistral AI
+
+Grands modèles IA génératives qui font que voit émerger la notion d’archives conversationnelles. Un des cas d’usage qui émerge est celui d’une conversation possible avec les archives.
+
+RAG Retrieval Augmented Generation. Une méthode qui consiste à utiliser un LLM en la ciblant sur un corpus particulier. 
+
+ex. Chat Bot mis en place par la Bibliothèque du Luxembourg l’année dernière. Mise en place d’un workflow dans lequel la requête de l’usager est confronté à la base de document sous forme d’embedding pour identifier documents pertinents. Revoyé à un LLM qui combine un élément de réponse dans un prompt en se basant sur les documents pertinents du corpus. Permet de cibler sur quoi répond, par ailleurs capable de citer ses sources. Permet aussi de converser avec un agent capable de désigner le contenu des archives.
+
+Pose des questions de cas d’usage, mais également des questions de qualité. Pb hallucinations. Cette année Stanford a présenté lors de la conf AI4LAM un RAG concernant les archives de la Sillicon Valley avant la création d’internet. Permet de poser des questions du type pensez-vous qu’Apple aura du succès à l’avenir ! Il faudrait donc que les chercheurs se penchent sur ce genre d’outils pour savoir quoi en faire.
+
+Autre expérimentation proposée par JStor depuis 2023. Outil Béta dans JStor qui permet lorsque consulte un article intéressant, de demander à cet agent de résumer l’article ou d’en interroger le contenu.
+
+BookLM
+
+Pas seulement générer du texte. Il existe également des applications d’enrichissement des méatdonnées. Possible de créer ou enrichir des métadonnées. Mais également d’organiser des données. Corriger un texte (donc un OCR). Décrire une image (et éventuellement, interroger cette description).
+
+Pratiques arrivées dans les sujets de stage des étudiants TNAH
+
+Ne pas vous fier aux réposnes d’une seule IA. Besoin interfaces sensibles pour les personnes qui connaissent bien les collections pour déterminer si oui ou non les réponses sont pertinentes. 
+
+Dernier défi, intégration de ces modèles. MAD, BnfF Gallica, NFSA, TRove, National Library, British Library qui réflèchissent toutes à ces enjeux. Trove comme Gallica travaillent sur recherche d’images. Gallica moteurs analyse images pour extraires caractèristiques sémantiques ou visuelles. Trove choisit de passer par le texte. NFSA défi principal le temps de traitement. Traitement une année linéaire en 50 jours. Bristih Library OCR, HTR de langues à faibles ressources. https://www.nfsa.gov.au
+
+## Les projets innovants du Lab des Archives nationales de France
+
+*Florence Clavaud (Archives nationales - Centre Jean-Mabillon)*
+
+Création sepetmebre 2021. Sur la base d’un arrêté du 9 avril 2021, dans un contexte de réorganisation des AnF. Toute petite équipe au sein d’une direction de support chargée de la régie des fonds, de leur conservation, etc.
+
+Missions formulées dans les documents internes
+
+- chargé de coordonner les activités de recherche et de développement numérique
+- assurer un appui méthodologique et technique aux porteurs de projet
+- aide à la valorisation des projets
+- réalisation de projets dans ce domaine, souvent dans le cadre de partenariats
+
+Concrètement travail coordination en concertation avec la Mission pour la prospéctive, la stratégie et les relations internationales. Animation du comité interne R&D de l’institution. Séire de webminaire et ateliers depuis printemps 2024. Via le bureau du chapitre fracophone AI4LAM. Contribution à l’animation communauté d’intérêt.
+
+Activité significative à l’internationale sur standardisation.
+
+être pragmatique tout en définissant et en suivant une ligne claire. 
+
+- Mener de sprojets ou participer en tant que partenaire à des projets de recherche qui soient utiles à l’institution. En lui permettant d’explorer de nouvelles voies et solutions pour l’avenir de son SI et ses missions de médiation numériques. Faire monter des données de qualité. ...
+
+Testaments de Poilus (2017-2025). Projet emblématique. Au départ projet de recherche de Christine Nougaret. Projet d’édition participative. Financement de la Fondation des sciences du patrimoine. Projet très documenté. Premier projet d’échantillon. Création d’une plateforme d’édition collaborative à une époque où les projets collaboratifs florissaient mais avec des objectifs moins ambitieux que ceux que les AN s’étaient fixés.
+
+Très nombreux collaborateurs. Nouveau site web d’édition collaborative aux AN. Projet aujourd’hui terminé.
+
+Regrets et acquis de ces projets. Aurait souhaité pouvoir étendre le périmètre du projet. Pas été non plus possible de rendre la plateforme générique. Mais fournit une méthodologie globale de crowdsourcing qui ont nourri les projets d’indexation collaborative construite depuis.
+
+Produits corpus de fichiers TEI disponible sur GitHub et déjà réutilisée pour servir à constituer un des jeux de données d’entrainement référencés sur HTR-United.
+
+NER4Archives 2020- ... Named Entity recognition for archives. Objectif élaborer une méthode et mettre... Mené avec l’équipe Almanach. Mise en place de solutions annoattion et de classification automatique (Lucas Terriel). 2023-2024Continué avec opérations de liage des entités pour identifier les agents nommés et classifiés dans les métadonnées. Exploite le fait qu’une partie corpus soit sémantisé pour classer candidats afin de les aligner (Cécilia Graiff).
+
+Présentation mai 2024
+
+Limites de la SIV pour procéder. 
+
+Transitiond es métadonnées des AnF vers des graphes d’entités liées. Interface de travail. Limites constatées.
+
+### L’édition savante numérique : enjeux et perspectives
+
+*Joana Casenave (Groupe d’Études et de Recherche Interdisciplinaire en Information et COmmunication (GERiiCO) – Université de Lille)*
+
+Définir édition critique comme la mise à disposition d’un texte à un lecteur qui, sans le traavil de l’éditeur serait ) sa soustrait à sa connaissance. Texte accompagné d’un appareil de notes. Texte présenté dans une version qui puisse faire autorité.
+
+Peut exister d’autres éditions représentant autre discours d’autorité sur ce même texte. Peut donc exister plusieurs versions parallèles. Entend comme édition critique dans sa conception philologique, contexte de préparation et d’annotations du texte.
+
+Comment les philologues opèrent leurs éditions mais aussi la justifient. Exploré les fondements du paratextes pour isoler trois concepts fondamentaux qui structurent la démarche philologique :
+
+- autorité : valeur de référence et garantie scientifique
+- fidélité : conformité à un modèle et fiabilité d’une méthode
+- exhaustivité : gestion de la documentation et modalités de sélection
+
+Ensemble de choix opérés en fonction de ces notions.
+
+Plusieurs formes d’autorité dans les éditions critiques. 
+
+- celel du ms de base
+- méthode philologique (qui sont diverses)
+- autorité de l’édition
+- autorité de l’éditeur
+- autorité de la maison d’édition ou de la collection
+
+Formes qui posent des questions d’auctorialité mais aussi d’évolution dans la version numérique. Toujours la même question : quel ms présente meilleure version, quelle méthode mieux adaptée, dans quelle collection...
+
+Mais on constate également des évolutions très tranchées qui sont notamment liées au fait qu’on assiste à une évolution notable du travail et du rôle des éditeurs. Les éditeurs plus les seuls auteurs. Évolution aussi des fonctionnalités et émergeance du corps auctorial composé de chercheurs, d’éditeurs, mais aussi d’infromaticiens mais également des lecteurs qui peuvent participer de manière plus ou moins prégnante à l’édition. Collaboratif, mais même dans les éditions terminées, corps auctorial fondé sur la contribution et la participation qui pose des questions d’autorité. Comment reconnaît contribution. Dissolution rôle auteur qui pose diverses questions notamment d’évaluation de l’édition critique numérique. Obtient-elle le même niveau de reconnaissance que les éditions sur papier.
+
+Voit de nouvelles formes d’évaluation. Notamment évaluation par les pairs en amont. Évaluations classiques qui portent le plus souvent sur la forme plutôt que le fonds pour les éditions numériques. Pose la question du niveau de reconnaissance par les chercheurs.
+
+Par ailleurs, ces évolutions sont évolutives. Or, une grande différence par rapport aux éditions papier. Question documentation des mises à jour pour citation. Exemple de l’édition de Walt Whitman et blog de mise à jour.
+
+... enjeux primaires et secondaire dans l’édition numérique. Important de pouvoir développer documentation primaire et documentation secondaire. Remarque que deux documentations qui peuvent être mêlées.
+
+L’exhaustivité dans l’édition numérique qui est de plus en plus présente, en essayant de rendre visible le processus d’édition et les sources primaires. De même processus d’acquisitions des connaissances ouvertes sur l’extérieur dans la publication. Liste de référencement dans l’édition numérique elle même. Enjeu de la gestion de la profusion documentaire. Comment ne pas noyer le lecteur dans une documentation trop abondante. Y répond un impératif d’organisation. On organise le matériau mais aussi le discours qui l’accompagne.
+
+L’édition critique qui peut être considérée selon le schéma classiqeu de la communication Jacobson, etc. Texte à éditer (contexte ou référent). Site web (canal). Corps auctoriel (émetteur) Documentation critique et secondaire (message) – Lecteur (Destinataire). Norme méthodologiques, règles d’édition instituées par l’éditeur, outils et fonctionnalités, parcours de lecteur (Code).
+
+Discours critique que l’éditeur convie au lecteur. Plusieurs étapes pour transmettre ce discours, classer la documentation et hiérarchiser l’information. Il y a donc un ordre et on construit un discours qui mobilise tous ces objets avec l’intérêt de transmettre un discours. TRansforme en didactisation, mise en place d’un parcours de lecture.
+
+Il y a une importance particulière données à la trame narrative, à la scénarisation. Donne l’illusion au lecteur de croire qu’il est acteur. Pourtant ensemble des choix encodés en avance. Didactisation : comment mettre l’information à la portée de l’utilisateur. Voit donc une prise en compte de la réception : l’édition comme discours orienté vers le destinataire.
+
+Conclusion
+
+Problèmatique prope à l’édition numérique : hétérogènéité et manque de normalisâtion des plafeformes. Or, devrait pouvoir s’appuyer sur ce qui fonctionne et existe déjà. Important car les éditions critiques numériques conservent au fil des années des mêmes modes de présentation. Si on peut ajouter des chapitres ou des documents, s’aperçoit que les modes d’organisation de l’information ou les parcours proposés aux lecteurs restent fixes.
+
+Il est donc d’autant plus important e de réfléchir de manière approfondie à la didactisation de l’information et à la structuration du contenu dans les pages web dès le début de la conception des sites. C’est à l’équipe éditoriale dans son entier, c’est au corps autorial dans son ensemble d’engager cette réflexion.
+
+### Discussion
+
+Comment contrôle distribution des formes. Avec IA dissolution rôle auctorial. En même temps souvent ne prend pas en compte rôle ensemble petites mains. Mais là changement radical car plus rôle contrôlé quand devient des poids dans des réseaux neuronaux. Change radicalement manière dont le savoir transmis.
+
+Du point de vue des bibliothécaires, deux paradigmes d’usages qui ne devraient pas changer : réponses à des questions qui ne devraient pas nécessairement passer par des supports de documents. Peut simplifier en répondant directement. Autre paradigme, celui de la recherche et des savoirs, enjeux de traçabilité et de transparence de l’information. Explicabilité qui permette de déterminer comment arrive à des conclusions. Principe de la science. D’où question des RAG et de leur utilisation pour les chercheurs. Absence explicabilité problèmatique.
+
+Moi : question individuation et fausse transparence. 
+
+Faire plus de place dans l’enseignement et la recherche à des approches sensibles, émotionnelles, ou encore de recherche création. À cet égard ce que font les artistes dans ce domaine est très inspirant. Si tout ce qui est rationnel et calculable peut être fait par les machines. Si machine capables de produire des textes d’idée efficaces, que se passe-t-il dans nos disciplines pour l’évaluation ? Pourquoi estime-t-on qu’il est important qu’ils soient capables par eux-mêmes d’écrire un texte. En quoi cette pratique est-elle importante. Redonner du sens dans l’enseignement et la nature des exercices que l’on demande.
+
+Patrimoine et temps long. Ce dont a parlé surtout des logiques de projets. Quelles sont les évolutions prévisibles dans ces secteurs en termes d’effectifs. Quelles évolutions pour la formation en termes de débouchés ?
+
+### HNLab
+
+Adam spécialité
+
+Isidore 2020. Un cadre de travail pour adapter l’IA à nos besoins. 14 ans que ce dispositif socio-technique fonctionne. Réflexion Low tech, arrêter de mettre des CMS partout et processus réécriture. CREN Université de Montréal et CRIHN. Coproduction outils Stylo. Outil écriture appareillé pour les sciences humaines et sociales, vocation rejoindre Isidore pour faciliter écriture bibliographie, etc.
+
+Comment ofrger des outils frugaux à l’heure des GML ? Quel modèle de fonctionnement minimal quand peu de données pour le structurer ou le mettre dans un RAG. Ensemble de réflexions que publie et dont fait des notes sur Zotero.
+
+Stratégie de recherche qui est en train d’être formalisée. Essai de prise de recul sur les travaux actuellement menés.
+
+RAG mise en place de hackathon. Formalisation d’un POC
+
+4 principes
+
+- innovation par l’usage, intégration continue des besoins des chercheurs et des communautés SHS.
+- forte dimension recherche SHS & informatique : interdîsciplinarité, besoins particuliers
+- Développemnt internet et expériemnation agiles : modélsiation
+- industrialisation co-construite en externe : LabCom, Premat’
+
+Rag permet de garder conrtaole LLM
+
+conceptualiser les requêpets sur des corpus spécifqieus
+
+Lutte contre les hallucinations 
+
+augmente pertinence, la cohérence, l’explicabilité et surtout l’interpréation
+
+Corntôle r
+
+approches frugales
+
+Problématiques : Voies de recherche ouvertes par inclusion IA. Qu’ouvre comme applications de recherche. Offre de nouvelles vues et interprétations. Comment articule à des méthodes computationnelles classiques.
+
+RAG combine modèle de recherche information et un modèle de génération de texte.
+
+TRois étapes fondamentales : indexation, récupération puis génération du texte.
+
+Dans la première phase encode la requête. Projection espace sémantiques. À partir de la question, recherche des résultats pertinents dans le corpus en fonction de votre requête. Fournir le contexte. 
+
+Corpus NIPS sur l’IA en libre accès 1984 à 2018. 7 200 documents. Est-ce qu’avec un corpus d’une telle volumétrie peut obtenir des résultast pertinents ? Peut-être avec mesure de similarité ou bien plus pertinents avec corpus stylés par des prismes d’entrée.
+
+Détection réseau auteurs, analyses diachroniques. Premières entrées sur le corpus et sous-corpus maîtrisés et connus de l’utilisateur. Permettent une exploitabilité sur corpus plsu spécifique.
+
+- relations entre les auteurs
+- relations entre les articles (détection communautés de recherche)
+- sémantique des articles
+- analyse diachroniques nouveaux concept qui apparaîssent ou disparaissent
+- intérêt pour la lexie
+
+Multiplie prisme entré avant appliquer RAG. Cluster qui nous semblent pertinents.
+
+Détection de communauté. TF-IDM et clustering.
+
+Création sous-corpus maîtrisables connus des utilisateurs. Explicabilité des résultats grace au contexte. Forme interprétation possible plutôt que ChatGPT. Réduction aspect boite noire et frugalité des modèles.
+
+Utilisation Llama 1b?? et 8b
+
+Intégration presque terminée, veut expérimenter impact fineTuning sur les domaines. Utilisateur au cœur du système comment designer interface.
+
+**Une méthode plus rapide pour segmenter des imaegs en utilisant...**
+
+Deuxième axe. Chaîne de segmentation, idée de récupérer des images dans le domaine SHS. Segmentation, classification et identification. 
+
+- Récupération des images dans les corpus de recherche
+- Identifciation de motifs, d’images spécifiques
+- Annotation et récupération de ces imaegs
+- « Récupère-moi l’ensemble des représentations d’éléphants... »
+
+Permet d’explorer des corpus d’images ou articles comprennant des images. Ensemble d’annotations effectuées à la main pour ensuite repérer un modèle IA. Ce qu’a essayé de faire, c’est accélérer ce processus. Dans le labo essaye de partir de cas de recherche. Ici en HA, repérer sur des sculptures différents motifs. 
+
+Assez laborieux. Dans ce cas, traitement bdd, uniformisation, annotation, etc. Puis étiquetage. Ce que l’on a fait, c’est essayer de s’intéresser à du travail en IA. Intedisciplinaire, avec Léa Maronnet. Avec elle, établir une chaîne de segmentation. Utilisation de SAM, qui permet de faire beaucoup plus rapidement le repérage des motifs. Puis avec transformeur vision, rassembler les motifs.
+
+Un autre article l’ayant fait dans un autre domaine montrant que processus 100 fois plus rapide. Offre également beaucoup plus de possibiltés en termes de segmentation. Des masques classifiés avec du clustering. Les masques ayant une similarité jugée...
+
+Reste à généraliser sur un plus grand nombre d’images. Utiliser pré-traitement pour nettoyer. Limitation actuelle à des cas plus faile. Urbaniser chaînes de traitement pour faciliter usage.
+
+Dissémination
+
+RAG pour Isidore et Nakala comme epxloration interactive des bdd et constitution de corpus scientifiques. 
+
+Chaine de segmentation comme description de bdd images
+
+Ouverts autres collaborations
+
+## Panel "Acteurs, projets et nouvelles perspectives de recherche"
+
+*Modération: Nicolas Genis (Histoire, Archéologie et Littérature des Mondes Anciens (HALMA) – Université de Lille)*
+
+### Faire collaborer les acteurs des données de la recherche : retour d’expérience de l’atelier de la donnée Lille Open Research Data LORD
+
+*Alicia Leon y Barella (Service Commun de Documentation (SCD) - Université de Lille) et Valentin de Craene (MESHS – CNRS)*
+
+Enjeux du travail en commun autour de cette question des données de la recherche. Thématiques transversales à DH Nord, à travers le travail quotidien des acteurs de la données. Nombre d’acteurs des données de la recherche ont pris à bras le corps cette question de la science ouverte. 13 MSH se sont dotés de services. Certains services communs de la documentation ont aussi ajouté la mention.
+
+Analyse du travail collaboratif. Reprise de la notion de science ouverte telle qu’elle est définie par les plans nationaux. Diffusion des résultats sans entraves. Pas attendu 2018 et première plan national de la science ouverte pour être introduite dans les pratiques de recherche. Dacos dans *Des mains sur les épaules de géant* fait la filiation.
+
+- 1991 ArXiv
+- 2001 HAL
+- 2002 Budapest OAI
+- 2003 Déclaration Berlin
+- 2016 loi pour la république numérique 
+- 2018-2021, plan national science ouverte
+- 2021 Recommandation de l’UNESCO sur une science ouverte
+
+Pilotage de la recherche. Élargissement de la notion depuis la publication à politique publique des données.
+
+- Rapport Bothorel « Pour une politique publique de la donnée », décembre 2020
+- Politique des données des algorithmes et des codes sources du MESR 2021-2024
+- Création de Recherche Data Gouv en 2022
+  - outils techniques
+  - et formes d’accompagnement des équipes de recherche, centres de références thématiques : Huma-Num et Progedo. Maillage d’accompagnement généraliste avec les Ateliers de la donnée.
+
+« Alléger le fardeau de la donnée pour les équipes de recherche » en organisant un point d’accès unique pour les chercheurs et les jeunes chercheurs. Faire en sorte que derrière figurent tous les métiers dans une idée de mutualisation des compétences et des approches métier.
+
+Question de l’apprentissage du travail en commun. Question qui nous précède à la MSH et dans DHNord.
+
+Atelier de la donnée. Modération vers des entrepots de qualité.
+
+Perspectives pour l’atelier de la donnée. Co-construire l’évolution de nos services. Création site web. Respecter les périmènes géographiques, disciplinaires et institutionnels. Organiser des rencontres communes pour faire connaitr enotre accompagnement.
+
+### eCorpus : une solution Open Source et collaborative pour la gestion et l’éditorialisation d'objet 3D à l’usage des chercheurs et professionnels du patrimoine
+
+*Elise Bailleul, Mathieu Beaud, Marc Gil (Institut de Recherches en Sciences HIstoriques du Septentrion (IRHiS) - Université de Lille) et Thibault Guillaumont (Holusion)*
+
+DoMA Intégration de Données...
+
+Projet eThesaurus CPER MALIVE 2018-2023 porté par Pierre Gilles, etc. et équipe de chercheurs universitaires. En première lieu un projet d’histoire de l’art qui prenait position dans le domaine des techniques de fabrication de l’objet orvévré dans l’Europe du Nord. Ce faisant pris position sur deux assises technologiques en particulier : 1° adapter le protocole de numérisation en l’adaptant à l’orfèvrerie : pb transparence et réflexance. Résolu avec des filtres de lumières polarisées croisées avec succès. 2° développer une solution logicielle qui puisse répondre au besoin de manipulation des modèles. Stockage au même endroit et conservation. Application eCorpus développée en OpenSource par IE puis par la société Ollusion à partir d ’un viewer de la Smithonian.
+
+À la suite de ce projet qu’est né le projet DoMA avec un soutient CPER Enhance. Idée de pouvoir développer des outils développés pour un projet portant sur les arts monumentaux et pratique de la reconstitution par anastylose. Portée par Elise Baileul et Mathieu Beaud. Projet porté par la possibilité de sémantiser le modèle. Intéroge l’outil corpus dans sa possibilité de manipuler et visualiser le modèle 3D.
+
+Application qui en plus d’être une bdd offre solution de manipulation et visualisation. Le modèle 3D est implanté dans une scène qui rend possible sa manipulation. Objet présenté dans un environnement 3D où possible de modifier les contexte lumineux ou spatiaux. Aussi possible d’ajouter de la documentation à plusieurs niveaux pour enrichir le modèle. Ensemble de données de la scène structurés et décrites dans un fichier JSON. .glb, . .html, .etc --> JSON
+
+Plsueirus niveaux de description : métadonnées, annotations, articles. Enfin possible de construire une visite guidée de l’obejt en couplant annotation etc. https://ecorpus.eu traçabilité, export différents formats.
+
+Intérêt du logiciel pour faire de la médiation. Il s’agit de le faire évoluer pour être utile au chercheur. Visualisation et décentralisation. Permet accès rapide à la visualisation des fichiers 3D et permet conservation fiable et sécurisée. Intéressés par son potentiel d’enrichissement sémantiques pour documenter les objets. Surtout appliqué jusqu’à présent orfèvrerie. Aujourd’hui diversifier les objets d’étude en passant à l’échelle monumentale. Idée de la rendre utile au travail d’anastylose monumentale où il s’agit d’assembler des vestiges mais aussi de compléter les éléments manquants.
+
+Idée venue de la possibilité offerte pas l’application d’associer plusieurs modèles dans une même scène. Alors possible d’utiliser ces éléments dans un contexte d’anastylose numérique. Que pourrait apporter ? Travail de remontage et souvent de complétude monumental, pose souvent le problème de l’interprétation. Souvent propose une image qui pourrait paraître certaine, or réducteur par rapport à la diversité des hypothèses, etc.
+
+On voudrait ici pouvoir ajouter des choses et tt l’intérêt. Pour le moment, ne peux pas passer étape... mais voudrait proposer environnement collaboratif et ajout de la possibilité d’annotations dans les corpus. Et scénarisation qui permettrait de pouvoir présenter de manière guidée plusieurs hypothèses envisagées et états de la restauration.
+
+Première étape de travail déjà réalisé sur le portail démambré de l’église de Corbeil. Conservé dans plusieurs lieux. Travail avec Archéovision pour produire des images fixes et un état définitif de restitution. Actuellement travaille à décomposer les éléments et la démarches pour travailler à ces possibilités de reconstitution. Plusieurs nœuds simples à retravailler : échelle et décalage. Verra si peut arriver à une solution suffisamment conviviale pour le travail des historiens de l’art. Voir jusqu’où arrive à pousser le travail et présentation sur mesure pour ce type de travail.
+
+Suite du projet conssitera à pouvoir s’emparer d’un objet d’étude du début à la fin : portail Ancienne abbatiale Arbous. Fonds lapidaire qui présente nbx avantage. Bien conservé, entièrement inventorié. Restaurations importantes ayant produit données d’analyses. Et déjà proposition de restitution graphique en 2D. Unité monumentale du 12e s. Bon candidat pour perfectionner l’usage. Partenariat pour mise en œuvre de tt cette chaîne opératoire en utilisant les possibilités d’eCorpus. 2025 acquisition du corpus, laserométrie et photogrammétrie. Rassemblement des données de recherche. Travail de restitution dans logiciel 3D. eCorpus ensuite utilisé comme bdd pour le stockage (documentation, gestion et partage). Puis intégration des données de recherche existantes. Enfin utilisé pour la présentation d’un rendu final qui pourrai être utilisé comme publication scientifique.
+
+Questions de droits et de licences. Dès cette première étape confronté à ces questions à tts les étapes du projet.
+
+2023-2024 projet expérimental avec étudiants de L3. Numérisation au musée avec [Scaniverse](https://scaniverse.com) pusi dans eCorpus. L’année prochaine avec la piscine de Roubaix, déploiement du cours pour enseignement à distance. Premier bénéfice pour HA, rendre à l’œuvre le regard long qu’elle mérite. Besoin de regarder l’œuvre et anticiper la volumétrie. Expérimenter un type de restitution de l’œuvre. Un problème ancien pour le travail de l’historien de l’art qu’il s’agisse, de gravues, de photographies, ou de modèle 3D. Plus riche mais pas l’œuvre. Autre aspect, restituer les connaissances sur l’œuvres plutôt que dans une dialectique linéaire. Difficile de penser selon plusieurs axes de lecture. D’un point de vue pédagogique, plusieurs points intéressants. Chaîne de mise en œuvre et logiciels open source. Récupération formats de fichiers récupérables, etc.
+
+Sur la littératie numérique, travail collaboratif. Mis à plusieurs pour stimuler les projets. Ne travaillent qu’en salle.
+
+### Projet PERARTEM : modéliser, structurer et enrichir une base de données pour la presse est-allemande avec Heurist
+
+*Carola Hähnel-Mesnard, Gabrielle Desmet (Analyses littéraires et histoire de la langue (Alithila – Université de Lille) et Valentin de Craene (MESHS – CNRS)*
+
+Idée de pouvoir se consacrer à Sonntag, journal culturel hebdomadaire fondé en 1946 par l’union culturelle pour le renouveau démocratique de l’Allemagne. Une mine pour les articles consacrés à la littérature, arts et théâtre. Architecture, culture au quotidien et politique culturelle évidemment. Tirage de 20 000 ex. Un format stable de 12 pages. Existé jusque dans les années 90. Refondé grâce à la fusion avec journal ouest allemand en 1990 --> Freitag.
+
+Grand corpus. Pré-projet pour déposer un projet ANR dans le cadre projets franço-all.
+
+Numérisation par ART Lille échantillon de 2 années, 1977 et 1989. Collaborâtion avec le Fonds Cadist RDA Nouveaux Lander.
+
+Résultats numérisation.
+
+Modélisation et structuration avec un modèle conceptuel pour la base avec Heurist. Efforts concentrés sur la table des articles. Table des auteurs et dates. Œuvres traitées. 63 articles pour 52 aueturs et 28 journalistes.
+
+Question des titres constitutifs, quelles bonnes informations mettre en avant ?
+
+Première exploitation des résultats. Question émissions radiophoniques.
+
+Fonctionnalité de Heurist ...lookup pour bénéficier référentiels pré-enregistrés. Mais le nombre d’API accessible reste en partie limité. Pas accès DNB. Enrichissement a posteriori des informations. Utilisation API SRU permet de récupérer réponse API sérialisée en XML.
+
+https://www.bnf.fr/fr/service-sru-catalogue-general-de-la-bnf
+
+
+
+### Question
+
+Comment envisagez-vous de traiter les annotations pour qu’elles puissent être inteopérables et bien documentées (utilisation référentiel, etc.). Quid IIIF et Open Web Annotation. Cf. Kompakt (choix Voyageur)
+
+Travaillent sur plusieurs projets en même temps. Projet Voyageur impliqué sur les questions de IIIF. Normalement devraient également intégrer IIIF. Se donne la possibilité pour les scènes 3D d’utiliser d’autres outils qui ne seraient pas forcément 3D, comme Potery pour nuages de points, etc.
+
+Collaboration avec musée d’archéologie nationale. Roadmap DPO-Voyager pour ajouter des couches représentation différentes (infra-rouge, etc.). Bénéficierait ici d’imagerie. https://smithsonian.github.io/dpo-voyager/
+
+Résultats OCRisation très bon, pas de mélange des colonnes. Oui possible réintégrer en TEI pour édition. Utilisation Tesseract sur du contemporain.
+
+SRU car déjà une pipeline.
+
+PGD qui permettent déjà de faire prendre conscience d’éléments de bonnes pratiques. Important mais arrive souvent un peu tard. Souvent quand nous sollicite, le projet déjà bien lancé. Là où le plus utile pour voir la mise en conformité des projets et l’adoption de bonnes pratiques, surtout lorsque l’on nous demande des accompagnements en phase de montage de projets sur les volets sciences ouvertes. Permet de prendre en compte ces enjeux dès le début du projet et nous évite à devoir gérer un passif. 
+
+Question situation par rapport Consortium 3D. Beaucoup apporté dans le projet eThesaurus. Quelle ariculation avec LORD ? Au sein de l’atelier pas de formation 
