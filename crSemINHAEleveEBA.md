@@ -47,7 +47,7 @@ L’objectif de l’ensemble de la chaîne est de pouvoir sortir des données re
 
 Noter qu’un important de travail mené manuellement.
 
-Pour la réconciliation utilisation de différentes variables de réconciliations. Fait pour les élèves. Un algirithme de réconciliation amélioré
+Pour la réconciliation utilisation de différentes variables de réconciliations. Fait pour les élèves. Un algorithme de réconciliation amélioré
 
 Corrections de problèmes de l’API existante
 

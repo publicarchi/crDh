@@ -871,7 +871,7 @@ Comment y avoir accès ? appels réguliers projet intervention. Demandes d’acc
 
 ### The JPI Cultural Heritage and Global Change
 
-Pascla Liévaux, HA. Spécialiste architecture Fr AR. Université de Tours, puis pilotage de la recherche. Premier psdt FSP. Très impliqué programmation de la recherche en Fr et en Europe.
+Pascal Liévaux, HA. Spécialiste architecture Fr AR. Université de Tours, puis pilotage de la recherche. Premier psdt FSP. Très impliqué programmation de la recherche en Fr et en Europe.
 
 Apport d’une approche conjointe au niveau européen des recherches sur le patrimoine de longtemps reconnue.
 
@@ -879,13 +879,13 @@ Initiative de programmation conjointe... créée il y a une 15aine année sous l
 
 20aine de pays européens. Certains membres, d’autres observateurs.
 
-Objectif faire en sorte que la recherche sur le Patrimoine culturel soit accès sur les enjeux contemporains (chgmt climatique), mais aussi leur impact sur la société qui justifie les efforts que met à ce sujet. Améliorer au niveau européen la capacité à transmettre le patrimoine matériel.
+Objectif faire en sorte que la recherche sur le Patrimoine culturel soit accées sur les enjeux contemporains (chgmt climatique), mais aussi leur impact sur la société qui justifie les efforts que met à ce sujet. Améliorer au niveau européen la capacité à transmettre le patrimoine matériel.
 
 Carte des membres.
 
 Objectif de faire converger les objectifs de recherche sur le PC et identifier des problématiques communautaire. Enjeu du changement climatique pour la conservation et ce que peut apporter en matière de développement durable.
 
-Gros lobbying pour obtenir un partenership. Permet aux pays mettre investissement plus important et complément 30% Commission européenne pour consolider workshops, mise à niveau, etc. Prosoposition pour un partenariat résillient du patrimoine culturel. 
+Gros lobbying pour obtenir un partenership. Permet aux pays mettre investissement plus important et complément 30% Commission européenne pour consolider workshops, mise à niveau, etc. Proposition pour un partenariat résillient du patrimoine culturel. 
 
 Budget espéré 200 à 300M€ pour 7 ans. Là encore apporter un soutien pérenne sur plusieurs années à ces recherches pour permettre de mieux faire face à ces problématiques et mieux transmettre notre patrimoine culturel. 
 

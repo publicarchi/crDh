@@ -1,8 +1,15 @@
+---
+date: 2023-04-25
+tags: INHA, Wikidata, Open Access
+---
+
 # Culture et numérique, 25 avril 2023
 
 Martine Denoyelle, INHA, 4e journée, la deuxième à l’INHA. Dédiée à l’Open Content.
 
 <https://meta.wikimedia.org/wiki/Journée_Wikimedia_Culture_et_Numérique_2023/Programme>
+
+## Introduction
 
 Cette journée permettra de mesurer l’engagement de Wikipédia et les partenaires de l’observatoire de l’Open Content. Journée autour de la restitution du rapport de l’agence Phare et Wikipédia France. Aujourd’hui passe à une phase d’incitation et de promotion avec la création du Label Open Content.
 
@@ -16,16 +23,16 @@ Apprendre, partager, découvrir et se rencontrer. Journées importante pour l’
 
 Un aspect de niche car concerne surtout l’open data des images. Mais aussi quelque chose qui parle à tout le monde car on parle des images accessibles à tous les publics. 
 
-Inspiré par l’observatoire de l’Open Data mais constaté que les images toujours sous redevances. Possibilité de la loi Walter. Important de pouvoir lever le blocage des redevances.
+Inspiré par l’Observatoire de l’Open Data mais constaté que les images toujours sous redevances. Possibilité de la loi Walter. Important de pouvoir lever le blocage des redevances.
 
 Le principe de l’Open content, c’est un partage de tous les contenus sans contraintes, y compris commercial. Craintes non justifiées car il y a une valeur d’usage de ces contenus.
 
 Concrètement diffusion des images d’œuvres en bonne définition sous licence libre (usage commercial compris)
 
-- 2015 loi Walter, exception pour le secteur culturel qui ouvre la possibilité de redevances
-- 2016 loi Lemaire pour la république numérique, qui acte open data
-- 2018 Rapport images usages de l’INHA
-- 2018 Survey Europeana on open glam policies
+- 2015 : loi Walter, exception pour le secteur culturel qui ouvre la possibilité de redevances
+- 2016 : loi Lemaire pour la république numérique, qui acte open data
+- 2018 : Rapport images usages de l’INHA
+- 2018 : Survey Europeana on open glam policies
 
 Chronologie rapide
 
@@ -231,7 +238,7 @@ L’audience numérique globale du musée. Essaye de mesurer l’optimisation po
 
 Cette conviction que notre collection ne nous appartient pas mais appartient au monde. Belles expositions réalisées par les conservateur, mais aussi Rijks Studio permet de comprendre ce que les gens aimaient. Crise de la COVID qui nous a également permis de mieux comprendre l’intérêt de l’ouverture.
 
-Ouvrrir la collection aide réellement le marketing, car les gens connaissent déjà ces images ainsi possible de conversion plus rapide. Nous croyons dans la conversion à long terme.  Espère que les gens voudraient un jour voir les objets de leurs propres yeux. Quelque chose de très positif.
+Ouvrir la collection aide réellement le marketing, car les gens connaissent déjà ces images ainsi possible de conversion plus rapide. Nous croyons dans la conversion à long terme.  Espère que les gens voudraient un jour voir les objets de leurs propres yeux. Quelque chose de très positif.
 
 Contrôle quelque chose que ne peut jamais atteindre. Aujourd’hui avec les RSN les gens souhaitent développer leurs propres contenus. Alors possibilité de rendre les gens plus engagés avec leurs collections. Une manière positive de faire ça.
 
@@ -258,7 +265,7 @@ Comme en conférence toute la journée, faire un séjour à travers les licences
 
 Wikimédia France véritable moteur auprès des institutions.
 
-**Le droit d’auteur est automatique**. Dès la création d’uen œuvre originale **tous les droits sont réservés** à son créateur ou à son cessionnaire. Cela signifie qu’il faut demander une autorisation au titulaire des droits pour reproduire, traduire, modifier, communiquer (liste non exhaustive) son œuvre.
+**Le droit d’auteur est automatique**. Dès la création d’une œuvre originale **tous les droits sont réservés** à son créateur ou à son cessionnaire. Cela signifie qu’il faut demander une autorisation au titulaire des droits pour reproduire, traduire, modifier, communiquer (liste non exhaustive) son œuvre.
 
 À cause de cet automatisme que l’on a vu l’apparition ces dernières années des licences volontaires qui se proposent de trouver une alternative à la demande d’autorisation des droits. Comme le droit d‘auteur est automatique, il devenait nécessaire de trouver une alteernative pour les œuvres pouvant être diffusées ou modifiées par l’utilisateur.
 
